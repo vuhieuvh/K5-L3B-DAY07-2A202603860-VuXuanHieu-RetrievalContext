@@ -1,0 +1,145 @@
+[
+  {
+    "query_id": "D01",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 5 tr. 4 xác nhận tích lũy học phần tiên quyết trước khi học học phần yêu cầu."
+  },
+  {
+    "query_id": "D02",
+    "context_grade": 0,
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Context mở rộng có quy trình khóa luận và định nghĩa giờ tín chỉ, nhưng thiếu định mức 5–10 tín chỉ ở Điều 5."
+  },
+  {
+    "query_id": "D03",
+    "context_grade": 1,
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Các đoạn Điều 8 tr. 7 và Điều 21 đề cập đến tín chỉ hoặc thu phí, thiếu quy tắc hai cách nộp ở Điều 8 tr. 6."
+  },
+  {
+    "query_id": "D04",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Ngân sách lớn giữ Điều 11 tr. 10 trong context. Đủ cả năm khối và có citation trực tiếp."
+  },
+  {
+    "query_id": "D05",
+    "context_grade": 2,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Điều 13 tr. 11 có bậc 3 ở điểm a. Model chỉ in ký hiệu b), ứng với đối tượng khác."
+  },
+  {
+    "query_id": "D06",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 17 tr. 14 xác nhận 8 học kỳ chính của chương trình cử nhân chính quy."
+  },
+  {
+    "query_id": "D07",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 17 tr. 14 xác nhận hệ vừa làm vừa học dài hơn tối thiểu 20%."
+  },
+  {
+    "query_id": "D08",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 20 tr. 17 đủ hai giới hạn 15 giờ/tuần và 4 giờ/ngày."
+  },
+  {
+    "query_id": "D09",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 21 tr. 19 yêu cầu đăng ký học lại học phần bắt buộc bị điểm F."
+  },
+  {
+    "query_id": "D10",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 21 tr. 19 ghi học lại hoặc chọn học phần tự chọn thay thế trong cùng khối."
+  },
+  {
+    "query_id": "D11",
+    "context_grade": 2,
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Điều 23 tr. 21 chứa cả nhận điểm F và không trả học phí, nhưng model từ chối nhầm."
+  },
+  {
+    "query_id": "D12",
+    "context_grade": 0,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Đoạn được dẫn thuộc Điều 27, không phải Điều 28. Câu trả 3,0 sai. Chunk Điều 28 hạng 5 không vào context."
+  },
+  {
+    "query_id": "D13",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 28 tr. 28 xác nhận sinh viên đã học từ năm thứ hai không được xem xét chuyển ngành."
+  },
+  {
+    "query_id": "D14",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 30 tr. 30 liệt kê cả thực nghiệm khoa học và đồ án tốt nghiệp."
+  },
+  {
+    "query_id": "D15",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điều 32 tr. 31 xác nhận chỉ cộng điểm một lần theo giải cao nhất."
+  },
+  {
+    "query_id": "D16",
+    "abstention_correct": false,
+    "citation_support": [
+      false
+    ],
+    "reason": "Agent lặp lại định nghĩa định mức ở Điều 8 tr. 7, thiếu số tiền và thiếu thông báo không đủ bằng chứng cho ngành Luật."
+  },
+  {
+    "query_id": "D17",
+    "abstention_correct": true,
+    "citation_support": [],
+    "reason": "Agent từ chối và không đoán email của trung tâm."
+  }
+]

@@ -1,0 +1,155 @@
+{
+  "trace_sha256": "beb3d6ea7204a8f7f45120da2e255b6815e1f3d5f68dd347762b7f0986722b95",
+  "labels": [
+    {
+      "id": "T01",
+      "passed": true,
+      "reason": "Dòng Đất giáo dục ở bảng hiện trạng tr. 18 ghi 33,15 ha. Câu hỏi đã chỉ định đơn vị ha."
+    },
+    {
+      "id": "T02",
+      "passed": false,
+      "reason": "Bảng hiện trạng tiếp sang tr. 19 và ghi 50,89%. Agent dẫn bảng theo ô đất tr. 84 và lấy nhầm 1,11%."
+    },
+    {
+      "id": "T03",
+      "passed": true,
+      "reason": "Dòng Nhà thờ Quyết Tiến ở tr. 25 ghi 970 m². Câu hỏi đã chỉ định đơn vị mét vuông."
+    },
+    {
+      "id": "T04",
+      "passed": true,
+      "reason": "Ở tr. 118, giao điểm dòng Rửa đường, tưới cây và cột Đồ án kỳ này ghi 5 m³/ha/ngày đêm."
+    },
+    {
+      "id": "T05",
+      "passed": true,
+      "reason": "Ở tr. 134, ô A2 có Ptt 25.316 trong cột kW, phân biệt với 28.129 kVA."
+    },
+    {
+      "id": "T06",
+      "passed": true,
+      "reason": "Dòng Tổng diện tích quy hoạch ở tr. 89 ghi 3.086,25 ha. Câu hỏi đã chỉ định đơn vị ha."
+    },
+    {
+      "id": "T07",
+      "passed": true,
+      "reason": "Ảnh vệ tinh Hình 3 tr. 14 thể hiện đường viền đỏ."
+    },
+    {
+      "id": "T08",
+      "passed": true,
+      "reason": "Ô màu tím sáng trong chú giải Hình 4 tr. 20 là đất sản xuất công nghiệp, kho bãi."
+    },
+    {
+      "id": "T09",
+      "passed": true,
+      "reason": "Hình 6 tr. 55 đặt nhãn Khu B trên vùng tím giữa Khu A và Khu C."
+    },
+    {
+      "id": "T10",
+      "passed": true,
+      "reason": "Hàng cây xanh trục đường trong Hình 10 tr. 103 ghi phượng vĩ ở ngoài cùng bên phải."
+    },
+    {
+      "id": "T11",
+      "passed": true,
+      "reason": "Trong Hình 13 tr. 144, ranh lưu vực vẽ bằng nét đứt xanh lam."
+    },
+    {
+      "id": "T12",
+      "passed": true,
+      "reason": "Chú giải biểu đồ tr. 18 ghi Dân số (người)."
+    },
+    {
+      "id": "T13",
+      "passed": true,
+      "reason": "Nhãn trên cùng của trục tung biểu đồ tr. 18 là 70.000. Đơn vị người có trong câu hỏi."
+    },
+    {
+      "id": "T14",
+      "passed": true,
+      "reason": "Cột Dương Hòa trong biểu đồ tr. 18 ghi 58.830, vượt 50.000."
+    },
+    {
+      "id": "T15",
+      "passed": true,
+      "reason": "Cột thứ ba từ trái trong biểu đồ tr. 18 thuộc Ô Diên và ghi 14.626 người."
+    },
+    {
+      "id": "T16",
+      "passed": true,
+      "reason": "Hai cột Sơn Đồng và Liên Minh ở tr. 18 ghi 9.490 và 1.350 người. Tổng đúng 10.840."
+    },
+    {
+      "id": "T17",
+      "passed": true,
+      "reason": "Ranh giới phía Đông giáp Vành đai 4 ở tr. 14. Nền đường đê Tả Đáy rộng 6 m ở tr. 25."
+    },
+    {
+      "id": "T18",
+      "passed": true,
+      "reason": "Hình 5 tr. 22 cho thấy dải kênh cạnh đường. Đoạn giám sát ở tr. 159 yêu cầu quan trắc cửa xả 24/24 giờ."
+    },
+    {
+      "id": "T19",
+      "passed": true,
+      "reason": "Hình 8 tr. 99 ghi Khu hỗn hợp nhóm nhà ở và dịch vụ. Bảng 7.6-4 tr. 147 ghi tổng 350,6 tấn/ngày."
+    },
+    {
+      "id": "T20",
+      "passed": true,
+      "reason": "Chú giải Hình 7 ở góc dưới trái tr. 92. Mục Đường sắt tr. 114 xác nhận tuyến số 3 chạy trong hành lang QL.32."
+    },
+    {
+      "id": "T21",
+      "passed": true,
+      "reason": "Phần địa chất công trình tr. 16 nêu dự báo động đất cấp 8."
+    },
+    {
+      "id": "T22",
+      "passed": true,
+      "reason": "Phần thoát nước thải tr. 144 ghi nước xử lý ở lưu vực 2 qua kênh tiêu T5 rồi ra sông Đáy."
+    },
+    {
+      "id": "T23",
+      "passed": true,
+      "reason": "Phần Giám sát môi trường nước tr. 159 nêu tối thiểu 4 lần/năm cho nguồn nước mặt không dùng cấp nước sinh hoạt."
+    },
+    {
+      "id": "T24",
+      "passed": false,
+      "reason": "6 làn là trị số cần tìm ở hiện trạng Đại lộ Thăng Long tr. 25. Citation tr. 113 nói về 6 làn chính của trục Tây Thăng Long."
+    },
+    {
+      "id": "T25",
+      "passed": true,
+      "reason": "Từ chối đúng. Trục ngang biểu đồ dân số tr. 18 liệt kê năm xã và không có Quốc Oai."
+    },
+    {
+      "id": "T26",
+      "passed": true,
+      "reason": "Từ chối đúng. Bảng hiện trạng dân số tr. 18 có số người và tỷ lệ, không có số hộ."
+    },
+    {
+      "id": "T27",
+      "passed": false,
+      "reason": "Hình 6 tr. 55 chỉ đánh dấu Khu A đến D. Màu tím thuộc Khu B, không có Khu E."
+    },
+    {
+      "id": "T28",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 10 tr. 103 cho biết loài cây, không cho biết năm trồng sao đen."
+    },
+    {
+      "id": "T29",
+      "passed": false,
+      "reason": "Hình 13 tr. 144 chỉ có hai lưu vực. Vị trí dưới và trái thuộc Lưu vực 2."
+    },
+    {
+      "id": "T30",
+      "passed": false,
+      "reason": "Bảng phụ tải điện tr. 134 có kW và kVA cho A2, không có đồng/kWh. Số 150 ở phần nội dung đứng trước bảng không phải giá điện."
+    }
+  ]
+}

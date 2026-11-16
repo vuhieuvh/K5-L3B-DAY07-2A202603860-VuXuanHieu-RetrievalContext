@@ -1,0 +1,155 @@
+{
+  "trace_sha256": "bdddb4e6810d8af7571ede430ad1ab2a5429d6b73cea0012590786434cb5d870",
+  "labels": [
+    {
+      "id": "N01",
+      "passed": true,
+      "reason": "Dòng Đất văn hoá tr. 18 ghi diện tích 5,85 ha. Đơn vị ha được nêu trong câu hỏi."
+    },
+    {
+      "id": "N02",
+      "passed": false,
+      "reason": "Bảng hiện trạng tiếp ở tr. 19 ghi Hồ, ao, đầm 79,40 ha. Agent lấy 0,51 ở bảng quy hoạch theo ô đất tr. 82."
+    },
+    {
+      "id": "N03",
+      "passed": true,
+      "reason": "Dòng Đất HTKT, An ninh quốc phòng ở cột Đồ án kỳ này tr. 118 ghi 30 m³/ha/ngày đêm."
+    },
+    {
+      "id": "N04",
+      "passed": false,
+      "reason": "Ô A3 tr. 134 ghi 5.553 kW và 6.170 kVA. Agent đọc nhầm cột kW."
+    },
+    {
+      "id": "N05",
+      "passed": true,
+      "reason": "Dòng Đất dân dụng trong bảng tổng hợp tr. 89 ghi tỷ lệ 64,54%."
+    },
+    {
+      "id": "N06",
+      "passed": true,
+      "reason": "Bảng 7.6-4 tr. 147 ghi tổng Khu D là 43,1 tấn/ngày. Đơn vị có trong câu hỏi."
+    },
+    {
+      "id": "N07",
+      "passed": false,
+      "reason": "Hình 3 tr. 14 cho thấy ảnh vệ tinh còn nhìn thấy trong đường viền. Chỉ trả lời 'Không' cho câu hỏi hai lựa chọn chưa xác định được phương án."
+    },
+    {
+      "id": "N08",
+      "passed": true,
+      "reason": "Chú giải Hình 4 tr. 20 dùng xanh lá nhạt cho đất sản xuất nông nghiệp."
+    },
+    {
+      "id": "N09",
+      "passed": false,
+      "reason": "Hiện trạng và Quy hoạch là hai nhóm chính. Hai cột dưới Quy hoạch là Đợt đầu và Dài hạn."
+    },
+    {
+      "id": "N10",
+      "passed": true,
+      "reason": "Nhãn Biệt thự nằm ở bên phải phần ảnh phía trên Hình 8 tr. 99."
+    },
+    {
+      "id": "N11",
+      "passed": false,
+      "reason": "Hai hình phía dưới tr. 103 mô tả dãy kho xưởng. Agent lặp nhóm tiêu đề chung của toàn bộ Hình 11, gồm cả bến và dịch vụ cảng."
+    },
+    {
+      "id": "N12",
+      "passed": true,
+      "reason": "Biểu đồ dân số tr. 18 thể hiện các cột đứng."
+    },
+    {
+      "id": "N13",
+      "passed": true,
+      "reason": "Cột thứ hai tr. 18 ghi Đan Phượng với 29.938 người."
+    },
+    {
+      "id": "N14",
+      "passed": true,
+      "reason": "Biểu đồ tr. 18 ghi 58.830 và 29.938 người. Chênh lệch đúng 28.892 người."
+    },
+    {
+      "id": "N15",
+      "passed": false,
+      "reason": "Cột Sơn Đồng ở tr. 18 ghi 9.490 người, nằm trong khoảng cần tìm. Agent từ chối."
+    },
+    {
+      "id": "N16",
+      "passed": true,
+      "reason": "Hai cột cao nhất tr. 18 thuộc Dương Hòa và Đan Phượng. 58.830 cộng 29.938 bằng 88.768 người."
+    },
+    {
+      "id": "N17",
+      "passed": true,
+      "reason": "Dải nghiên cứu ở Hình 2 tr. 13 thuôn dọc. Mục hiện trạng giao thông tr. 25 ghi QL32 qua Đan Phượng khoảng 2,2 km."
+    },
+    {
+      "id": "N18",
+      "passed": true,
+      "reason": "Chú giải Hình 4 tr. 20 xác nhận Sông, suối, kênh, rạch. Tr. 25 ghi lòng đường đê Hữu Hồng rộng 5 m."
+    },
+    {
+      "id": "N19",
+      "passed": true,
+      "reason": "Nhãn Nhà liền kề ở phần ảnh trái Hình 8 tr. 99. Tr. 102 nêu mật độ gộp tối đa của cây xanh sử dụng công cộng là 5%."
+    },
+    {
+      "id": "N20",
+      "passed": false,
+      "reason": "Màu đỏ đúng ở Hình 13. Agent dẫn thoát nước mưa tr. 108 cho ý 2, trong khi mục Lựa chọn hệ thống thoát nước thải tr. 143 nêu hệ thống riêng hoàn toàn."
+    },
+    {
+      "id": "N21",
+      "passed": true,
+      "reason": "Tr. 14 nêu ranh phía Nam trùng tim Đại lộ Thăng Long."
+    },
+    {
+      "id": "N22",
+      "passed": true,
+      "reason": "Đoạn về khu hỗn hợp nhóm nhà ở và dịch vụ tr. 99 ghi tầng cao tối đa 35 tầng."
+    },
+    {
+      "id": "N23",
+      "passed": true,
+      "reason": "Tr. 159 yêu cầu kết nối dữ liệu cửa xả với cơ quan chức năng về môi trường."
+    },
+    {
+      "id": "N24",
+      "passed": true,
+      "reason": "Tr. 144 ghi khoảng cách trung bình 30–40 m/hố ga thăm."
+    },
+    {
+      "id": "N25",
+      "passed": false,
+      "reason": "Biểu đồ tr. 18 chỉ có dân số chung từng xã. 39,9% dân số nam ở Đan Phượng không có căn cứ."
+    },
+    {
+      "id": "N26",
+      "passed": true,
+      "reason": "Từ chối đúng. Bảng tr. 25 có tên công trình và diện tích, không ghi năm xây nhà thờ."
+    },
+    {
+      "id": "N27",
+      "passed": true,
+      "reason": "Từ chối đúng. Mục giám sát tr. 159 không nêu hãng sản xuất thiết bị."
+    },
+    {
+      "id": "N28",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 10 tr. 103 liệt kê loài cây, không ghi giá mua."
+    },
+    {
+      "id": "N29",
+      "passed": true,
+      "reason": "Từ chối đúng. Phần biệt thự ở Hình 8 tr. 99 không có năm hoàn thành."
+    },
+    {
+      "id": "N30",
+      "passed": true,
+      "reason": "Từ chối đúng. Chú giải Hình 7 tr. 92 phân loại đất, không ghi giá đất."
+    }
+  ]
+}

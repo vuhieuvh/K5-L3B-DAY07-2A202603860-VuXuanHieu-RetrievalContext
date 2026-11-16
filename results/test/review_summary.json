@@ -1,0 +1,77 @@
+{
+  "dense": {
+    "cases": 7,
+    "provider_errors": 0,
+    "tool_use": {
+      "n": 7,
+      "N": 7
+    },
+    "grounded_answer": {
+      "0": 1,
+      "1": 0,
+      "2": 4,
+      "N": 5,
+      "mean": 1.6
+    },
+    "citation_validity": {
+      "n": 4,
+      "N": 5
+    },
+    "answer_citation_coverage": {
+      "n": 5,
+      "N": 5
+    },
+    "abstention": {
+      "n": 1,
+      "N": 2
+    },
+    "false_abstention": {
+      "n": 1,
+      "N": 5
+    },
+    "context_grades": {
+      "0": 0,
+      "1": 1,
+      "2": 4
+    },
+    "measured": {
+      "cases": 7,
+      "hit1": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "hit3": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "first_pack_evidence_rate": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "context_evidence_rate": {
+        "n": 4,
+        "N": 5,
+        "rate": 0.8
+      },
+      "median_original_retrieval_ms": 10.529599999699712,
+      "median_agent_ms": 7034.360000000106,
+      "total_agent_ms": 47683.60390000044,
+      "search_count_distribution": {
+        "1": 7
+      },
+      "agent_errors": 0,
+      "prompt_tokens": 5339,
+      "completion_tokens": 262,
+      "config": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2
+      },
+      "service_cost_usd": 0
+    }
+  }
+}

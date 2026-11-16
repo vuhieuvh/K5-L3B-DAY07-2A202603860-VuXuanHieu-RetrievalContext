@@ -1,0 +1,707 @@
+[
+  {
+    "id": "P01",
+    "split": "test",
+    "group": "table",
+    "question": "Trong bảng thống kê hiện trạng sử dụng đất, dòng Đất chưa sử dụng chiếm tỷ lệ bao nhiêu phần trăm?",
+    "expected_answer": "0,28%.",
+    "evidence": [
+      {
+        "page": 19,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          304.2,
+          549.8,
+          320.8
+        ],
+        "table": 1,
+        "rows": [
+          15,
+          15
+        ],
+        "source_detail": "TT: 21 | Hạng mục sử dụng đất: Đất chưa sử dụng | Diện tích (ha): 8,74 | Tỷ lệ (%): 0,28"
+      }
+    ]
+  },
+  {
+    "id": "P02",
+    "split": "test",
+    "group": "table",
+    "question": "Bảng liệt kê công trình di tích ghi Đình Đông Khê có diện tích bao nhiêu m²?",
+    "expected_answer": "1.740 m².",
+    "evidence": [
+      {
+        "page": 24,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          112.0,
+          549.8,
+          129.0
+        ],
+        "table": 1,
+        "rows": [
+          4,
+          4
+        ],
+        "source_detail": "Stt: 23 | Công trình: Đình Đông Khê | Diện tích (m²): 1740"
+      }
+    ]
+  },
+  {
+    "id": "P03",
+    "split": "test",
+    "group": "table",
+    "question": "Ở bảng chỉ tiêu quy hoạch sử dụng đất, tỷ lệ của dòng Đất đơn vị ở là bao nhiêu phần trăm?",
+    "expected_answer": "39,27%.",
+    "evidence": [
+      {
+        "page": 89,
+        "kind": "table",
+        "bbox": [
+          48.4,
+          227.3,
+          786.9,
+          243.6
+        ],
+        "table": 1,
+        "rows": [
+          9,
+          9
+        ],
+        "source_detail": "TT: 1 | HẠNG MỤC SỬ DỤNG ĐẤT: Đất đơn vị ở | DIỆN TÍCH (HA): 1.212,09 | TỶ LỆ (%): 39,27 | CHỈ TIÊU (M2/NGƯỜI): 60,60 | QCVN 01:2021 (m2/người): 15 - 28 | NVQH ĐÃ PHÊ DUYỆT THEO QUYẾT ĐỊNH SỐ 2304/QĐ-UBND NGÀY 07-05- 2025: ≥ 15 | ĐÁNH GIÁ: Đạt"
+      }
+    ]
+  },
+  {
+    "id": "P04",
+    "split": "test",
+    "group": "table",
+    "question": "Trong bảng chỉ tiêu dùng nước, dòng Chữa cháy ở cột Đồ án kỳ này yêu cầu thiết kế cho bao nhiêu đám cháy xảy ra đồng thời?",
+    "expected_answer": "3 đám cháy.",
+    "evidence": [
+      {
+        "page": 118,
+        "kind": "table",
+        "bbox": [
+          51.2,
+          266.7,
+          790.7,
+          405.4
+        ],
+        "table": 1,
+        "rows": [
+          5,
+          5
+        ],
+        "source_detail": "TT: 8 | Đối tượng dùng nước: Chữa cháy | QCVN 06:2022/BXD (Bảng 7+8): 03 đám cháy xảy ra đồng thời, lưu lượng 35 l/s (từ >100.000 và ≤ 200.000 người, >16 tầng khối tích nhà >50.000 m3) | Đồ án kỳ này: 03 đám cháy xảy ra đồng thời, lưu lượng 35 l/s (200.000 người, nhà cao tối đa 35 tầng, khối tích nhà >50.000 m3)"
+      }
+    ]
+  },
+  {
+    "id": "P05",
+    "split": "test",
+    "group": "table",
+    "question": "Theo bảng tổng hợp phụ tải điện, phụ tải tính toán Ptt của ô A8 là bao nhiêu kW?",
+    "expected_answer": "4.220 kW.",
+    "evidence": [
+      {
+        "page": 134,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          599.9,
+          549.8,
+          617.8
+        ],
+        "table": 2,
+        "rows": [
+          13,
+          13
+        ],
+        "source_detail": "TT: I.8 | Tên ô đất: A8 | Ptt (kW): 4220 | Stt (kVA): 4689"
+      }
+    ]
+  },
+  {
+    "id": "P06",
+    "split": "test",
+    "group": "table",
+    "question": "Ở bảng 7.6-4, riêng CTR sinh hoạt của Khu D là bao nhiêu tấn/ngày?",
+    "expected_answer": "31,9 tấn/ngày.",
+    "evidence": [
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          438.2,
+          549.8,
+          458.1
+        ],
+        "table": 1,
+        "rows": [
+          17,
+          17
+        ],
+        "source_detail": "TT: 1 | Hạng mục: CTR sinh hoạt | Quy mô Người: 26.600 | Khối lượng CTR (Tấn/ngày) 2045: 31,9"
+      }
+    ]
+  },
+  {
+    "id": "P07",
+    "split": "test",
+    "group": "image",
+    "question": "Trong Hình 3, dòng sông ở phần trên ảnh có dạng thẳng hay uốn cong?",
+    "expected_answer": "Uốn cong.",
+    "evidence": [
+      {
+        "page": 14,
+        "kind": "image",
+        "bbox": [
+          67.8,
+          62.1,
+          544.2,
+          504.2
+        ],
+        "source_detail": "Hình 3. Vị trí khu vực nghiên cứu trên nền ảnh vệ tinh"
+      }
+    ]
+  },
+  {
+    "id": "P08",
+    "split": "test",
+    "group": "image",
+    "question": "Trong Hình 4, khung chú giải được đặt ở góc nào của sơ đồ?",
+    "expected_answer": "Góc dưới bên trái.",
+    "evidence": [
+      {
+        "page": 20,
+        "kind": "image",
+        "bbox": [
+          98.4,
+          56.2,
+          513.6,
+          765.5
+        ],
+        "source_detail": "Hình 4. Sơ đồ hiện trạng sử dụng đất"
+      }
+    ]
+  },
+  {
+    "id": "P09",
+    "split": "test",
+    "group": "image",
+    "question": "Trong Hình 6, vùng tô đỏ mang nhãn khu nào?",
+    "expected_answer": "Khu A.",
+    "evidence": [
+      {
+        "page": 55,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56.2,
+          549.7,
+          749.8
+        ],
+        "source_detail": "Hình 6. Sơ đồ phân chia các khu vực"
+      }
+    ]
+  },
+  {
+    "id": "P10",
+    "split": "test",
+    "group": "image",
+    "question": "Trong Hình 7, trục đường chạy dọc nằm về bên trái hay bên phải bản đồ?",
+    "expected_answer": "Bên phải.",
+    "evidence": [
+      {
+        "page": 92,
+        "kind": "image",
+        "bbox": [
+          74.5,
+          56.1,
+          537.3,
+          758
+        ],
+        "source_detail": "Hình 7. Sơ đồ tổng mặt bằng quy hoạch sử dụng đất"
+      }
+    ]
+  },
+  {
+    "id": "P11",
+    "split": "test",
+    "group": "image",
+    "question": "Hình 12 minh họa đèn chiếu sáng trong sân vườn và lối đi hay đèn trong phòng?",
+    "expected_answer": "Đèn chiếu sáng sân vườn và lối đi.",
+    "evidence": [
+      {
+        "page": 106,
+        "kind": "image",
+        "bbox": [
+          66.8,
+          111.6,
+          546.7,
+          401.8
+        ],
+        "source_detail": "Hình 12. Các tiện ích đô thị"
+      }
+    ]
+  },
+  {
+    "id": "P12",
+    "split": "test",
+    "group": "chart",
+    "question": "Dựa vào biểu đồ hiện trạng dân số, Dương Hòa nhiều hơn Sơn Đồng bao nhiêu người?",
+    "expected_answer": "49.340 người (58.830 − 9.490).",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "P13",
+    "split": "test",
+    "group": "chart",
+    "question": "Theo biểu đồ hiện trạng dân số, Đan Phượng và Liên Minh có tổng cộng bao nhiêu người?",
+    "expected_answer": "31.288 người (29.938 + 1.350).",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "P14",
+    "split": "test",
+    "group": "chart",
+    "question": "Biểu đồ hiện trạng dân số có bao nhiêu xã được thể hiện bằng các cột?",
+    "expected_answer": "5 xã.",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "P15",
+    "split": "test",
+    "group": "chart",
+    "question": "Khi xếp theo số dân từ cao đến thấp trên biểu đồ hiện trạng dân số, xã đứng thứ tư là xã nào?",
+    "expected_answer": "Sơn Đồng (9.490 người).",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "P16",
+    "split": "test",
+    "group": "chart",
+    "question": "Theo biểu đồ hiện trạng dân số, cộng dân số Liên Minh và Ô Diên thì được bao nhiêu người?",
+    "expected_answer": "15.976 người (1.350 + 14.626).",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "P17",
+    "split": "test",
+    "group": "multi",
+    "question": "Đọc đồng thời sơ đồ hiện trạng và bảng đất. (1) Hình 4 vẽ đường ranh khu nghiên cứu bằng màu gì? (2) Trong bảng thống kê hiện trạng sử dụng đất, dòng Đất giao thông có diện tích bao nhiêu ha?",
+    "expected_answer": "Viền đỏ. 180,27 ha.",
+    "evidence": [
+      {
+        "page": 20,
+        "kind": "image",
+        "bbox": [
+          98.4,
+          56.2,
+          513.6,
+          765.5
+        ],
+        "source_detail": "Hình 4. Sơ đồ hiện trạng sử dụng đất"
+      },
+      {
+        "page": 19,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          354.0,
+          549.8,
+          370.6
+        ],
+        "table": 1,
+        "rows": [
+          18,
+          18
+        ],
+        "source_detail": "TT: 24 | Hạng mục sử dụng đất: Đất giao thông | Diện tích (ha): 180,27 | Tỷ lệ (%): 5,84"
+      }
+    ]
+  },
+  {
+    "id": "P18",
+    "split": "test",
+    "group": "multi",
+    "question": "Xác định một khu trên sơ đồ và chỉ tiêu phát sinh chất thải. (1) Hình 6 tô Khu C bằng màu gì? (2) Bảng 7.6-4 ghi tổng khối lượng CTR của Khu C bao nhiêu tấn/ngày?",
+    "expected_answer": "Vàng nâu. 134,1 tấn/ngày.",
+    "evidence": [
+      {
+        "page": 55,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56.2,
+          549.7,
+          749.8
+        ],
+        "source_detail": "Hình 6. Sơ đồ phân chia các khu vực"
+      },
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          318.5,
+          549.8,
+          338.5
+        ],
+        "table": 1,
+        "rows": [
+          11,
+          11
+        ],
+        "source_detail": "TT: B | Hạng mục: KHU C | Khối lượng CTR (Tấn/ngày) 2045: 134,1"
+      }
+    ]
+  },
+  {
+    "id": "P19",
+    "split": "test",
+    "group": "multi",
+    "question": "Đối chiếu minh họa tiện ích với yêu cầu xây dựng trong cây xanh công cộng. (1) Trong Hình 12, ghế màu minh họa nằm trong không gian xanh hay trong nhà? (2) Mục Khu vực chức năng cây xanh, khoảng lùi xây dựng tối thiểu so với chỉ giới đường đỏ của công trình trong cây xanh sử dụng công cộng là bao nhiêu mét?",
+    "expected_answer": "Trong không gian xanh. Khoảng lùi tối thiểu 3–6 m.",
+    "evidence": [
+      {
+        "page": 106,
+        "kind": "image",
+        "bbox": [
+          66.8,
+          111.6,
+          546.7,
+          401.8
+        ],
+        "source_detail": "Hình 12. Các tiện ích đô thị"
+      },
+      {
+        "page": 102,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          383.5,
+          547.7,
+          436.2
+        ],
+        "source_detail": "- Cây xanh sử dụng công cộng (bao gồm cấp đô thị và đơn vị ở) nằm ở trung tâm các nhóm ở, đơn vị ở có mật độ xây dựng gộp tối đa 5 %, công trình có tầng cao tối đa 1 tầng, khoảng lùi xây dựng so với chỉ giới đường đỏ tối thiểu từ 3-6m;"
+      }
+    ]
+  },
+  {
+    "id": "P20",
+    "split": "test",
+    "group": "multi",
+    "question": "Đối chiếu danh mục cây với tiêu chí chọn cây. (1) Theo Hình 10, cây nằm ngoài cùng bên phải hàng cây xanh trong công viên và vườn hoa là cây gì? (2) Đoạn yêu cầu về các loại cây trồng nói cây phải chịu được gió, bụi và yếu tố nào nữa?",
+    "expected_answer": "Cọ bạc. Sâu bệnh.",
+    "evidence": [
+      {
+        "page": 103,
+        "kind": "image",
+        "bbox": [
+          77.3,
+          56.2,
+          524.9,
+          274.7
+        ],
+        "source_detail": "Hình 10. Minh họa giải pháp thiết kế và cây xanh đề xuất"
+      },
+      {
+        "page": 102,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          531.6,
+          547.9,
+          639.8
+        ],
+        "source_detail": "- Cây xanh công viên, vườn hoa, cây xanh đường phố đảm bảo tính thích nghi với môi trường đô thị và môi trường ven biển, loại cây mang tính đặc trưng, bản sắc của khu vực. Các loại cây trồng phải đảm bảo các yêu cầu sau: Cây phải chịu được gió, bụi, sâu bệnh; cây có bóng mát hoa đẹp và thường xanh tránh cây có quả, lá rụng nhiều gây ô nhiễm môi trường đường phố; bố cục phù hợp với quy hoạch chi tiết được duyệt;"
+      }
+    ]
+  },
+  {
+    "id": "P21",
+    "split": "test",
+    "group": "text",
+    "question": "Theo phần hiện trạng giao thông, quy mô tuyến Quốc lộ 32 khi qua xã Đan Phượng là bao nhiêu mét?",
+    "expected_answer": "35 m.",
+    "evidence": [
+      {
+        "page": 25,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          207.9,
+          547.8,
+          272.0
+        ],
+        "source_detail": "- Tuyến đường Vành đai 4 hiện đang được thi công xây dựng. - Tuyến Quốc lộ 32: nối trung tâm Hà Nội với các khu vực phía Tây và Tây Bắc. QL32 bắt đầu từ Cầu Giấy, trong khu vực lập quy hoạch tuyến chạy qua xã Đan Phượng với chiều dài khoảng 2,2km, quy mô tuyến 35m."
+      }
+    ]
+  },
+  {
+    "id": "P22",
+    "split": "test",
+    "group": "text",
+    "question": "Trong sơ đồ thu gom nước thải, sau bể tự hoại, khu vực làng xóm hiện hữu áp dụng xử lý tập trung hay xử lý phân tán tại chỗ?",
+    "expected_answer": "Xử lý phân tán tại chỗ.",
+    "evidence": [
+      {
+        "page": 143,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          725.5,
+          547.9,
+          763.7
+        ],
+        "source_detail": " Khu vực làng xóm hiện hữu: Nước thải từ các công trình → Bể tự hoại → Xử lý phân tán tại chỗ"
+      }
+    ]
+  },
+  {
+    "id": "P23",
+    "split": "test",
+    "group": "text",
+    "question": "Theo giải pháp thoát nước thải, nước thải sinh hoạt sau xử lý phải đạt cột nào của QCVN 14:2025/BTNMT trước khi xả ra môi trường?",
+    "expected_answer": "Cột B.",
+    "evidence": [
+      {
+        "page": 145,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          80.1,
+          547.9,
+          200.5
+        ],
+        "source_detail": "- Nước thải khu vực đô thị và làng xóm liền kề đô thị trong đê Tả Đáy đưa về xử lý tại trạm xử lý nước thải Phùng theo đề xuất của Điều chỉnh QHC thủ đô Hà Nội, điều chỉnh lại công suất trạm xử lý theo phạm vi phục vụ mới; Nước thải khu vực làng xóm hiện hữu ngoài đê Tả Đáy được thu gom theo từng khu vực và xử lý phân tán bằng các trạm xử lý nước thải vừa và nhỏ. Nước thải sinh hoạt sau xử lý phải đảm bảo đạt cột B - QCVN 14:2025/BTNMT mới được xả ra môi trường."
+      }
+    ]
+  },
+  {
+    "id": "P24",
+    "split": "test",
+    "group": "text",
+    "question": "Đoạn đề xuất bố trí trạm điện thoại công cộng nêu các trạm dự kiến đặt dọc loại đường nào?",
+    "expected_answer": "Đường giao thông chính.",
+    "evidence": [
+      {
+        "page": 106,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          74.7,
+          547.3,
+          108.9
+        ],
+        "source_detail": "- Trạm điện thoại công cộng: dự kiến bố trí dọc theo đường giao thông chính, gần khu dịch vụ công cộng, thương mại dịch vụ, mỗi trạm cách nhau từ 200 – 250m."
+      }
+    ]
+  },
+  {
+    "id": "P25",
+    "split": "test",
+    "group": "missing",
+    "question": "Trong bảng thống kê hiện trạng sử dụng đất, năng suất nuôi cá trên diện tích Hồ, ao, đầm được ghi là bao nhiêu tấn mỗi ha mỗi năm?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Bảng chỉ ghi diện tích và tỷ lệ đất, không nêu năng suất nuôi cá.",
+    "checked_regions": [
+      {
+        "page": 19,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          320.8,
+          549.8,
+          337.4
+        ],
+        "table": 1,
+        "rows": [
+          16,
+          16
+        ],
+        "source_detail": "TT: 22 | Hạng mục sử dụng đất: Hồ, ao, đầm | Diện tích (ha): 79,40 | Tỷ lệ (%): 2,57"
+      }
+    ]
+  },
+  {
+    "id": "P26",
+    "split": "test",
+    "group": "missing",
+    "question": "Bảng 7.6-4 về lượng chất thải rắn ghi tọa độ GPS của địa điểm tập kết CTR công cộng ở Khu D là bao nhiêu?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Bảng có hạng mục và khối lượng phát sinh, không có tọa độ vị trí.",
+    "checked_regions": [
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          458.1,
+          549.8,
+          478.0
+        ],
+        "table": 1,
+        "rows": [
+          18,
+          18
+        ],
+        "source_detail": "TT: 3 | Hạng mục: CTR công cộng | Khối lượng CTR (Tấn/ngày) 2045: 3,2"
+      }
+    ]
+  },
+  {
+    "id": "P27",
+    "split": "test",
+    "group": "missing",
+    "question": "Hình 8 ghi hãng sản xuất vật liệu mặt đứng của khối công trình ở dải dưới là hãng nào?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Phối cảnh minh họa, không ghi hãng sản xuất vật liệu.",
+    "checked_regions": [
+      {
+        "page": 99,
+        "kind": "image",
+        "bbox": [
+          128.1,
+          56,
+          483.9,
+          350.1
+        ],
+        "source_detail": "Hình 8. Minh họa không gian nhóm nhà ở"
+      }
+    ]
+  },
+  {
+    "id": "P28",
+    "split": "test",
+    "group": "missing",
+    "question": "Hình 12 ghi tải trọng cho phép của ghế ngoài trời màu đỏ là bao nhiêu kg?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Phối cảnh thể hiện vị trí và màu ghế, không ghi tải trọng.",
+    "checked_regions": [
+      {
+        "page": 106,
+        "kind": "image",
+        "bbox": [
+          66.8,
+          111.6,
+          546.7,
+          401.8
+        ],
+        "source_detail": "Hình 12. Các tiện ích đô thị"
+      }
+    ]
+  },
+  {
+    "id": "P29",
+    "split": "test",
+    "group": "missing",
+    "question": "Bảng chỉ tiêu dùng nước ghi hãng sản xuất đồng hồ nước cho nhóm sử dụng Sinh hoạt là hãng nào?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Bảng đưa chỉ tiêu dùng nước, không có thông tin hãng sản xuất đồng hồ.",
+    "checked_regions": [
+      {
+        "page": 117,
+        "kind": "table",
+        "bbox": [
+          51.2,
+          203.1,
+          790.7,
+          245.0
+        ],
+        "table": 1,
+        "rows": [
+          2,
+          2
+        ],
+        "source_detail": "TT: 1 | Đối tượng dùng nước: - Sinh hoạt | Đơn vị tính: lít/người/ngày đêm | ĐC QHC Thủ đô Hà Nội (QĐ số 1668/QĐ- TTg ngày 27/12/2024 ): 150 lít/người/ngày đêm | Nhiệm vụ ( QĐ số 2304/QĐ- UBND ngày 07/05/2025): ≥200 | QCVN 01:2021/BXD: ≥ 80 (100% dân) lít/người/ngày đêm | Đồ án kỳ này: 200 lít/người/ngày đêm"
+      }
+    ]
+  },
+  {
+    "id": "P30",
+    "split": "test",
+    "group": "missing",
+    "question": "Mục Khu vực cơ quan, trụ sở, năm hoàn thành xây dựng các trụ sở mới được ghi là năm nào?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Mục quy định loại công trình và tiêu chí thiết kế, không ghi năm hoàn thành thực tế.",
+    "checked_regions": [
+      {
+        "page": 101,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          281.6,
+          547.3,
+          353.2
+        ],
+        "source_detail": "g. Khu vực cơ quan, trụ sở - Khu vực chức năng cơ quan, trụ sở bao gồm các công trình cơ quan hành chính, trụ sở làm việc. Công trình có tầng cao tối đa 5 tầng, mật độ xây dựng gộp tối đa 40 %."
+      }
+    ]
+  }
+]

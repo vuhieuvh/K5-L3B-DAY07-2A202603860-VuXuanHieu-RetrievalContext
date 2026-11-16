@@ -1,0 +1,20 @@
+{
+  "passed": 29,
+  "total": 31,
+  "by_set": {
+    "original_dev": {
+      "passed": 18,
+      "total": 18
+    },
+    "diagnostics": {
+      "passed": 11,
+      "total": 13
+    }
+  },
+  "errors": 0,
+  "median_seconds": 5.517808900000091,
+  "total_seconds": 196.69514030000573,
+  "cost_usd": 0,
+  "trace_sha256": "1bef063ef7c4f0b447973703cefd824caed6e8d9ed23c9e842c7a2cb95086df9",
+  "review_sha256": "14a726f3491930a0aac9bf542a4ef822d250e169e21b7d9014f6b37c0327da8b"
+}

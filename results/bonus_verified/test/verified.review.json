@@ -1,0 +1,156 @@
+{
+  "trace_sha256": "6fe10b1e6de4fa215f0c15198c6f3830d08ad6fdb3df3eecc96d3cc2473f9d87",
+  "method": "Đối chiếu từng câu với PDF gốc và đúng phạm vi đề hỏi.",
+  "labels": [
+    {
+      "id": "V01",
+      "passed": true,
+      "reason": "Hàng Đất bãi đỗ xe ở phần nối của bảng hiện trạng tr. 19 ghi 0,03% trong cột tỷ lệ."
+    },
+    {
+      "id": "V02",
+      "passed": true,
+      "reason": "Bảng di tích tr. 24 ghi 3980 m² cho Nhà thờ giáo xứ Dương Quế; dấu tách nghìn không làm đổi trị số."
+    },
+    {
+      "id": "V03",
+      "passed": true,
+      "reason": "Dòng Đất nhóm nhà ở mới tr. 89 ghi diện tích 139,50 ha."
+    },
+    {
+      "id": "V04",
+      "passed": true,
+      "reason": "Ô giao giữa dòng Sinh hoạt và cột Đồ án kỳ này ở tr. 117 ghi 200 lít/người/ngày đêm."
+    },
+    {
+      "id": "V05",
+      "passed": true,
+      "reason": "Cột Stt của ô A7 tr. 134 ghi 8985 kVA. Cột bên cạnh ghi 8086 kW."
+    },
+    {
+      "id": "V06",
+      "passed": true,
+      "reason": "Dòng CTR xây dựng thuộc Khu B tr. 147 ghi 10,1 tấn/ngày."
+    },
+    {
+      "id": "V07",
+      "passed": true,
+      "reason": "Sông lớn ở phần trên Hình 2 tr. 13 được tô xanh lam."
+    },
+    {
+      "id": "V08",
+      "passed": true,
+      "reason": "Trục giao thông màu xám chạy dọc mép bên phải sơ đồ tr. 55."
+    },
+    {
+      "id": "V09",
+      "passed": false,
+      "reason": "Hình 10 tr. 103 cho thứ tự sao đen, bằng lăng tím, lim xẹt. Agent trích đúng danh sách nhưng chọn bàng Đài Loan, nằm ngoài hai mốc."
+    },
+    {
+      "id": "V10",
+      "passed": true,
+      "reason": "Nửa bên phải dải nhãn ngang giữa Hình 11 tr. 103 ghi Dịch vụ cảng biển."
+    },
+    {
+      "id": "V11",
+      "passed": true,
+      "reason": "Phần trong Lưu vực 1 ở tr. 144 có lưới ô vuông."
+    },
+    {
+      "id": "V12",
+      "passed": true,
+      "reason": "Cột cao nhất 58.830 và cột thấp nhất 1.350. Hiệu đúng là 57.480 người, dùng biểu đồ tr. 18."
+    },
+    {
+      "id": "V13",
+      "passed": true,
+      "reason": "Dân số Đan Phượng và Ô Diên trên tr. 18 lần lượt là 29.938 và 14.626. Tổng 44.564 người."
+    },
+    {
+      "id": "V14",
+      "passed": true,
+      "reason": "Nhãn Liên Minh nằm ngay bên phải Sơn Đồng trên trục ngang tr. 18."
+    },
+    {
+      "id": "V15",
+      "passed": true,
+      "reason": "14.626 trừ 9.490 bằng 5.136 người theo hai cột của biểu đồ tr. 18."
+    },
+    {
+      "id": "V16",
+      "passed": true,
+      "reason": "Cột Ô Diên 14.626 người nằm trong khoảng mở 10.000–20.000 trên tr. 18."
+    },
+    {
+      "id": "V17",
+      "passed": false,
+      "reason": "Đúng viền đỏ ở Hình 1 tr. 12 và đúng tên tuyến. Phần hai lại dẫn mục Phạm vi của quyết định phê duyệt nhiệm vụ ở tr. 322. Đề hỏi mục Phạm vi ranh giới nghiên cứu ở tr. 14."
+    },
+    {
+      "id": "V18",
+      "passed": true,
+      "reason": "Chú giải tr. 20 cho ô vàng của Đất nhóm nhà ở. Dòng Đất cây xanh đơn vị ở tr. 89 ghi 58,53 ha."
+    },
+    {
+      "id": "V19",
+      "passed": true,
+      "reason": "Hình tr. 144 đặt Lưu vực 2 dưới và lệch trái Lưu vực 1. Giải pháp tr. 145 chỉ định trạm xử lý nước thải Phùng."
+    },
+    {
+      "id": "V20",
+      "passed": true,
+      "reason": "Hàng ảnh dưới tr. 103 thuộc nhóm cỏ và cây che phủ. Ô Đồ án kỳ này cho đất cây xanh sử dụng công cộng cấp đô thị tr. 117 ghi 30 m³/ha/ngày đêm."
+    },
+    {
+      "id": "V21",
+      "passed": true,
+      "reason": "Đoạn hiện trạng đường tỉnh 422 tr. 25 ghi mặt cắt ngang 10–12 m. Dải 5–8 m là lòng đường."
+    },
+    {
+      "id": "V22",
+      "passed": true,
+      "reason": "Đoạn hiện trạng tr. 25 xác định tuyến đường dọc kênh Đan Hoài đi qua hầu hết các xã."
+    },
+    {
+      "id": "V23",
+      "passed": false,
+      "reason": "Đoạn tr. 143 đúng, nhưng bể tự hoại đứng trước tuyến cống. Công trình giữa tuyến cống và trạm xử lý là trạm bơm."
+    },
+    {
+      "id": "V24",
+      "passed": false,
+      "reason": "Agent từ chối. Mục Giám sát môi trường nước tr. 159 ghi trực tiếp yêu cầu quan trắc tự động cho nguồn cấp nước sinh hoạt."
+    },
+    {
+      "id": "V25",
+      "passed": false,
+      "reason": "Biểu đồ tr. 18 có 14.626 người cho Ô Diên và không có diện tích. Trả tổng số người cho câu hỏi mật độ là sai đại lượng."
+    },
+    {
+      "id": "V26",
+      "passed": false,
+      "reason": "0,81 ha là diện tích của dòng Đất bãi đỗ xe tr. 19. Bảng không ghi số chỗ ô tô."
+    },
+    {
+      "id": "V27",
+      "passed": true,
+      "reason": "Từ chối đúng. Chú giải Hình 4 tr. 20 phân loại đất, không ghi năng suất trên ha."
+    },
+    {
+      "id": "V28",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 11 tr. 103 minh họa công trình và ghi nhóm chức năng, không ghi tải trọng cần cẩu."
+    },
+    {
+      "id": "V29",
+      "passed": false,
+      "reason": "8086 là Ptt tính theo kW. Bảng phụ tải tr. 134 không có điện áp kV của ô A7."
+    },
+    {
+      "id": "V30",
+      "passed": true,
+      "reason": "Từ chối đúng. Mục Giám sát môi trường nước tr. 159 chỉ xác định cửa xả và yêu cầu quan trắc, không nêu tọa độ GPS."
+    }
+  ]
+}

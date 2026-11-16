@@ -1,0 +1,156 @@
+{
+  "trace_sha256": "ff147f3c6abeb9b55d1ff5ce1c3f815966eea965a6afbcde7123df47b805c49b",
+  "method": "Đối chiếu từng đáp án với PDF gốc, kiểm tra vùng dẫn, bước nối đối tượng và truy vấn bảng.",
+  "labels": [
+    {
+      "id": "J01",
+      "passed": true,
+      "reason": "Bảng hiện trạng tr. 19 ghi diện tích đất nghĩa trang 28,11 ha."
+    },
+    {
+      "id": "J02",
+      "passed": true,
+      "reason": "Bảng công trình di tích tr. 24 ghi Chùa Đông Khê 1.241 m²."
+    },
+    {
+      "id": "J03",
+      "passed": true,
+      "reason": "Bảng chỉ tiêu quy hoạch tr. 89 ghi diện tích dòng Đất trường THCS, tiểu học, mầm non là 37,98 ha."
+    },
+    {
+      "id": "J04",
+      "passed": true,
+      "reason": "Ô cột Đồ án kỳ này, dòng Đất công nghiệp, Logistics, kho tàng ở tr. 117 ghi 40 m³/ha/ngày đêm."
+    },
+    {
+      "id": "J05",
+      "passed": true,
+      "reason": "Bảng phụ tải điện tr. 134 ghi Stt của A5 bằng 3.618 kVA."
+    },
+    {
+      "id": "J06",
+      "passed": true,
+      "reason": "Dòng CTR sinh hoạt thuộc nhóm Khu A tr. 147 ghi 88,1 tấn/ngày."
+    },
+    {
+      "id": "J07",
+      "passed": true,
+      "reason": "Các mái thuộc cụm công trình tiền cảnh trong Hình 5 tr. 22 có màu xanh."
+    },
+    {
+      "id": "J08",
+      "passed": true,
+      "reason": "Thứ tự Hình 10 tr. 103 là bằng lăng tím, lim xẹt, phượng vĩ. Lim xẹt ở giữa hai mốc."
+    },
+    {
+      "id": "J09",
+      "passed": true,
+      "reason": "Dải ảnh dưới Hình 8 tr. 99 minh họa các khối có mặt đứng nhiều màu."
+    },
+    {
+      "id": "J10",
+      "passed": true,
+      "reason": "Đường đỏ giữa hai lưu vực trong Hình 13 tr. 144 uốn cong."
+    },
+    {
+      "id": "J11",
+      "passed": true,
+      "reason": "Hình 12 tr. 106 có hàng rào tạo từ cây xanh."
+    },
+    {
+      "id": "J12",
+      "passed": true,
+      "reason": "Hai số ghi dưới cột ở tr. 18 là 58.830 và 1.350. Tổng bằng 60.180 người."
+    },
+    {
+      "id": "J13",
+      "passed": true,
+      "reason": "Hai cột tr. 18 ghi 58.830 và 14.626 người. Chênh lệch là 44.204."
+    },
+    {
+      "id": "J14",
+      "passed": true,
+      "reason": "29.938 trừ 9.490 theo hai cột tr. 18 bằng 20.448 người."
+    },
+    {
+      "id": "J15",
+      "passed": true,
+      "reason": "Các số dân được in trong hàng ngay bên dưới cột ở tr. 18."
+    },
+    {
+      "id": "J16",
+      "passed": true,
+      "reason": "Đan Phượng có 29.938 người, nằm trên 28.000 và dưới 30.000 theo biểu đồ tr. 18."
+    },
+    {
+      "id": "J17",
+      "passed": true,
+      "reason": "Ô tím sáng ở Hình 4 tr. 20 chỉ Đất sản xuất công nghiệp, kho bãi. Nhãn được đưa vào truy vấn hàng tr. 19 để lấy 76,27 ha."
+    },
+    {
+      "id": "J18",
+      "passed": true,
+      "reason": "Ô xanh lam cuối chú giải tr. 20 chỉ Sông, suối, kênh, rạch. Truy vấn bảng dùng tên này để lấy 108,06 ha ở tr. 19."
+    },
+    {
+      "id": "J19",
+      "passed": true,
+      "reason": "Vùng vàng nâu tr. 55 có nhãn Khu C. Truy vấn dùng Khu C để lấy Stt 135.931 kVA trong hàng tr. 135."
+    },
+    {
+      "id": "J20",
+      "passed": true,
+      "reason": "Vùng xanh lam sáng tr. 55 có nhãn Khu D. Truy vấn dùng Khu D để lấy 8,0 tấn/ngày từ dòng CTR xây dựng thuộc Khu D tr. 147."
+    },
+    {
+      "id": "J21",
+      "passed": true,
+      "reason": "Đường tỉnh 422 ở tr. 25 có lòng đường 5–8 m. Dải 10–12 m áp dụng cho mặt cắt ngang."
+    },
+    {
+      "id": "J22",
+      "passed": true,
+      "reason": "Đoạn Khu vực cơ quan, trụ sở tr. 101 quy định tỷ lệ đất trồng cây xanh lớn hơn 20% diện tích lô đất."
+    },
+    {
+      "id": "J23",
+      "passed": true,
+      "reason": "Tr. 25 ghi cao độ trung bình khu vực làng xóm từ 7,5 đến 9,5 m."
+    },
+    {
+      "id": "J24",
+      "passed": true,
+      "reason": "Trong đoạn cây xanh chuyên dụng tr. 102, khu nghĩa trang là nhóm vị trí tiếp theo ngoài tuyến đường sắt và trục đường lớn."
+    },
+    {
+      "id": "J25",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 12 tr. 106 minh họa bốt màu đỏ và không nêu sức chứa."
+    },
+    {
+      "id": "J26",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 2 tr. 13 cho vị trí tương đối và không ghi tọa độ GPS của tâm dải."
+    },
+    {
+      "id": "J27",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 11 tr. 103 minh họa chức năng cảng, không ghi năm hoàn thành."
+    },
+    {
+      "id": "J28",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 5 tr. 22 không cho biết hãng sản xuất tấm lợp."
+    },
+    {
+      "id": "J29",
+      "passed": true,
+      "reason": "Từ chối đúng. Hàng đất nghĩa trang tr. 19 ghi diện tích và tỷ lệ, không ghi giá mua."
+    },
+    {
+      "id": "J30",
+      "passed": true,
+      "reason": "Từ chối đúng. Đoạn bố trí trạm điện thoại công cộng tr. 106 nêu vị trí và khoảng cách, không nêu hãng."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "trace_sha256": "2df91e85e8800a9075d8bbcf4f6d11e5d0fe8a3952fdb8d932c90a57c6527501",
+  "method": "Đối chiếu từng câu với PDF gốc và đúng phạm vi đề hỏi.",
+  "labels": [
+    {
+      "id": "S01",
+      "passed": true,
+      "reason": "Tr. 19 tiếp bảng hiện trạng, hàng Đất cơ quan, trụ sở ghi 10,95 ha."
+    },
+    {
+      "id": "S02",
+      "passed": true,
+      "reason": "Tr. 24 ghi Chùa Phượng Trì có diện tích 1381 m²."
+    },
+    {
+      "id": "S03",
+      "passed": true,
+      "reason": "Dòng Đất công cộng cấp đơn vị ở tr. 89 ghi diện tích 66,21 ha."
+    },
+    {
+      "id": "S04",
+      "passed": true,
+      "reason": "Tr. 117, đúng dòng đối tượng và cột Đồ án kỳ này, ghi 40 m³/ha/ngày đêm."
+    },
+    {
+      "id": "S05",
+      "passed": true,
+      "reason": "Bảng phụ tải tr. 134 ghi Ptt của B4 là 8412 kW. Stt của B4 là 9347 kVA."
+    },
+    {
+      "id": "S06",
+      "passed": true,
+      "reason": "Dòng CTR công cộng thuộc Khu D tr. 147 ghi 3,2 tấn/ngày."
+    },
+    {
+      "id": "S07",
+      "passed": false,
+      "reason": "Agent từ chối. Trên mép trên Hình 1 tr. 12 có nhãn TỈNH THÁI NGUYÊN."
+    },
+    {
+      "id": "S08",
+      "passed": true,
+      "reason": "Ảnh Hình 5 tr. 22 cho thấy mái đỏ của khu dân cư ở xa."
+    },
+    {
+      "id": "S09",
+      "passed": true,
+      "reason": "Vùng mang nhãn Khu D ở Hình 6 tr. 55 được tô xanh lam sáng."
+    },
+    {
+      "id": "S10",
+      "passed": true,
+      "reason": "Các phối cảnh dải dưới Hình 8 tr. 99 có khối cao hơn các nhà phía trên."
+    },
+    {
+      "id": "S11",
+      "passed": true,
+      "reason": "Hình 10 tr. 103 xếp bàng Đài Loan, sao đen, bằng lăng tím theo đúng thứ tự này."
+    },
+    {
+      "id": "S12",
+      "passed": true,
+      "reason": "Hai cột trên tr. 18 lần lượt ghi 29.938 và 1.350 người. Hiệu 28.588 người."
+    },
+    {
+      "id": "S13",
+      "passed": true,
+      "reason": "Cộng 58.830 và 14.626 từ tr. 18 được 73.456 người."
+    },
+    {
+      "id": "S14",
+      "passed": true,
+      "reason": "Biểu đồ tr. 18 bắt đầu trục tung ở vạch 0. Đơn vị người đã nêu trong câu hỏi."
+    },
+    {
+      "id": "S15",
+      "passed": true,
+      "reason": "Năm giá trị trên tr. 18 từ trái sang phải đều giảm liên tiếp."
+    },
+    {
+      "id": "S16",
+      "passed": true,
+      "reason": "Liên Minh có 1.350 người, nằm giữa 1.000 và 2.000 theo biểu đồ tr. 18."
+    },
+    {
+      "id": "S17",
+      "passed": true,
+      "reason": "Tr. 103 liệt kê cọ Nhật và vạn tuế cho hàng công viên và vườn hoa. Tr. 102 nói rõ không xây dựng công trình trong khu vực cây xanh chuyên dụng."
+    },
+    {
+      "id": "S18",
+      "passed": true,
+      "reason": "Hình 9 tr. 102 có sân ngoài trời. Đoạn Khu vực cơ quan, trụ sở tr. 101 giới hạn 5 tầng."
+    },
+    {
+      "id": "S19",
+      "passed": false,
+      "reason": "Ý hai bị từ chối sau khi mô hình chọn mô tả chung. PDF tr. 145 nêu rõ nước thải công nghiệp được thu gom và xử lý theo hệ thống riêng."
+    },
+    {
+      "id": "S20",
+      "passed": false,
+      "reason": "Ý vị trí bên trái đúng. Agent lấy 3.100 ha từ quyết định ở tr. 322. Mục Quy mô ngay sau ranh giới phía Nam ở tr. 14 ghi khoảng 3.086 ha."
+    },
+    {
+      "id": "S21",
+      "passed": true,
+      "reason": "Tr. 106 nêu mỗi trạm điện thoại công cộng cách nhau 200–250 m."
+    },
+    {
+      "id": "S22",
+      "passed": true,
+      "reason": "Đoạn về các tuyến đường thôn xóm tr. 25 nêu mặt cắt ngang phổ biến 4–6 m."
+    },
+    {
+      "id": "S23",
+      "passed": true,
+      "reason": "Đoạn cây xanh sử dụng công cộng tr. 102 nêu tầng cao tối đa 1 tầng."
+    },
+    {
+      "id": "S24",
+      "passed": true,
+      "reason": "Tr. 145 ghi n=0,011 cho ống nhựa."
+    },
+    {
+      "id": "S25",
+      "passed": true,
+      "reason": "Từ chối đúng. Bảng phụ tải điện tr. 134 không ghi hãng sản xuất thiết bị."
+    },
+    {
+      "id": "S26",
+      "passed": true,
+      "reason": "Từ chối đúng. Bảng tr. 24 có tên và diện tích của chùa, không có sức chứa."
+    },
+    {
+      "id": "S27",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 10 tr. 103 ghi các loài cây theo hàng, không ghi chiều cao trưởng thành."
+    },
+    {
+      "id": "S28",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 12 tr. 106 là minh họa và không ghi ngày lắp đặt thực tế."
+    },
+    {
+      "id": "S29",
+      "passed": true,
+      "reason": "Từ chối đúng. Bảng 7.6-4 tr. 147 ghi lượng phát sinh, không ghi giá bán."
+    },
+    {
+      "id": "S30",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 9 tr. 102 minh họa sân và công trình, không ghi số người tối đa."
+    }
+  ]
+}

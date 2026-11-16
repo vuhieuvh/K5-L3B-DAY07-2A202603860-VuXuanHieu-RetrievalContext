@@ -1,0 +1,576 @@
+[
+  {
+    "id": "D01",
+    "split": "dev",
+    "group": "table",
+    "question": "Trong bảng thống kê hiện trạng sử dụng đất, đất y tế hiện trạng có diện tích bao nhiêu ha?",
+    "expected_answer": "5,08 ha.",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          638.8,
+          549.8,
+          688.7
+        ],
+        "table": 2,
+        "rows": [
+          2,
+          4
+        ],
+        "source_detail": "1 | Đất nhóm nhà ở hiện trạng | 115,95 | 3,76 | 2 | Đất làng xóm, dân cư nông thôn | 774,99 | 25,11 | 3 | Đất y tế | 5,08 | 0,16"
+      }
+    ]
+  },
+  {
+    "id": "D02",
+    "split": "dev",
+    "group": "table",
+    "question": "Bảng hiện trạng dân số ghi tỷ lệ dân số xã Đan Phượng là bao nhiêu phần trăm?",
+    "expected_answer": "26,21%.",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          72.4,
+          549.8,
+          137.4
+        ],
+        "table": 1,
+        "rows": [
+          1,
+          3
+        ],
+        "source_detail": "TT | Xã, phường | Dân số (người) | Tỷ lệ (%) | 1 | Xã Dương Hoà | 58.830 | 51,50 | 2 | Xã Đan Phượng | 29.938 | 26,21"
+      }
+    ]
+  },
+  {
+    "id": "D03",
+    "split": "dev",
+    "group": "table",
+    "question": "Trong bảng dự báo lượng chất thải rắn phát sinh, dòng CTR công nghiệp ở Khu C ghi khối lượng bao nhiêu tấn/ngày?",
+    "expected_answer": "26,6 tấn/ngày.",
+    "evidence": [
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          318.5,
+          549.8,
+          378.4
+        ],
+        "table": 1,
+        "rows": [
+          11,
+          13
+        ],
+        "source_detail": "B | KHU C | 134,1 | 1 | CTR sinh hoạt | 66.400 | 79,7 | 2 | CTR công nghiệp | 88,51 | 26,6"
+      }
+    ]
+  },
+  {
+    "id": "D04",
+    "split": "dev",
+    "group": "image",
+    "question": "Trong Hình 1 về mối liên hệ vùng, nhãn 'Vị trí nghiên cứu lập quy hoạch' nằm ở góc nào của bản đồ?",
+    "expected_answer": "Góc dưới bên trái.",
+    "evidence": [
+      {
+        "page": 12,
+        "kind": "image",
+        "bbox": [
+          85.6,
+          258.6,
+          526.3,
+          754
+        ],
+        "source_detail": "Hình 1. Vị trí và mối liên hệ vùng"
+      }
+    ]
+  },
+  {
+    "id": "D05",
+    "split": "dev",
+    "group": "image",
+    "question": "Trong Hình 2, dải khu nghiên cứu gần giữa bản đồ được tô màu gì?",
+    "expected_answer": "Màu đỏ.",
+    "evidence": [
+      {
+        "page": 13,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          62.1,
+          565.7,
+          627.6
+        ],
+        "source_detail": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội"
+      }
+    ]
+  },
+  {
+    "id": "D06",
+    "split": "dev",
+    "group": "image",
+    "question": "Trong Hình 12 về các tiện ích đô thị, bốt điện thoại ở góc dưới phải có màu gì?",
+    "expected_answer": "Màu đỏ.",
+    "evidence": [
+      {
+        "page": 106,
+        "kind": "image",
+        "bbox": [
+          66.8,
+          111.6,
+          546.7,
+          401.8
+        ],
+        "source_detail": "Hình 12. Các tiện ích đô thị"
+      }
+    ]
+  },
+  {
+    "id": "D07",
+    "split": "dev",
+    "group": "chart",
+    "question": "Biểu đồ hiện trạng dân số dùng các cột màu gì?",
+    "expected_answer": "Màu cam.",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "D08",
+    "split": "dev",
+    "group": "chart",
+    "question": "Khoảng cách giữa hai vạch chia liên tiếp trên trục tung của biểu đồ hiện trạng dân số là bao nhiêu người?",
+    "expected_answer": "10.000 người.",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "D09",
+    "split": "dev",
+    "group": "multi",
+    "question": "Ghép hai dữ kiện về quy mô dân số: (1) Bảng hiện trạng dân số ghi tổng cộng bao nhiêu người? (2) Mục Phạm vi và quy mô lập quy hoạch nêu dân số dự kiến khoảng bao nhiêu người?",
+    "expected_answer": "114.234 người hiện trạng và khoảng 200.000 người dự kiến.",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          154.0,
+          549.8,
+          203.8
+        ],
+        "table": 1,
+        "rows": [
+          5,
+          7
+        ],
+        "source_detail": "4 | Xã Sơn Đồng | 9.490 | 8,31 | 5 | Xã Liên Minh | 1.350 | 1,18 | Tổng cộng | 114.234 | 100,00"
+      },
+      {
+        "page": 14,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          656.1,
+          547.9,
+          779.9
+        ],
+        "source_detail": "Dân số: Dự kiến khoảng 200.000 người"
+      }
+    ]
+  },
+  {
+    "id": "D10",
+    "split": "dev",
+    "group": "multi",
+    "question": "Đối chiếu phương án hạ tầng: (1) Hình 13 ghi tên lưu vực có nền gạch chéo là gì? (2) Phần quy trình quản lý CTR gọi phương tiện đưa rác từ điểm trung chuyển đến khu xử lý là gì?",
+    "expected_answer": "Lưu vực 2 và xe chuyên dụng.",
+    "evidence": [
+      {
+        "page": 144,
+        "kind": "image",
+        "bbox": [
+          241.1,
+          214,
+          370.8,
+          531
+        ],
+        "source_detail": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính"
+      },
+      {
+        "page": 147,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          575.4,
+          547.9,
+          612.0
+        ],
+        "source_detail": "điểm trung chuyển CTR → xe chuyên dụng → Khu xử lý CTR"
+      }
+    ]
+  },
+  {
+    "id": "D11",
+    "split": "dev",
+    "group": "text",
+    "question": "Mục đánh giá địa chất thủy văn cho biết sông Đáy qua khu vực nghiên cứu dài khoảng bao nhiêu?",
+    "expected_answer": "Gần 20 km.",
+    "evidence": [
+      {
+        "page": 16,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          204.2,
+          547.3,
+          235.9
+        ],
+        "source_detail": "Chiều dài sông Đáy qua khu vực nghiên cứu khoảng gần 20km"
+      }
+    ]
+  },
+  {
+    "id": "D12",
+    "split": "dev",
+    "group": "text",
+    "question": "Theo phần tính chất, dự kiến tiếp cận nội đô bằng đường sắt đô thị trong khoảng bao lâu?",
+    "expected_answer": "Trong vòng 15 phút.",
+    "evidence": [
+      {
+        "page": 15,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          56.4,
+          547.9,
+          104.1
+        ],
+        "source_detail": "tiếp cận nội đô thông qua hệ thống đường sắt đô thị trong vòng 15 phút"
+      }
+    ]
+  },
+  {
+    "id": "D13",
+    "split": "dev",
+    "group": "text",
+    "question": "Phạm vi ranh giới nghiên cứu phía Tây giáp những gì?",
+    "expected_answer": "Đê hiện trạng và đất nông nghiệp.",
+    "evidence": [
+      {
+        "page": 14,
+        "kind": "text",
+        "bbox": [
+          96.0,
+          598.1,
+          379.7,
+          613.7
+        ],
+        "source_detail": "Phía Tây giáp đê hiện trạng và đất nông nghiệp"
+      }
+    ]
+  },
+  {
+    "id": "D14",
+    "split": "dev",
+    "group": "text",
+    "question": "Giải pháp mạng lưới thoát nước thải sinh hoạt đề xuất các tuyến cống có dải đường kính nào?",
+    "expected_answer": "D300–600 mm.",
+    "evidence": [
+      {
+        "page": 144,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          571.2,
+          547.9,
+          691.6
+        ],
+        "source_detail": "đường kính D300÷600mm"
+      }
+    ]
+  },
+  {
+    "id": "D15",
+    "split": "dev",
+    "group": "text",
+    "question": "Theo giải pháp tổ chức khu vực y tế, mật độ xây dựng gộp tối đa là bao nhiêu phần trăm?",
+    "expected_answer": "40%.",
+    "evidence": [
+      {
+        "page": 99,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          632.4,
+          547.3,
+          683.2
+        ],
+        "source_detail": "Có mật độ xây dựng gộp tối đa 40%"
+      }
+    ]
+  },
+  {
+    "id": "D16",
+    "split": "dev",
+    "group": "missing",
+    "question": "Trong biểu đồ hiện trạng dân số, nhóm dưới 18 tuổi có bao nhiêu người?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Từ chối vì biểu đồ chia theo xã, không phân nhóm tuổi.",
+    "checked_regions": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "D17",
+    "split": "dev",
+    "group": "missing",
+    "question": "Hình 3 trên nền ảnh vệ tinh ghi ngày chụp chính xác là ngày nào?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Từ chối vì hình và chú thích không có ngày chụp.",
+    "checked_regions": [
+      {
+        "page": 14,
+        "kind": "image",
+        "bbox": [
+          67.8,
+          62.1,
+          544.2,
+          504.2
+        ],
+        "source_detail": "Hình 3. Vị trí khu vực nghiên cứu trên nền ảnh vệ tinh"
+      }
+    ]
+  },
+  {
+    "id": "D18",
+    "split": "dev",
+    "group": "missing",
+    "question": "Bảng 7.6-4 dự báo lượng chất thải rắn phát sinh có ghi khối lượng riêng của rác sinh hoạt tính bằng kg/m³ là bao nhiêu?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Từ chối vì bảng chỉ có quy mô và khối lượng phát sinh, không có khối lượng riêng.",
+    "checked_regions": [
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          318.5,
+          549.8,
+          378.4
+        ],
+        "table": 1,
+        "rows": [
+          11,
+          13
+        ],
+        "source_detail": "B | KHU C | 134,1 | 1 | CTR sinh hoạt | 66.400 | 79,7 | 2 | CTR công nghiệp | 88,51 | 26,6"
+      }
+    ]
+  },
+  {
+    "id": "JD01",
+    "split": "dev",
+    "group": "multi",
+    "question": "Trong Hình 6, xác định tên khu của vùng tô đỏ rồi dùng tên khu đó tra Ptt (kW) trong bảng tổng hợp phụ tải điện.",
+    "expected_answer": "Khu A: 116.607 kW.",
+    "evidence": [
+      {
+        "page": 55,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56.2,
+          549.7,
+          749.8
+        ],
+        "source_detail": "Hình 6. Sơ đồ phân chia các khu vực"
+      },
+      {
+        "page": 134,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          457.4,
+          549.8,
+          473.2
+        ],
+        "table": 2,
+        "rows": [
+          5,
+          5
+        ],
+        "source_detail": "TT: I | Tên ô đất: Khu A | Ptt (kW): 116607 | Stt (kVA): 129563"
+      }
+    ],
+    "bridge": {
+      "entity": "Khu A",
+      "from": "Hình 6: tên khu của vùng tô đỏ",
+      "to": "bảng tổng hợp phụ tải điện: Ptt (kW) tại hàng Khu A"
+    }
+  },
+  {
+    "id": "JD02",
+    "split": "dev",
+    "group": "multi",
+    "question": "Trong Hình 6, xác định tên khu của vùng màu tím giữa hai vùng đỏ và vàng nâu rồi dùng tên khu đó tra Stt (kVA) trong bảng tổng hợp phụ tải điện.",
+    "expected_answer": "Khu B: 78.586 kVA.",
+    "evidence": [
+      {
+        "page": 55,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56.2,
+          549.7,
+          749.8
+        ],
+        "source_detail": "Hình 6. Sơ đồ phân chia các khu vực"
+      },
+      {
+        "page": 134,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          691.0,
+          549.8,
+          705.9
+        ],
+        "table": 2,
+        "rows": [
+          18,
+          18
+        ],
+        "source_detail": "TT: II | Tên ô đất: Khu B | Ptt (kW): 70727 | Stt (kVA): 78586"
+      }
+    ],
+    "bridge": {
+      "entity": "Khu B",
+      "from": "Hình 6: tên khu của vùng màu tím giữa hai vùng đỏ và vàng nâu",
+      "to": "bảng tổng hợp phụ tải điện: Stt (kVA) tại hàng Khu B"
+    }
+  },
+  {
+    "id": "JD03",
+    "split": "dev",
+    "group": "multi",
+    "question": "Trong Hình 6, xác định tên khu của vùng trên cùng rồi dùng tên khu đó tra khối lượng CTR xây dựng (tấn/ngày) trong bảng 7.6-4.",
+    "expected_answer": "Khu A: 22,0 tấn/ngày.",
+    "evidence": [
+      {
+        "page": 55,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56.2,
+          549.7,
+          749.8
+        ],
+        "source_detail": "Hình 6. Sơ đồ phân chia các khu vực"
+      },
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          218.9,
+          549.8,
+          238.8
+        ],
+        "table": 1,
+        "rows": [
+          6,
+          6
+        ],
+        "source_detail": "TT: 3 | Hạng mục: CTR xây dựng | Khối lượng CTR (Tấn/ngày) 2045: 22,0"
+      }
+    ],
+    "bridge": {
+      "entity": "Khu A",
+      "from": "Hình 6: tên khu của vùng trên cùng",
+      "to": "bảng 7.6-4: khối lượng CTR xây dựng (tấn/ngày) tại hàng Khu A"
+    }
+  },
+  {
+    "id": "JD04",
+    "split": "dev",
+    "group": "multi",
+    "question": "Trong Hình 4, xác định hạng mục ứng với ô xanh lá nhạt rồi dùng hạng mục đó tra tỷ lệ (%) trong bảng thống kê hiện trạng sử dụng đất.",
+    "expected_answer": "Đất sản xuất nông nghiệp: 50,89%.",
+    "evidence": [
+      {
+        "page": 20,
+        "kind": "image",
+        "bbox": [
+          98.4,
+          56.2,
+          513.6,
+          765.5
+        ],
+        "source_detail": "Hình 4. Sơ đồ hiện trạng sử dụng đất"
+      },
+      {
+        "page": 19,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          287.6,
+          549.8,
+          304.2
+        ],
+        "table": 1,
+        "rows": [
+          14,
+          14
+        ],
+        "source_detail": "TT: 20 | Hạng mục sử dụng đất: Đất sản xuất nông nghiệp | Diện tích (ha): 1.570,53 | Tỷ lệ (%): 50,89"
+      }
+    ],
+    "bridge": {
+      "entity": "Đất sản xuất nông nghiệp",
+      "from": "Hình 4: hạng mục ứng với ô xanh lá nhạt",
+      "to": "bảng thống kê hiện trạng sử dụng đất: tỷ lệ (%) tại hàng Đất sản xuất nông nghiệp"
+    }
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "trace_sha256": "b198022e5a816c368d70bcfec5a56b6d4cf164036cea91f1db21c0602f7ebf9e",
+  "labels": [
+    {
+      "id": "D01",
+      "passed": true,
+      "reason": "Bảng tr. 18 xác nhận 5,08 ha."
+    },
+    {
+      "id": "D02",
+      "passed": true,
+      "reason": "Bảng tr. 18 xác nhận 26,21%."
+    },
+    {
+      "id": "D03",
+      "passed": false,
+      "reason": "79,7 tấn/ngày là CTR sinh hoạt của Khu C. Dòng CTR công nghiệp ở phần bảng kế tiếp là 26,6."
+    },
+    {
+      "id": "D04",
+      "passed": true,
+      "reason": "Hình 1 tr. 12 ghi vị trí nhãn ở góc dưới trái."
+    },
+    {
+      "id": "D05",
+      "passed": true,
+      "reason": "Quan sát Hình 2 tr. 13 thấy dải nghiên cứu màu đỏ."
+    },
+    {
+      "id": "D06",
+      "passed": true,
+      "reason": "Hình 12 tr. 106 có bốt điện thoại đỏ."
+    },
+    {
+      "id": "D07",
+      "passed": true,
+      "reason": "Cột màu cam ở biểu đồ tr. 18."
+    },
+    {
+      "id": "D08",
+      "passed": true,
+      "reason": "Các vạch trục tung cách 10.000 người."
+    },
+    {
+      "id": "D09",
+      "passed": false,
+      "reason": "Đủ hai số và dẫn đúng bảng hiện trạng, nhưng gán sai trang cho mục Phạm vi và quy mô. Tr. 44 là mục 4.3.1, mục được hỏi nằm tr. 14."
+    },
+    {
+      "id": "D10",
+      "passed": false,
+      "reason": "Câu trả lời tự mâu thuẫn về gạch chéo và thiếu phương tiện xe chuyên dụng."
+    },
+    {
+      "id": "D11",
+      "passed": true,
+      "reason": "Đoạn địa chất thủy văn tr. 16 cho biết gần 20 km."
+    },
+    {
+      "id": "D12",
+      "passed": false,
+      "reason": "Từ chối vì 'bằng' bị nhận nhầm là 'bảng', truy xuất chỉ vào bảng."
+    },
+    {
+      "id": "D13",
+      "passed": false,
+      "reason": "Lẫn phạm vi ở phụ lục vào phạm vi ở tr. 14."
+    },
+    {
+      "id": "D14",
+      "passed": false,
+      "reason": "Từ chối dù nguồn tr. 144 nêu D300–600 mm."
+    },
+    {
+      "id": "D15",
+      "passed": true,
+      "reason": "Nguồn khu vực y tế tr. 99 xác nhận 40%."
+    },
+    {
+      "id": "D16",
+      "passed": false,
+      "reason": "58.830 là dân số Dương Hòa. Biểu đồ không chia tuổi."
+    },
+    {
+      "id": "D17",
+      "passed": true,
+      "reason": "Từ chối đúng vì hình không ghi ngày chụp."
+    },
+    {
+      "id": "D18",
+      "passed": true,
+      "reason": "Từ chối đúng vì bảng không ghi khối lượng riêng."
+    }
+  ]
+}

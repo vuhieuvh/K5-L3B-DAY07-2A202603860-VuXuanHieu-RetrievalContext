@@ -1,0 +1,76 @@
+{
+  "hybrid": {
+    "passed": 15,
+    "total": 18,
+    "rate": 0.8333333333333334,
+    "by_group": {
+      "table": {
+        "passed": 3,
+        "total": 3
+      },
+      "image": {
+        "passed": 3,
+        "total": 3
+      },
+      "chart": {
+        "passed": 2,
+        "total": 2
+      },
+      "multi": {
+        "passed": 0,
+        "total": 2
+      },
+      "text": {
+        "passed": 4,
+        "total": 5
+      },
+      "missing": {
+        "passed": 3,
+        "total": 3
+      }
+    },
+    "errors": 0,
+    "median_seconds": 9.843093950000366,
+    "total_seconds": 183.6929637000003,
+    "cost_usd": 0,
+    "trace_sha256": "f6c8c009fd2605e569543160e63f68e1d32a4fda24d5a90334f4b5997c4f64b7",
+    "review_sha256": "4f08ba5a86ca572451a8084299c3fab59d02c93dfa1e6adad9d4d4970392d388"
+  },
+  "routed": {
+    "passed": 14,
+    "total": 18,
+    "rate": 0.7777777777777778,
+    "by_group": {
+      "table": {
+        "passed": 2,
+        "total": 3
+      },
+      "image": {
+        "passed": 3,
+        "total": 3
+      },
+      "chart": {
+        "passed": 2,
+        "total": 2
+      },
+      "multi": {
+        "passed": 1,
+        "total": 2
+      },
+      "text": {
+        "passed": 4,
+        "total": 5
+      },
+      "missing": {
+        "passed": 2,
+        "total": 3
+      }
+    },
+    "errors": 0,
+    "median_seconds": 6.684687700000268,
+    "total_seconds": 151.66651889999866,
+    "cost_usd": 0,
+    "trace_sha256": "ee84893f17b535d7b307d614fd62ae0a53dcfe9d5a00c8d85aebe0ee2053b4e5",
+    "review_sha256": "7fd8e1a3b7c8eade325090556a6ffdd92da2f5200b57c1eeab0ae5cd6f9d4268"
+  }
+}

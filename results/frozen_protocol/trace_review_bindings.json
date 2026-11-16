@@ -1,0 +1,22 @@
+{
+  "dev/dense": {
+    "trace_sha256": "e531469a6b7dc784bd8f7a6bfc6b309daab380da8af6a98639f24446dede6811",
+    "review_sha256": "fa86917e31022644b9b6ea20b33eda43e31e70a80ba4b0e7cff5fc144bd5abd6"
+  },
+  "dev/lexical": {
+    "trace_sha256": "27a87090a381ee6b67e83e07847915a5aab92880c34f3bbaeabffab0bd640809",
+    "review_sha256": "4ed69272ab231a00927a7e6ad32d3d039abbb284112bffdcf1ee00c1891e3def"
+  },
+  "dev/hybrid": {
+    "trace_sha256": "2654583eb52b142a810a21987d1adcfcbc7ba27d3026df6968f532d4a8c99815",
+    "review_sha256": "7dc16fb1b8d3954c98591912195f05d1e8c09fc702af0e6495569b088b6f0172"
+  },
+  "dev/hybrid_context": {
+    "trace_sha256": "81c03f9f1a1e77248c0bdedc41c31112db39f11bb23b68b530a478956a03d250",
+    "review_sha256": "77bf14928ee6e12c732232325157863fff8cddb3bd98fb626cbd763ac2e67894"
+  },
+  "test/dense": {
+    "trace_sha256": "93e0f1e36465339efc67df8deec321f4766779a2689e68783e3c79efc0d4373d",
+    "review_sha256": "c6d120eab140e1c52630119e510bb2b141b3757e97288ebc7a7efe2ac2f84e6b"
+  }
+}

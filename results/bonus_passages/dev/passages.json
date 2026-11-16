@@ -1,0 +1,2209 @@
+[
+  {
+    "id": "D01",
+    "question": "Trong bảng thống kê hiện trạng sử dụng đất, đất y tế hiện trạng có diện tích bao nhiêu ha?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong bảng thống kê hiện trạng sử dụng đất, đất y tế hiện trạng có diện tích bao nhiêu ha?",
+        "route": "grid",
+        "candidates": [
+          {
+            "id": "P018-grid-2-4",
+            "page": 18,
+            "kind": "table",
+            "table": 2,
+            "rows": [
+              4,
+              4
+            ],
+            "bbox": [
+              62.3,
+              672.0,
+              549.8,
+              688.7
+            ],
+            "title": "Bảng thống kê hiện trạng sử dụng đất",
+            "label": "Đất y tế",
+            "group": "",
+            "columns": [
+              [
+                "TT",
+                "3"
+              ],
+              [
+                "Hạng mục sử dụng đất",
+                "Đất y tế"
+              ],
+              [
+                "Diện tích (ha)",
+                "5,08"
+              ],
+              [
+                "Tỷ lệ (%)",
+                "0,16"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "event": "read_cell",
+        "field": "Diện tích (ha)",
+        "id": "P018-grid-2-4"
+      }
+    ],
+    "answer": "5,08 ha.",
+    "citations": [
+      {
+        "id": "P018-grid-2-4",
+        "page": 18,
+        "kind": "table",
+        "table": 2,
+        "rows": [
+          4,
+          4
+        ],
+        "bbox": [
+          62.3,
+          672.0,
+          549.8,
+          688.7
+        ],
+        "title": "Bảng thống kê hiện trạng sử dụng đất",
+        "label": "Đất y tế",
+        "group": "",
+        "columns": [
+          [
+            "TT",
+            "3"
+          ],
+          [
+            "Hạng mục sử dụng đất",
+            "Đất y tế"
+          ],
+          [
+            "Diện tích (ha)",
+            "5,08"
+          ],
+          [
+            "Tỷ lệ (%)",
+            "0,16"
+          ]
+        ]
+      }
+    ],
+    "elapsed_seconds": 0.0019042000003537396,
+    "cost_usd": 0
+  },
+  {
+    "id": "D02",
+    "question": "Bảng hiện trạng dân số ghi tỷ lệ dân số xã Đan Phượng là bao nhiêu phần trăm?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Bảng hiện trạng dân số ghi tỷ lệ dân số xã Đan Phượng là bao nhiêu phần trăm?",
+        "route": "grid",
+        "candidates": [
+          {
+            "id": "P018-grid-1-3",
+            "page": 18,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              3,
+              3
+            ],
+            "bbox": [
+              62.3,
+              120.9,
+              549.8,
+              137.4
+            ],
+            "title": "Bảng hiện trạng dân số",
+            "label": "Xã Đan Phượng",
+            "group": "",
+            "columns": [
+              [
+                "TT",
+                "2"
+              ],
+              [
+                "Xã, phường",
+                "Xã Đan Phượng"
+              ],
+              [
+                "Dân số (người)",
+                "29.938"
+              ],
+              [
+                "Tỷ lệ (%)",
+                "26,21"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "event": "read_cell",
+        "field": "Tỷ lệ (%)",
+        "id": "P018-grid-1-3"
+      }
+    ],
+    "answer": "26,21%.",
+    "citations": [
+      {
+        "id": "P018-grid-1-3",
+        "page": 18,
+        "kind": "table",
+        "table": 1,
+        "rows": [
+          3,
+          3
+        ],
+        "bbox": [
+          62.3,
+          120.9,
+          549.8,
+          137.4
+        ],
+        "title": "Bảng hiện trạng dân số",
+        "label": "Xã Đan Phượng",
+        "group": "",
+        "columns": [
+          [
+            "TT",
+            "2"
+          ],
+          [
+            "Xã, phường",
+            "Xã Đan Phượng"
+          ],
+          [
+            "Dân số (người)",
+            "29.938"
+          ],
+          [
+            "Tỷ lệ (%)",
+            "26,21"
+          ]
+        ]
+      }
+    ],
+    "elapsed_seconds": 0.00044969999908062164,
+    "cost_usd": 0
+  },
+  {
+    "id": "D03",
+    "question": "Trong bảng dự báo lượng chất thải rắn phát sinh, dòng CTR công nghiệp ở Khu C ghi khối lượng bao nhiêu tấn/ngày?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong bảng dự báo lượng chất thải rắn phát sinh, dòng CTR công nghiệp ở Khu C ghi khối lượng bao nhiêu tấn/ngày?",
+        "route": "grid",
+        "candidates": [
+          {
+            "id": "P147-grid-1-11",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              11,
+              11
+            ],
+            "bbox": [
+              62.3,
+              318.5,
+              549.8,
+              338.5
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "KHU C",
+            "group": "KHU C",
+            "columns": [
+              [
+                "TT",
+                "B"
+              ],
+              [
+                "Hạng mục",
+                "KHU C"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "134,1"
+              ]
+            ]
+          },
+          {
+            "id": "P147-grid-1-13",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              13,
+              13
+            ],
+            "bbox": [
+              62.3,
+              358.5,
+              549.8,
+              378.4
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "CTR công nghiệp",
+            "group": "KHU C",
+            "columns": [
+              [
+                "TT",
+                "2"
+              ],
+              [
+                "Hạng mục",
+                "CTR công nghiệp"
+              ],
+              [
+                "Ha",
+                "88,51"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "26,6"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "event": "read_cell",
+        "field": "Khối lượng CTR (Tấn/ngày) 2045",
+        "id": "P147-grid-1-13"
+      }
+    ],
+    "answer": "26,6 Tấn/ngày.",
+    "citations": [
+      {
+        "id": "P147-grid-1-13",
+        "page": 147,
+        "kind": "table",
+        "table": 1,
+        "rows": [
+          13,
+          13
+        ],
+        "bbox": [
+          62.3,
+          358.5,
+          549.8,
+          378.4
+        ],
+        "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+        "label": "CTR công nghiệp",
+        "group": "KHU C",
+        "columns": [
+          [
+            "TT",
+            "2"
+          ],
+          [
+            "Hạng mục",
+            "CTR công nghiệp"
+          ],
+          [
+            "Ha",
+            "88,51"
+          ],
+          [
+            "Khối lượng CTR (Tấn/ngày) 2045",
+            "26,6"
+          ]
+        ]
+      }
+    ],
+    "elapsed_seconds": 0.0013873000007151859,
+    "cost_usd": 0
+  },
+  {
+    "id": "D04",
+    "question": "Trong Hình 1 về mối liên hệ vùng, nhãn 'Vị trí nghiên cứu lập quy hoạch' nằm ở góc nào của bản đồ?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong Hình 1 về mối liên hệ vùng, nhãn 'Vị trí nghiên cứu lập quy hoạch' nằm ở góc nào của bản đồ?",
+        "route": "figure",
+        "candidates": [
+          {
+            "page": 12,
+            "kind": "image",
+            "bbox": [
+              85.6,
+              258.6,
+              526.3,
+              754
+            ],
+            "title": "Hình 1. Vị trí và mối liên hệ vùng",
+            "id": "P012-image-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "góc dưới trái",
+          "source": "S1",
+          "quote": "mũi chỉ từ nhãn VỊ TRÍ NGHIÊN CỨU LẬP QUY HOẠCH ở góc dưới trái"
+        },
+        "usage": {
+          "prompt": 317,
+          "generated": 57
+        }
+      }
+    ],
+    "answer": "góc dưới trái",
+    "citations": [
+      {
+        "page": 12,
+        "kind": "image",
+        "bbox": [
+          85.6,
+          258.6,
+          526.3,
+          754
+        ],
+        "title": "Hình 1. Vị trí và mối liên hệ vùng",
+        "id": "P012-image-01"
+      }
+    ],
+    "elapsed_seconds": 7.8858506999986275,
+    "cost_usd": 0
+  },
+  {
+    "id": "D05",
+    "question": "Trong Hình 2, dải khu nghiên cứu gần giữa bản đồ được tô màu gì?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong Hình 2, dải khu nghiên cứu gần giữa bản đồ được tô màu gì?",
+        "route": "figure",
+        "candidates": [
+          {
+            "page": 13,
+            "kind": "image",
+            "bbox": [
+              67.7,
+              62.1,
+              565.7,
+              627.6
+            ],
+            "title": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội",
+            "id": "P013-image-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "đỏ",
+          "source": "S1",
+          "quote": "khu nghiên cứu là dải màu đỏ thuôn theo chiều dọc gần giữa bản đồ"
+        },
+        "usage": {
+          "prompt": 305,
+          "generated": 46
+        }
+      }
+    ],
+    "answer": "đỏ",
+    "citations": [
+      {
+        "page": 13,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          62.1,
+          565.7,
+          627.6
+        ],
+        "title": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội",
+        "id": "P013-image-01"
+      }
+    ],
+    "elapsed_seconds": 9.07959689999916,
+    "cost_usd": 0
+  },
+  {
+    "id": "D06",
+    "question": "Trong Hình 12 về các tiện ích đô thị, bốt điện thoại ở góc dưới phải có màu gì?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong Hình 12 về các tiện ích đô thị, bốt điện thoại ở góc dưới phải có màu gì?",
+        "route": "figure",
+        "candidates": [
+          {
+            "page": 106,
+            "kind": "image",
+            "bbox": [
+              66.8,
+              111.6,
+              546.7,
+              401.8
+            ],
+            "title": "Hình 12. Các tiện ích đô thị",
+            "id": "P106-image-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "đỏ",
+          "source": "S1",
+          "quote": "bốt điện thoại công cộng màu đỏ ở góc dưới phải."
+        },
+        "usage": {
+          "prompt": 283,
+          "generated": 39
+        }
+      }
+    ],
+    "answer": "đỏ",
+    "citations": [
+      {
+        "page": 106,
+        "kind": "image",
+        "bbox": [
+          66.8,
+          111.6,
+          546.7,
+          401.8
+        ],
+        "title": "Hình 12. Các tiện ích đô thị",
+        "id": "P106-image-01"
+      }
+    ],
+    "elapsed_seconds": 5.093623700000535,
+    "cost_usd": 0
+  },
+  {
+    "id": "D07",
+    "question": "Biểu đồ hiện trạng dân số dùng các cột màu gì?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Biểu đồ hiện trạng dân số dùng các cột màu gì?",
+        "route": "chart",
+        "candidates": [
+          {
+            "page": 18,
+            "kind": "chart",
+            "bbox": [
+              65.9,
+              226.1,
+              545.3,
+              408.1
+            ],
+            "title": "Biểu đồ hiện trạng dân số",
+            "id": "P018-chart-01"
+          }
+        ]
+      },
+      {
+        "event": "chart_plan",
+        "plan": {
+          "action": "visual"
+        },
+        "usage": {
+          "prompt": 368,
+          "generated": 9
+        }
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "cam",
+          "source": "S1",
+          "quote": "Biểu đồ cột đứng màu cam."
+        },
+        "usage": {
+          "prompt": 363,
+          "generated": 34
+        }
+      }
+    ],
+    "answer": "cam",
+    "citations": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "title": "Biểu đồ hiện trạng dân số",
+        "id": "P018-chart-01"
+      }
+    ],
+    "elapsed_seconds": 6.907513199999812,
+    "cost_usd": 0
+  },
+  {
+    "id": "D08",
+    "question": "Khoảng cách giữa hai vạch chia liên tiếp trên trục tung của biểu đồ hiện trạng dân số là bao nhiêu người?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Khoảng cách giữa hai vạch chia liên tiếp trên trục tung của biểu đồ hiện trạng dân số là bao nhiêu người?",
+        "route": "chart",
+        "candidates": [
+          {
+            "page": 18,
+            "kind": "chart",
+            "bbox": [
+              65.9,
+              226.1,
+              545.3,
+              408.1
+            ],
+            "title": "Biểu đồ hiện trạng dân số",
+            "id": "P018-chart-01"
+          }
+        ]
+      },
+      {
+        "event": "chart_plan",
+        "plan": {
+          "action": "visual"
+        },
+        "usage": null
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "10.000",
+          "source": "S1",
+          "quote": "vạch cách nhau 10.000 người"
+        },
+        "usage": {
+          "prompt": 378,
+          "generated": 43
+        }
+      }
+    ],
+    "answer": "10.000",
+    "citations": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "title": "Biểu đồ hiện trạng dân số",
+        "id": "P018-chart-01"
+      }
+    ],
+    "elapsed_seconds": 5.168106199998874,
+    "cost_usd": 0
+  },
+  {
+    "id": "D09",
+    "question": "Ghép hai dữ kiện về quy mô dân số: (1) Bảng hiện trạng dân số ghi tổng cộng bao nhiêu người? (2) Mục Phạm vi và quy mô lập quy hoạch nêu dân số dự kiến khoảng bao nhiêu người?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Bảng hiện trạng dân số ghi tổng cộng bao nhiêu người?",
+        "route": "grid",
+        "candidates": [
+          {
+            "id": "P018-grid-1-7",
+            "page": 18,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              7,
+              7
+            ],
+            "bbox": [
+              62.3,
+              187.2,
+              549.8,
+              203.8
+            ],
+            "title": "Bảng hiện trạng dân số",
+            "label": "Tổng cộng",
+            "group": "",
+            "columns": [
+              [
+                "Xã, phường",
+                "Tổng cộng"
+              ],
+              [
+                "Dân số (người)",
+                "114.234"
+              ],
+              [
+                "Tỷ lệ (%)",
+                "100,00"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "event": "read_cell",
+        "field": "Dân số (người)",
+        "id": "P018-grid-1-7"
+      },
+      {
+        "event": "search",
+        "query": "Mục Phạm vi và quy mô lập quy hoạch nêu dân số dự kiến khoảng bao nhiêu người?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 4,
+            "kind": "text",
+            "bbox": [
+              83.9,
+              53.1,
+              544.4,
+              782.0
+            ],
+            "id": "P004-text-01"
+          },
+          {
+            "page": 12,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.6,
+              547.9,
+              772.3
+            ],
+            "id": "P012-text-01"
+          },
+          {
+            "page": 14,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              510.5,
+              547.9,
+              779.9
+            ],
+            "id": "P014-text-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "Dự kiến khoảng 200.000 người",
+          "source": "S3",
+          "quote": "Dân số: Dự kiến khoảng 200.000 người"
+        },
+        "usage": {
+          "prompt": 574,
+          "generated": 53
+        }
+      }
+    ],
+    "answer": "114.234 người. Dự kiến khoảng 200.000 người",
+    "citations": [
+      {
+        "id": "P018-grid-1-7",
+        "page": 18,
+        "kind": "table",
+        "table": 1,
+        "rows": [
+          7,
+          7
+        ],
+        "bbox": [
+          62.3,
+          187.2,
+          549.8,
+          203.8
+        ],
+        "title": "Bảng hiện trạng dân số",
+        "label": "Tổng cộng",
+        "group": "",
+        "columns": [
+          [
+            "Xã, phường",
+            "Tổng cộng"
+          ],
+          [
+            "Dân số (người)",
+            "114.234"
+          ],
+          [
+            "Tỷ lệ (%)",
+            "100,00"
+          ]
+        ]
+      },
+      {
+        "page": 14,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          510.5,
+          547.9,
+          779.9
+        ],
+        "id": "P014-text-01"
+      }
+    ],
+    "elapsed_seconds": 7.58797290000075,
+    "cost_usd": 0
+  },
+  {
+    "id": "D10",
+    "question": "Đối chiếu phương án hạ tầng: (1) Hình 13 ghi tên lưu vực có nền gạch chéo là gì? (2) Phần quy trình quản lý CTR gọi phương tiện đưa rác từ điểm trung chuyển đến khu xử lý là gì?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Hình 13 ghi tên lưu vực có nền gạch chéo là gì?",
+        "route": "figure",
+        "candidates": [
+          {
+            "page": 144,
+            "kind": "image",
+            "bbox": [
+              241.1,
+              214,
+              370.8,
+              531
+            ],
+            "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+            "id": "P144-image-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "Lưu vực 2",
+          "source": "S1",
+          "quote": "lưu vực 2 ở dưới và bên trái, nền gạch chéo."
+        },
+        "usage": {
+          "prompt": 309,
+          "generated": 46
+        }
+      },
+      {
+        "event": "search",
+        "query": "Phần quy trình quản lý CTR gọi phương tiện đưa rác từ điểm trung chuyển đến khu xử lý là gì?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 147,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.9,
+              656.9
+            ],
+            "id": "P147-text-01"
+          },
+          {
+            "page": 27,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              569.0,
+              547.7,
+              787.7
+            ],
+            "id": "P027-text-04"
+          },
+          {
+            "page": 146,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.2,
+              547.4,
+              500.1
+            ],
+            "id": "P146-text-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "xe chuyên dụng",
+          "source": "S1",
+          "quote": "CTR từ các công trình → xe thu gom → điểm trung chuyển CTR → xe chuyên dụng → Khu xử lý CTR."
+        },
+        "usage": {
+          "prompt": 496,
+          "generated": 56
+        }
+      }
+    ],
+    "answer": "Lưu vực 2 xe chuyên dụng",
+    "citations": [
+      {
+        "page": 144,
+        "kind": "image",
+        "bbox": [
+          241.1,
+          214,
+          370.8,
+          531
+        ],
+        "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+        "id": "P144-image-01"
+      },
+      {
+        "page": 147,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          56.4,
+          547.9,
+          656.9
+        ],
+        "id": "P147-text-01"
+      }
+    ],
+    "elapsed_seconds": 11.954268100000263,
+    "cost_usd": 0
+  },
+  {
+    "id": "D11",
+    "question": "Mục đánh giá địa chất thủy văn cho biết sông Đáy qua khu vực nghiên cứu dài khoảng bao nhiêu?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Mục đánh giá địa chất thủy văn cho biết sông Đáy qua khu vực nghiên cứu dài khoảng bao nhiêu?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 16,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.9,
+              235.9
+            ],
+            "id": "P016-text-01"
+          },
+          {
+            "page": 16,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.9,
+              235.9
+            ],
+            "id": "P016-text-01"
+          },
+          {
+            "page": 16,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              239.5,
+              547.9,
+              429.4
+            ],
+            "id": "P016-text-02"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "gần 20km",
+          "source": "S1",
+          "quote": "Chiều dài sông Đáy qua khu vực nghiên cứu khoảng gần 20km."
+        },
+        "usage": {
+          "prompt": 521,
+          "generated": 49
+        }
+      }
+    ],
+    "answer": "gần 20km",
+    "citations": [
+      {
+        "page": 16,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          56.4,
+          547.9,
+          235.9
+        ],
+        "id": "P016-text-01"
+      }
+    ],
+    "elapsed_seconds": 6.878082100000029,
+    "cost_usd": 0
+  },
+  {
+    "id": "D12",
+    "question": "Theo phần tính chất, dự kiến tiếp cận nội đô bằng đường sắt đô thị trong khoảng bao lâu?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo phần tính chất, dự kiến tiếp cận nội đô bằng đường sắt đô thị trong khoảng bao lâu?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 42,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              486.9,
+              547.7,
+              582.9
+            ],
+            "id": "P042-text-03"
+          },
+          {
+            "page": 15,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.9,
+              104.1
+            ],
+            "id": "P015-text-01"
+          },
+          {
+            "page": 43,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.6,
+              547.7,
+              242.9
+            ],
+            "id": "P043-text-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "15 phút",
+          "source": "S1",
+          "quote": "tiếp cận nội đô thông qua hệ thống đường sắt đô thị trong vòng 15 phút"
+        },
+        "usage": {
+          "prompt": 594,
+          "generated": 46
+        }
+      }
+    ],
+    "answer": "15 phút",
+    "citations": [
+      {
+        "page": 42,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          486.9,
+          547.7,
+          582.9
+        ],
+        "id": "P042-text-03"
+      }
+    ],
+    "elapsed_seconds": 7.101311099999293,
+    "cost_usd": 0
+  },
+  {
+    "id": "D13",
+    "question": "Phạm vi ranh giới nghiên cứu phía Tây giáp những gì?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Phạm vi ranh giới nghiên cứu phía Tây giáp những gì?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 14,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              510.5,
+              547.9,
+              779.9
+            ],
+            "id": "P014-text-01"
+          },
+          {
+            "page": 142,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.7,
+              695.2
+            ],
+            "id": "P142-text-01"
+          },
+          {
+            "page": 16,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              239.5,
+              547.9,
+              429.4
+            ],
+            "id": "P016-text-02"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "sông Đáy",
+          "source": "S3",
+          "quote": "Khu vực nghiên cứu phía Tây có sông Đáy chảy qua"
+        },
+        "usage": {
+          "prompt": 485,
+          "generated": 43
+        }
+      }
+    ],
+    "answer": "sông Đáy",
+    "citations": [
+      {
+        "page": 16,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          239.5,
+          547.9,
+          429.4
+        ],
+        "id": "P016-text-02"
+      }
+    ],
+    "elapsed_seconds": 6.030529800000295,
+    "cost_usd": 0
+  },
+  {
+    "id": "D14",
+    "question": "Giải pháp mạng lưới thoát nước thải sinh hoạt đề xuất các tuyến cống có dải đường kính nào?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Giải pháp mạng lưới thoát nước thải sinh hoạt đề xuất các tuyến cống có dải đường kính nào?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 144,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              571.2,
+              547.9,
+              778.2
+            ],
+            "id": "P144-text-02"
+          },
+          {
+            "page": 144,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.8,
+              563.1
+            ],
+            "id": "P144-text-01"
+          },
+          {
+            "page": 141,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.2,
+              547.7,
+              388.9
+            ],
+            "id": "P141-text-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "D300÷600mm",
+          "source": "S1",
+          "quote": "Đề xuất xây dựng các tuyến cống có đường kính D300÷600mm để thu gom, vận chuyển nước thải về trạm xử lý nước thải."
+        },
+        "usage": {
+          "prompt": 475,
+          "generated": 73
+        }
+      }
+    ],
+    "answer": "D300÷600mm",
+    "citations": [
+      {
+        "page": 144,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          571.2,
+          547.9,
+          778.2
+        ],
+        "id": "P144-text-02"
+      }
+    ],
+    "elapsed_seconds": 8.460203399999955,
+    "cost_usd": 0
+  },
+  {
+    "id": "D15",
+    "question": "Theo giải pháp tổ chức khu vực y tế, mật độ xây dựng gộp tối đa là bao nhiêu phần trăm?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo giải pháp tổ chức khu vực y tế, mật độ xây dựng gộp tối đa là bao nhiêu phần trăm?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 99,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              632.4,
+              547.9,
+              785.8
+            ],
+            "id": "P099-text-02"
+          },
+          {
+            "page": 99,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              337.7,
+              547.9,
+              626.4
+            ],
+            "id": "P099-text-01"
+          },
+          {
+            "page": 100,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.9,
+              239.1
+            ],
+            "id": "P100-text-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "40%",
+          "source": "S1",
+          "quote": "Có mật độ xây dựng gộp tối đa 40%, tầng cao tối đa 5 tầng."
+        },
+        "usage": {
+          "prompt": 643,
+          "generated": 50
+        }
+      }
+    ],
+    "answer": "40%",
+    "citations": [
+      {
+        "page": 99,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          632.4,
+          547.9,
+          785.8
+        ],
+        "id": "P099-text-02"
+      }
+    ],
+    "elapsed_seconds": 7.904012299999522,
+    "cost_usd": 0
+  },
+  {
+    "id": "D16",
+    "question": "Trong biểu đồ hiện trạng dân số, nhóm dưới 18 tuổi có bao nhiêu người?",
+    "status": "abstain",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong biểu đồ hiện trạng dân số, nhóm dưới 18 tuổi có bao nhiêu người?",
+        "route": "chart",
+        "candidates": [
+          {
+            "page": 18,
+            "kind": "chart",
+            "bbox": [
+              65.9,
+              226.1,
+              545.3,
+              408.1
+            ],
+            "title": "Biểu đồ hiện trạng dân số",
+            "id": "P018-chart-01"
+          }
+        ]
+      },
+      {
+        "event": "chart_plan",
+        "plan": {
+          "action": "abstain"
+        },
+        "usage": {
+          "prompt": 375,
+          "generated": 11
+        }
+      }
+    ],
+    "answer": "Không đủ bằng chứng trong hồ sơ để trả lời.",
+    "citations": [],
+    "elapsed_seconds": 2.3379041999996844,
+    "cost_usd": 0
+  },
+  {
+    "id": "D17",
+    "question": "Hình 3 trên nền ảnh vệ tinh ghi ngày chụp chính xác là ngày nào?",
+    "status": "abstain",
+    "events": [
+      {
+        "event": "search",
+        "query": "Hình 3 trên nền ảnh vệ tinh ghi ngày chụp chính xác là ngày nào?",
+        "route": "figure",
+        "candidates": [
+          {
+            "page": 14,
+            "kind": "image",
+            "bbox": [
+              67.8,
+              62.1,
+              544.2,
+              504.2
+            ],
+            "title": "Hình 3. Vị trí khu vực nghiên cứu trên nền ảnh vệ tinh",
+            "id": "P014-image-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "abstain"
+        },
+        "usage": {
+          "prompt": 285,
+          "generated": 11
+        }
+      }
+    ],
+    "answer": "Không đủ bằng chứng trong hồ sơ để trả lời.",
+    "citations": [],
+    "elapsed_seconds": 1.7866546000004746,
+    "cost_usd": 0
+  },
+  {
+    "id": "D18",
+    "question": "Bảng 7.6-4 dự báo lượng chất thải rắn phát sinh có ghi khối lượng riêng của rác sinh hoạt tính bằng kg/m³ là bao nhiêu?",
+    "status": "abstain",
+    "events": [
+      {
+        "event": "search",
+        "query": "Bảng 7.6-4 dự báo lượng chất thải rắn phát sinh có ghi khối lượng riêng của rác sinh hoạt tính bằng kg/m³ là bao nhiêu?",
+        "route": "grid",
+        "candidates": [
+          {
+            "id": "P147-grid-1-4",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              4,
+              4
+            ],
+            "bbox": [
+              62.3,
+              179.1,
+              549.8,
+              199.0
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "CTR sinh hoạt",
+            "group": "KHU A",
+            "columns": [
+              [
+                "TT",
+                "1"
+              ],
+              [
+                "Hạng mục",
+                "CTR sinh hoạt"
+              ],
+              [
+                "Quy mô Người",
+                "73.400"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "88,1"
+              ]
+            ]
+          },
+          {
+            "id": "P147-grid-1-8",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              8,
+              8
+            ],
+            "bbox": [
+              62.3,
+              258.7,
+              549.8,
+              278.7
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "CTR sinh hoạt",
+            "group": "KHU B",
+            "columns": [
+              [
+                "TT",
+                "1"
+              ],
+              [
+                "Hạng mục",
+                "CTR sinh hoạt"
+              ],
+              [
+                "Quy mô Người",
+                "33.600"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "40,3"
+              ]
+            ]
+          },
+          {
+            "id": "P147-grid-1-12",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              12,
+              12
+            ],
+            "bbox": [
+              62.3,
+              338.5,
+              549.8,
+              358.5
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "CTR sinh hoạt",
+            "group": "KHU C",
+            "columns": [
+              [
+                "TT",
+                "1"
+              ],
+              [
+                "Hạng mục",
+                "CTR sinh hoạt"
+              ],
+              [
+                "Quy mô Người",
+                "66.400"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "79,7"
+              ]
+            ]
+          },
+          {
+            "id": "P147-grid-1-17",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              17,
+              17
+            ],
+            "bbox": [
+              62.3,
+              438.2,
+              549.8,
+              458.1
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "CTR sinh hoạt",
+            "group": "KHU D",
+            "columns": [
+              [
+                "TT",
+                "1"
+              ],
+              [
+                "Hạng mục",
+                "CTR sinh hoạt"
+              ],
+              [
+                "Quy mô Người",
+                "26.600"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "31,9"
+              ]
+            ]
+          },
+          {
+            "id": "P147-grid-1-3",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              3,
+              3
+            ],
+            "bbox": [
+              62.3,
+              139.6,
+              549.8,
+              179.1
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "KHU A",
+            "group": "KHU A",
+            "columns": [
+              [
+                "TT",
+                "A"
+              ],
+              [
+                "Hạng mục",
+                "KHU A"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "118,9"
+              ]
+            ]
+          },
+          {
+            "id": "P147-grid-1-5",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              5,
+              5
+            ],
+            "bbox": [
+              62.3,
+              199.0,
+              549.8,
+              218.9
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "CTR công cộng",
+            "group": "KHU A",
+            "columns": [
+              [
+                "TT",
+                "2"
+              ],
+              [
+                "Hạng mục",
+                "CTR công cộng"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "8,8"
+              ]
+            ]
+          },
+          {
+            "id": "P147-grid-1-6",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              6,
+              6
+            ],
+            "bbox": [
+              62.3,
+              218.9,
+              549.8,
+              238.8
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "CTR xây dựng",
+            "group": "KHU A",
+            "columns": [
+              [
+                "TT",
+                "3"
+              ],
+              [
+                "Hạng mục",
+                "CTR xây dựng"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "22,0"
+              ]
+            ]
+          },
+          {
+            "id": "P147-grid-1-7",
+            "page": 147,
+            "kind": "table",
+            "table": 1,
+            "rows": [
+              7,
+              7
+            ],
+            "bbox": [
+              62.3,
+              238.8,
+              549.8,
+              258.7
+            ],
+            "title": "Bảng 7.6-4. Dự báo lượng chất thải rắn phát sinh",
+            "label": "KHU B",
+            "group": "KHU B",
+            "columns": [
+              [
+                "TT",
+                "B"
+              ],
+              [
+                "Hạng mục",
+                "KHU B"
+              ],
+              [
+                "Khối lượng CTR (Tấn/ngày) 2045",
+                "54,4"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "abstain"
+        },
+        "usage": {
+          "prompt": 820,
+          "generated": 11
+        }
+      }
+    ],
+    "answer": "Không đủ bằng chứng trong hồ sơ để trả lời.",
+    "citations": [],
+    "elapsed_seconds": 5.5174387999995815,
+    "cost_usd": 0
+  },
+  {
+    "id": "R24",
+    "question": "Theo phần hiện trạng giao thông, Đại lộ Thăng Long qua khu quy hoạch có quy mô bao nhiêu làn xe?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo phần hiện trạng giao thông, Đại lộ Thăng Long qua khu quy hoạch có quy mô bao nhiêu làn xe?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 113,
+            "kind": "text",
+            "bbox": [
+              85.1,
+              300.6,
+              542.3,
+              501.9
+            ],
+            "id": "P113-text-02"
+          },
+          {
+            "page": 25,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              59.6,
+              550.8,
+              368.6
+            ],
+            "id": "P025-text-01"
+          },
+          {
+            "page": 8,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              185.2,
+              547.9,
+              410.0
+            ],
+            "id": "P008-text-02"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "06",
+          "source": "S2",
+          "quote": "đoạn qua khu vực lập quy hoạch có chiều dài khoảng 2,5km, quy mô 06 làn xe."
+        },
+        "usage": {
+          "prompt": 653,
+          "generated": 54
+        }
+      }
+    ],
+    "answer": "06",
+    "citations": [
+      {
+        "page": 25,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          59.6,
+          550.8,
+          368.6
+        ],
+        "id": "P025-text-01"
+      }
+    ],
+    "elapsed_seconds": 8.345635400000901,
+    "cost_usd": 0
+  },
+  {
+    "id": "RN20",
+    "question": "Ghép hai chi tiết về thoát nước: (1) Trong Hình 13, đường uốn cong giữa hai vùng có màu gì? (2) Mục Lựa chọn hệ thống thoát nước nêu hệ thống riêng hay hỗn hợp?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong Hình 13, đường uốn cong giữa hai vùng có màu gì?",
+        "route": "figure",
+        "candidates": [
+          {
+            "page": 144,
+            "kind": "image",
+            "bbox": [
+              241.1,
+              214,
+              370.8,
+              531
+            ],
+            "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+            "id": "P144-image-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "màu đỏ",
+          "source": "S1",
+          "quote": "có đường màu đỏ uốn cong giữa hai vùng."
+        },
+        "usage": {
+          "prompt": 310,
+          "generated": 39
+        }
+      },
+      {
+        "event": "search",
+        "query": "Mục Lựa chọn hệ thống thoát nước nêu hệ thống riêng hay hỗn hợp?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 141,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.2,
+              547.7,
+              388.9
+            ],
+            "id": "P141-text-01"
+          },
+          {
+            "page": 143,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              57.2,
+              547.9,
+              626.1
+            ],
+            "id": "P143-text-01"
+          },
+          {
+            "page": 108,
+            "kind": "text",
+            "bbox": [
+              84.1,
+              79.1,
+              542.3,
+              327.7
+            ],
+            "id": "P108-text-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "hỗn hợp",
+          "source": "S3",
+          "quote": "Hệ thống thoát nước mưa trong khu đất quy hoạch là hệ thống thoát nước hỗn hợp"
+        },
+        "usage": {
+          "prompt": 334,
+          "generated": 47
+        }
+      }
+    ],
+    "answer": "màu đỏ hỗn hợp",
+    "citations": [
+      {
+        "page": 144,
+        "kind": "image",
+        "bbox": [
+          241.1,
+          214,
+          370.8,
+          531
+        ],
+        "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+        "id": "P144-image-01"
+      },
+      {
+        "page": 108,
+        "kind": "text",
+        "bbox": [
+          84.1,
+          79.1,
+          542.3,
+          327.7
+        ],
+        "id": "P108-text-01"
+      }
+    ],
+    "elapsed_seconds": 10.923928799998976,
+    "cost_usd": 0
+  },
+  {
+    "id": "RV24",
+    "question": "Theo mục Giám sát môi trường nước, nguồn nước mặt dùng để cấp nước sinh hoạt được quan trắc theo hình thức nào?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo mục Giám sát môi trường nước, nguồn nước mặt dùng để cấp nước sinh hoạt được quan trắc theo hình thức nào?",
+        "route": "section",
+        "candidates": [
+          {
+            "page": 159,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.7,
+              547.5,
+              286.5
+            ],
+            "id": "P159-text-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "quan trac tu dong",
+          "source": "S1",
+          "quote": "quan trac tu dong đối với các nguồn cấp nước sinh hoạt."
+        },
+        "usage": {
+          "prompt": 429,
+          "generated": 43
+        }
+      }
+    ],
+    "answer": "quan trac tu dong",
+    "citations": [
+      {
+        "page": 159,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          56.7,
+          547.5,
+          286.5
+        ],
+        "id": "P159-text-01"
+      }
+    ],
+    "elapsed_seconds": 6.702729700000418,
+    "cost_usd": 0
+  },
+  {
+    "id": "RS07",
+    "question": "Trong số Thái Nguyên và Thái Bình, tỉnh nào có nhãn trên bản đồ Hình 1?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "route": "figure",
+        "query": "Trong số Thái Nguyên và Thái Bình, tỉnh nào có nhãn trên bản đồ Hình 1?",
+        "candidates": [
+          {
+            "page": 12,
+            "kind": "image",
+            "bbox": [
+              85.6,
+              258.6,
+              526.3,
+              754
+            ],
+            "title": "Hình 1. Vị trí và mối liên hệ vùng",
+            "id": "P012-image-01"
+          }
+        ]
+      },
+      {
+        "event": "read_label",
+        "choices": [
+          "Thái Nguyên",
+          "Thái Bình"
+        ],
+        "value": "Thái Nguyên"
+      }
+    ],
+    "answer": "Thái Nguyên",
+    "citations": [
+      {
+        "page": 12,
+        "kind": "image",
+        "bbox": [
+          85.6,
+          258.6,
+          526.3,
+          754
+        ],
+        "title": "Hình 1. Vị trí và mối liên hệ vùng",
+        "id": "P012-image-01"
+      }
+    ],
+    "elapsed_seconds": 0.0009599000004527625,
+    "cost_usd": 0
+  },
+  {
+    "id": "RS19",
+    "question": "Đọc sơ đồ và giải pháp nước thải. (1) Trong Hình 13, có bao nhiêu lưu vực được ghi nhãn? (2) Theo giải pháp thoát nước thải, nước thải công nghiệp được thu gom và xử lý theo hệ thống chung hay hệ thống riêng?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong Hình 13, có bao nhiêu lưu vực được ghi nhãn?",
+        "route": "figure",
+        "candidates": [
+          {
+            "page": 144,
+            "kind": "image",
+            "bbox": [
+              241.1,
+              214,
+              370.8,
+              531
+            ],
+            "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+            "id": "P144-image-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "2",
+          "source": "S1",
+          "quote": "Có hai vùng mang nhãn Lưu vực 1 và Lưu vực 2."
+        },
+        "usage": {
+          "prompt": 311,
+          "generated": 41
+        }
+      },
+      {
+        "event": "search",
+        "query": "Theo giải pháp thoát nước thải, nước thải công nghiệp được thu gom và xử lý theo hệ thống chung hay hệ thống riêng?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 145,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.9,
+              387.4
+            ],
+            "id": "P145-text-01"
+          },
+          {
+            "page": 147,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              665.2,
+              547.9,
+              789.5
+            ],
+            "id": "P147-text-02"
+          },
+          {
+            "page": 141,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              690.7,
+              547.4,
+              771.6
+            ],
+            "id": "P141-text-03"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "hệ thống riêng",
+          "source": "S1",
+          "quote": "nước thải công nghiệp được thu gom và xử lý theo các hệ thống riêng, xử lý đến giới hạn cho phép theo QCVN 40:2025/BTNMT."
+        },
+        "usage": {
+          "prompt": 461,
+          "generated": 72
+        }
+      }
+    ],
+    "answer": "2 hệ thống riêng",
+    "citations": [
+      {
+        "page": 144,
+        "kind": "image",
+        "bbox": [
+          241.1,
+          214,
+          370.8,
+          531
+        ],
+        "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+        "id": "P144-image-01"
+      },
+      {
+        "page": 145,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          56.4,
+          547.9,
+          387.4
+        ],
+        "id": "P145-text-01"
+      }
+    ],
+    "elapsed_seconds": 13.825531700000283,
+    "cost_usd": 0
+  },
+  {
+    "id": "RS20",
+    "question": "Đối chiếu vị trí và quy mô nghiên cứu. (1) Trong Hình 2, dải nghiên cứu ở bên trái hay bên phải cụm ô phố dày đặc? (2) Trong phần mô tả quy mô kế tiếp đoạn ranh giới phía Nam, tổng diện tích nghiên cứu lập quy hoạch được nêu khoảng bao nhiêu ha?",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong Hình 2, dải nghiên cứu ở bên trái hay bên phải cụm ô phố dày đặc?",
+        "route": "figure",
+        "candidates": [
+          {
+            "page": 13,
+            "kind": "image",
+            "bbox": [
+              67.7,
+              62.1,
+              565.7,
+              627.6
+            ],
+            "title": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội",
+            "id": "P013-image-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "bên trái",
+          "source": "S1",
+          "quote": "khu nghiên cứu là dải màu đỏ thuôn theo chiều dọc gần giữa bản đồ, ở phía trái cụm ô phố dày đặc."
+        },
+        "usage": {
+          "prompt": 319,
+          "generated": 58
+        }
+      },
+      {
+        "event": "search",
+        "query": "Trong phần mô tả quy mô kế tiếp đoạn ranh giới phía Nam, tổng diện tích nghiên cứu lập quy hoạch được nêu khoảng bao nhiêu ha?",
+        "route": "text",
+        "candidates": [
+          {
+            "page": 14,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              510.5,
+              547.9,
+              779.9
+            ],
+            "id": "P014-text-01"
+          },
+          {
+            "page": 8,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              185.2,
+              547.9,
+              410.0
+            ],
+            "id": "P008-text-02"
+          },
+          {
+            "page": 14,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              510.5,
+              547.9,
+              779.9
+            ],
+            "id": "P014-text-01"
+          }
+        ]
+      },
+      {
+        "event": "model",
+        "proposal": {
+          "action": "answer",
+          "answer": "khoảng 3.086 ha",
+          "source": "S1",
+          "quote": "Khu vực nghiên cứu lập quy hoạch có tổng diện tích khoảng 3.086 ha."
+        },
+        "usage": {
+          "prompt": 697,
+          "generated": 55
+        }
+      }
+    ],
+    "answer": "bên trái khoảng 3.086 ha",
+    "citations": [
+      {
+        "page": 13,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          62.1,
+          565.7,
+          627.6
+        ],
+        "title": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội",
+        "id": "P013-image-01"
+      },
+      {
+        "page": 14,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          510.5,
+          547.9,
+          779.9
+        ],
+        "id": "P014-text-01"
+      }
+    ],
+    "elapsed_seconds": 14.871949099999256,
+    "cost_usd": 0
+  }
+]

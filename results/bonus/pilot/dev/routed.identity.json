@@ -1,0 +1,28 @@
+{
+  "pdf_sha256": "3f34ce114dd553421e4a5c9d44c8baa39a8608afd2067c79dcb731a8f8c459fe",
+  "model_sha256": "626b4a6678b86442240e33df819e00132d3ba7dddfe1cdc4fbb18e0a9615c62d",
+  "embedding_sha256": "dd476dd0c2514e9b9be83aeb3853fac0763e0bdf4a71645407587d77c48a2d88",
+  "index_sha256": "f96681f83bceaea251d7dd040704ceafed1eabc45218641676f218b94bc77ea4",
+  "chunks_sha256": "e1bbf327dc21141c3f2a59d7c2510dde379d1f0408e8cc4f7c7cb8c08cd3c5d8",
+  "inputs": {
+    "bonus/benchmark.py": "fe838cd8f0ba4de473418b7ae8cdadc6154ec3f207324e8a7663f8b692002c21",
+    "bonus/index.py": "8cdce780029f663d3639ae4d07f21efb11a1db4f938354538e351bf37ec90e8c",
+    "bonus/ingest.py": "52abefb654887c3f69b480b290582945f24b6f35c4da4d696da4238639b490c2",
+    "data/bonus_dev.json": "365eafae5c9ca5fe9745bc278644f10f45f87c656984b08dfdfa1212e0dd655a",
+    "data/bonus_test.json": "f443f6caca6fbeb16748a49c1eb886901bf1a31bd5d52b3c783595716f5703bb",
+    "data/bonus_visuals.json": "b8fcd684bc6b41c58c30caaa51c397cf8f5aa4efd536f3756b8185ed191f2dee"
+  },
+  "configs": {
+    "hybrid": {
+      "routed": false,
+      "top_k": 3,
+      "budget": 2150
+    },
+    "routed": {
+      "routed": true,
+      "top_k": 3,
+      "budget": 2400
+    }
+  },
+  "runtime": "llama.cpp b8259, Qwen2.5-3B-Instruct Q4_K_M, Vulkan local"
+}

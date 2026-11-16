@@ -1,0 +1,72 @@
+{
+  "selected": "routed",
+  "criterion": "Highest strict passes on dev, then fewest system errors, then lower median latency.",
+  "dev": {
+    "routed": {
+      "passed": 15,
+      "total": 18,
+      "rate": 0.8333333333333334,
+      "by_group": {
+        "table": {
+          "passed": 2,
+          "total": 3
+        },
+        "image": {
+          "passed": 3,
+          "total": 3
+        },
+        "chart": {
+          "passed": 2,
+          "total": 2
+        },
+        "multi": {
+          "passed": 1,
+          "total": 2
+        },
+        "text": {
+          "passed": 4,
+          "total": 5
+        },
+        "missing": {
+          "passed": 3,
+          "total": 3
+        }
+      },
+      "errors": 0,
+      "median_seconds": 9.451568249999582,
+      "total_seconds": 180.84810599999946,
+      "cost_usd": 0,
+      "trace_sha256": "b3a7356dd2f0bbbf8978af4d8cd1adebc97b0a0748d0870962bc933536f60b90",
+      "review_sha256": "6c07531b4294f742e857bffcd9a3434166e7bafde30c97309457b47b85b7fea9"
+    }
+  },
+  "frozen_at": "2026-11-16T11:17:19.583995+07:00",
+  "identity": {
+    "pdf_sha256": "3f34ce114dd553421e4a5c9d44c8baa39a8608afd2067c79dcb731a8f8c459fe",
+    "model_sha256": "85e4a5b7b8ef0e48af0e8658f5aaab9c2324c76c1641493f4d1e25fce54b18b9",
+    "embedding_sha256": "dd476dd0c2514e9b9be83aeb3853fac0763e0bdf4a71645407587d77c48a2d88",
+    "index_sha256": "f96681f83bceaea251d7dd040704ceafed1eabc45218641676f218b94bc77ea4",
+    "chunks_sha256": "e1bbf327dc21141c3f2a59d7c2510dde379d1f0408e8cc4f7c7cb8c08cd3c5d8",
+    "inputs": {
+      "bonus/benchmark.py": "4d1ee6cc3a28c55d9ebac36e7993de71b38058ec269ec0d6a501f0b5aa41e3bf",
+      "bonus/index.py": "c6ea99c907d06519e758c38acf7e443c7dce6c4d7c9372a06fc83b0148fb9b30",
+      "bonus/ingest.py": "52abefb654887c3f69b480b290582945f24b6f35c4da4d696da4238639b490c2",
+      "data/bonus_dev.json": "365eafae5c9ca5fe9745bc278644f10f45f87c656984b08dfdfa1212e0dd655a",
+      "data/bonus_test.json": "f443f6caca6fbeb16748a49c1eb886901bf1a31bd5d52b3c783595716f5703bb",
+      "data/bonus_visuals.json": "b8fcd684bc6b41c58c30caaa51c397cf8f5aa4efd536f3756b8185ed191f2dee"
+    },
+    "configs": {
+      "hybrid": {
+        "routed": false,
+        "top_k": 3,
+        "budget": 2150
+      },
+      "routed": {
+        "routed": true,
+        "top_k": 3,
+        "budget": 2400
+      }
+    },
+    "runtime": "llama.cpp b8259 Vulkan local, qwen3-4b-instruct-2507-q4_k_m"
+  }
+}

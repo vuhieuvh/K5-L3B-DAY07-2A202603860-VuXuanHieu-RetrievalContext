@@ -1,0 +1,24 @@
+{
+  "passed": 22,
+  "total": 24,
+  "by_set": {
+    "original_dev": {
+      "passed": 17,
+      "total": 18
+    },
+    "diagnostics": {
+      "passed": 5,
+      "total": 6
+    },
+    "diagnostics_s01_s30": {
+      "passed": 3,
+      "total": 3
+    }
+  },
+  "errors": 0,
+  "median_seconds": 6.89279764999992,
+  "total_seconds": 154.3675437999973,
+  "cost_usd": 0,
+  "review_sha256": "1d7ce5fa9c838d936a30fa5b42fb1979c63f1a8defa87c131e49380d35d39a26",
+  "trace_sha256": "f592e91e09797b71f969e236caf29095caaf3caf32841caf04ab0e66daa3df33"
+}

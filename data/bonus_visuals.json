@@ -1,0 +1,194 @@
+[
+  {
+    "page": 1,
+    "kind": "image",
+    "bbox": [
+      83.9,
+      331.1,
+      557.7,
+      596.9
+    ],
+    "title": "Phối cảnh bìa",
+    "text": "Phối cảnh từ trên cao. Bên trái là sông uốn cong và vùng xanh. Trung tâm có mạng đường, khu xây dựng và cụm công trình cao tầng. Đây là minh họa tổng thể, không phải bản đồ ranh giới địa chính."
+  },
+  {
+    "page": 12,
+    "kind": "image",
+    "bbox": [
+      85.6,
+      258.6,
+      526.3,
+      754
+    ],
+    "title": "Hình 1. Vị trí và mối liên hệ vùng",
+    "text": "Bản đồ nhiều màu của Hà Nội. Mũi chỉ từ nhãn VỊ TRÍ NGHIÊN CỨU LẬP QUY HOẠCH ở góc dưới trái hướng tới dải viền đỏ trong lòng bản đồ. Các nhãn tỉnh ở ngoài ranh gồm Phú Thọ, Thái Nguyên, Bắc Ninh, Hưng Yên, Ninh Bình."
+  },
+  {
+    "page": 13,
+    "kind": "image",
+    "bbox": [
+      67.7,
+      62.1,
+      565.7,
+      627.6
+    ],
+    "title": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội",
+    "text": "Trên nền bản đồ chức năng nhiều màu, khu nghiên cứu là dải màu đỏ thuôn theo chiều dọc gần giữa bản đồ, ở phía trái cụm ô phố dày đặc. Sông lớn thể hiện màu xanh lam ở phần trên. Chú thích ghi đến năm 2045, tầm nhìn 2065."
+  },
+  {
+    "page": 14,
+    "kind": "image",
+    "bbox": [
+      67.8,
+      62.1,
+      544.2,
+      504.2
+    ],
+    "title": "Hình 3. Vị trí khu vực nghiên cứu trên nền ảnh vệ tinh",
+    "text": "Đường viền đỏ khép kín đánh dấu ranh khu vực nghiên cứu trên nền ảnh vệ tinh. Bên trong đường viền vẫn nhìn thấy ảnh nền, không tô đặc. Ở phần trên ảnh có một dòng sông lớn uốn cong."
+  },
+  {
+    "page": 18,
+    "kind": "chart",
+    "bbox": [
+      65.9,
+      226.1,
+      545.3,
+      408.1
+    ],
+    "title": "Biểu đồ hiện trạng dân số",
+    "text": "Biểu đồ cột đứng màu cam. Chú giải: Dân số (người). Trục tung đi từ 0 tới 70.000 người, vạch cách nhau 10.000 người. Trục ngang từ trái sang phải: Dương Hòa 58.830 người; Đan Phượng 29.938 người; Ô Diên 14.626 người; Sơn Đồng 9.490 người; Liên Minh 1.350 người. Các số này in dưới từng cột trong chính vùng biểu đồ."
+  },
+  {
+    "page": 20,
+    "kind": "image",
+    "bbox": [
+      98.4,
+      56.2,
+      513.6,
+      765.5
+    ],
+    "title": "Hình 4. Sơ đồ hiện trạng sử dụng đất",
+    "text": "Phần chú giải ở dưới trái. Ô xanh lá nhạt có ghi Đất sản xuất nông nghiệp; ô vàng ghi Đất nhóm nhà ở; ô tím sáng ghi Đất sản xuất công nghiệp, kho bãi. Ô xanh lam cuối chú giải ghi Sông, suối, kênh, rạch. Ranh khu nghiên cứu trên sơ đồ có viền đỏ."
+  },
+  {
+    "page": 21,
+    "kind": "image",
+    "bbox": [
+      67.7,
+      312.6,
+      547.7,
+      789.7
+    ],
+    "title": "Hiện trạng cảnh quan – ảnh chụp từ trên cao",
+    "text": "Hai ảnh ở nửa dưới trang. Ảnh trên có sông uốn khúc cạnh khu đất xanh, làng xóm và đường. Ảnh dưới cho thấy cụm nhà mái đỏ dày đặc, vùng cây xanh và các tuyến đường."
+  },
+  {
+    "page": 22,
+    "kind": "image",
+    "bbox": [
+      67.7,
+      56,
+      544.3,
+      365.8
+    ],
+    "title": "Hình 5. Hiện trạng cảnh quan khu vực lập quy hoạch",
+    "text": "Ảnh chụp từ trên cao. Bên phải có một tuyến đường thẳng và dải kênh nước hẹp sát bên đường. Tiền cảnh có cây xanh và cụm công trình nhiều mái xanh; phía xa có khu dân cư mái đỏ."
+  },
+  {
+    "page": 55,
+    "kind": "image",
+    "bbox": [
+      67.7,
+      56.2,
+      549.7,
+      749.8
+    ],
+    "title": "Hình 6. Sơ đồ phân chia các khu vực",
+    "text": "Từ trên xuống dưới có Khu A màu đỏ, Khu B màu tím nằm giữa A và C, Khu C màu vàng nâu, Khu D màu xanh lam sáng. Mỗi vùng mang nhãn chữ ngay bên trong. Dọc cạnh phải là trục giao thông màu xám với các đường nối sang phải."
+  },
+  {
+    "page": 92,
+    "kind": "image",
+    "bbox": [
+      74.5,
+      56.1,
+      537.3,
+      758
+    ],
+    "title": "Hình 7. Sơ đồ tổng mặt bằng quy hoạch sử dụng đất",
+    "text": "Chú giải ở góc dưới bên trái của ảnh. Bản đồ phân các ô chức năng nhiều màu và thể hiện trục đường dọc phía phải. Chú giải có các cột Hiện trạng, Quy hoạch với Đợt đầu và Dài hạn."
+  },
+  {
+    "page": 99,
+    "kind": "image",
+    "bbox": [
+      128.1,
+      56,
+      483.9,
+      350.1
+    ],
+    "title": "Hình 8. Minh họa không gian nhóm nhà ở",
+    "text": "Phần ảnh phía trên có hai nhãn Nhà liền kề và Biệt thự, nhãn Biệt thự ở phía phải. Dải ảnh dưới ghi Khu hỗn hợp nhóm nhà ở và dịch vụ. Các ảnh trên là nhà thấp tầng, dải dưới có các khối công trình cao hơn, nhiều mặt đứng màu sắc."
+  },
+  {
+    "page": 102,
+    "kind": "image",
+    "bbox": [
+      67.7,
+      56.1,
+      544.5,
+      308.1
+    ],
+    "title": "Hình 9. Minh họa công trình dịch vụ công cộng, hành chính, giáo dục, y tế",
+    "text": "Bảng phối cảnh gồm nhiều hình công trình công cộng, dãy khối nhà hiện đại và không gian sân ngoài trời. Đây là nhóm minh họa thiết kế cho các chức năng công cộng được nêu trong chú thích."
+  },
+  {
+    "page": 103,
+    "kind": "image",
+    "bbox": [
+      77.3,
+      56.2,
+      524.9,
+      274.7
+    ],
+    "title": "Hình 10. Minh họa giải pháp thiết kế và cây xanh đề xuất",
+    "text": "Trái là sơ đồ phối kết cây xanh. Phải, hàng Cây xanh trục đường từ trái sang phải: bàng Đài Loan, sao đen, bằng lăng tím, lim xẹt, phượng vĩ. Hàng cây xanh trong công viên và vườn hoa: cọ Nhật, vạn tuế, trúc đào, hoàng nam, cọ bạc. Hàng dưới cùng là cỏ và cây che phủ."
+  },
+  {
+    "page": 103,
+    "kind": "image",
+    "bbox": [
+      169.9,
+      495.6,
+      442.1,
+      771.7
+    ],
+    "title": "Hình 11. Minh họa công trình công nghiệp cảng, kho tàng, bến, bãi",
+    "text": "Các hình ở phần trên thể hiện công trình ven nước và bến thuyền. Hai hình dưới minh họa các dãy kho xưởng. Dòng nhãn giữa hai phần ghi Công nghiệp, kho bãi ở bên trái và Dịch vụ cảng biển ở bên phải."
+  },
+  {
+    "page": 106,
+    "kind": "image",
+    "bbox": [
+      66.8,
+      111.6,
+      546.7,
+      401.8
+    ],
+    "title": "Hình 12. Các tiện ích đô thị",
+    "text": "Ảnh gồm ghế màu trong không gian xanh, chiếu sáng sân vườn và lối đi, dải cây ven lối đi, hàng rào cây và bốt điện thoại công cộng màu đỏ ở góc dưới phải."
+  },
+  {
+    "page": 144,
+    "kind": "image",
+    "bbox": [
+      241.1,
+      214,
+      370.8,
+      531
+    ],
+    "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+    "text": "Có hai vùng mang nhãn Lưu vực 1 và Lưu vực 2. Ranh thể hiện bằng nét đứt màu xanh lam, có đường màu đỏ uốn cong giữa hai vùng. Lưu vực 1 ở phía trên, nền gạch ô vuông; lưu vực 2 ở dưới và bên trái, nền gạch chéo."
+  }
+]

@@ -1,0 +1,164 @@
+{
+  "dense": {
+    "cases": 19,
+    "provider_errors": 0,
+    "tool_use": {
+      "n": 19,
+      "N": 19
+    },
+    "grounded_answer": {
+      "0": 2,
+      "1": 3,
+      "2": 11,
+      "N": 16,
+      "mean": 1.5625
+    },
+    "citation_validity": {
+      "n": 13,
+      "N": 14
+    },
+    "answer_citation_coverage": {
+      "n": 14,
+      "N": 14
+    },
+    "abstention": {
+      "n": 3,
+      "N": 3
+    },
+    "false_abstention": {
+      "n": 2,
+      "N": 16
+    },
+    "context_grades": {
+      "0": 2,
+      "1": 0,
+      "2": 14
+    },
+    "measured": {
+      "cases": 19,
+      "hit1": {
+        "n": 11,
+        "N": 16,
+        "rate": 0.6875
+      },
+      "hit3": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "first_pack_evidence_rate": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "context_evidence_rate": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "median_original_retrieval_ms": 59.79520000005323,
+      "median_agent_ms": 10234.127400000034,
+      "total_agent_ms": 218890.08969999984,
+      "search_count_distribution": {
+        "1": 19
+      },
+      "agent_errors": 0,
+      "prompt_tokens": 14465,
+      "completion_tokens": 768,
+      "config": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2,
+        "grounded": false
+      },
+      "service_cost_usd": 0,
+      "original_query_errors": 0
+    },
+    "binding": {
+      "trace_sha256": "d8f30bdd2ba6e129381b146caacd410f142839efa967cdba8376877c8faaec7b",
+      "review_sha256": "168d764bbad3bc8f16458979dfb9112e3ca53bd8825024500e1ddb9c8bbd8f98"
+    }
+  },
+  "clause_grounded": {
+    "cases": 19,
+    "provider_errors": 0,
+    "tool_use": {
+      "n": 19,
+      "N": 19
+    },
+    "grounded_answer": {
+      "0": 2,
+      "1": 1,
+      "2": 13,
+      "N": 16,
+      "mean": 1.6875
+    },
+    "citation_validity": {
+      "n": 15,
+      "N": 15
+    },
+    "answer_citation_coverage": {
+      "n": 14,
+      "N": 14
+    },
+    "abstention": {
+      "n": 3,
+      "N": 3
+    },
+    "false_abstention": {
+      "n": 2,
+      "N": 16
+    },
+    "context_grades": {
+      "0": 2,
+      "1": 0,
+      "2": 14
+    },
+    "measured": {
+      "cases": 19,
+      "hit1": {
+        "n": 11,
+        "N": 16,
+        "rate": 0.6875
+      },
+      "hit3": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "first_pack_evidence_rate": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "context_evidence_rate": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "median_original_retrieval_ms": 68.12430000013592,
+      "median_agent_ms": 16251.628199999914,
+      "total_agent_ms": 321189.63819999906,
+      "search_count_distribution": {
+        "1": 19
+      },
+      "agent_errors": 0,
+      "prompt_tokens": 18412,
+      "completion_tokens": 1765,
+      "config": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 2500,
+        "max_searches": 2,
+        "grounded": true
+      },
+      "service_cost_usd": 0,
+      "original_query_errors": 0
+    },
+    "binding": {
+      "trace_sha256": "984767a2d2f135ed18242e0f384c050d4f805b34634e27ccab3a10ab62b901cb",
+      "review_sha256": "1f68cf6c4e675b4836e09e3e214d94b26486d489d6d820adcf35d81fc748ee95"
+    }
+  }
+}

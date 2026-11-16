@@ -1,0 +1,59 @@
+[
+  {
+    "query_id": "T01",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điểm b khoản 1 Điều 9 tr. 8 ghi hạn trước ngày 01 tháng 3 hằng năm. Agent nêu đúng ngày được hỏi."
+  },
+  {
+    "query_id": "T02",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điểm c Điều 14 tr. 12 ghi chương trình tài năng nhiều hơn ít nhất 30 tín chỉ. Agent nêu đúng mức tối thiểu được hỏi."
+  },
+  {
+    "query_id": "T03",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Điểm d Điều 35 tr. 36 hỗ trợ đủ hai mức xử lý theo lần vi phạm."
+  },
+  {
+    "query_id": "T04",
+    "context_grade": 1,
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Context giữ đoạn xác định hội đồng chấm khóa luận ở tr. 41 nhưng thiếu chunk kế tiếp nêu số người và số phản biện. Đoạn tr. 40 nói về hội đồng khác. Agent từ chối nhầm."
+  },
+  {
+    "query_id": "T05",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Khoản 3 Điều 50 tr. 51 xác nhận hạn 45 ngày trước khi tổ chức đào tạo."
+  },
+  {
+    "query_id": "T06",
+    "abstention_correct": true,
+    "citation_support": [],
+    "reason": "Đã đọc các điều về thi và dò toàn văn. Quy chế không có lệ phí phúc khảo một bài thi. Agent từ chối và không đoán số tiền."
+  },
+  {
+    "query_id": "T07",
+    "abstention_correct": false,
+    "citation_support": [
+      false
+    ],
+    "reason": "Quy chế chỉ nêu điểm thưởng, thiếu số tiền bằng đồng. Agent trả 0,10 điểm và dẫn nhóm giải cấp đơn vị, trong khi câu hỏi hỏi giải nhất cấp ĐHQGHN."
+  }
+]

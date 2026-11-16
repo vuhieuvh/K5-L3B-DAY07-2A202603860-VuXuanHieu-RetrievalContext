@@ -1,0 +1,161 @@
+{
+  "trace_sha256": "1bef063ef7c4f0b447973703cefd824caed6e8d9ed23c9e842c7a2cb95086df9",
+  "method": "Đối chiếu câu trả lời và vùng được dẫn với PDF gốc.",
+  "labels": [
+    {
+      "id": "D01",
+      "passed": true,
+      "reason": "Hàng Đất y tế hiện trạng và cột diện tích tr. 18 ghi 5,08 ha."
+    },
+    {
+      "id": "D02",
+      "passed": true,
+      "reason": "Đúng hàng xã Đan Phượng và cột tỷ lệ tr. 18."
+    },
+    {
+      "id": "D03",
+      "passed": true,
+      "reason": "Dòng CTR công nghiệp thuộc Khu C tr. 147 ghi 26,6 tấn/ngày."
+    },
+    {
+      "id": "D04",
+      "passed": true,
+      "reason": "Nhãn chỉ vị trí nằm ở góc dưới bên trái bản đồ tr. 12."
+    },
+    {
+      "id": "D05",
+      "passed": true,
+      "reason": "Dải khu nghiên cứu trên Hình 2 tr. 13 màu đỏ."
+    },
+    {
+      "id": "D06",
+      "passed": true,
+      "reason": "Bốt điện thoại ở góc dưới phải Hình 12 tr. 106 màu đỏ."
+    },
+    {
+      "id": "D07",
+      "passed": true,
+      "reason": "Các cột biểu đồ tr. 18 có màu cam."
+    },
+    {
+      "id": "D08",
+      "passed": true,
+      "reason": "Độ chia giữa hai vạch của trục tung là 10.000 người. Đơn vị người đã nêu trong câu hỏi."
+    },
+    {
+      "id": "D09",
+      "passed": true,
+      "reason": "Tổng hiện trạng 114.234 trong bảng tr. 18 và dự kiến khoảng 200.000 theo mục Phạm vi và quy mô tr. 14."
+    },
+    {
+      "id": "D10",
+      "passed": true,
+      "reason": "Hình tr. 144 xác định Lưu vực 2. Sơ đồ CTR tr. 147 xác định xe chuyên dụng."
+    },
+    {
+      "id": "D11",
+      "passed": true,
+      "reason": "Đúng số gần 20 km của sông Đáy trong đoạn địa chất thủy văn tr. 16."
+    },
+    {
+      "id": "D12",
+      "passed": true,
+      "reason": "Đoạn về tính chất tr. 15 nêu mốc 15 phút qua đường sắt đô thị."
+    },
+    {
+      "id": "D13",
+      "passed": true,
+      "reason": "Đủ hai đối tượng giáp phía Tây theo ranh giới tr. 14."
+    },
+    {
+      "id": "D14",
+      "passed": true,
+      "reason": "Đúng dải D300–600 mm của cống thoát nước thải tr. 144."
+    },
+    {
+      "id": "D15",
+      "passed": true,
+      "reason": "Đúng giới hạn 40% thuộc đoạn khu vực y tế tr. 99."
+    },
+    {
+      "id": "D16",
+      "passed": true,
+      "reason": "Biểu đồ tr. 18 chỉ tổng hợp dân số theo xã; từ chối đúng câu về nhóm tuổi."
+    },
+    {
+      "id": "D17",
+      "passed": true,
+      "reason": "Ảnh và chú thích Hình 3 tr. 14 không ghi ngày chụp."
+    },
+    {
+      "id": "D18",
+      "passed": true,
+      "reason": "Bảng 7.6-4 tr. 147 có khối lượng phát sinh, không có khối lượng riêng."
+    },
+    {
+      "id": "R02",
+      "passed": true,
+      "reason": "Đúng 50,89% ở hàng Đất sản xuất nông nghiệp của bảng hiện trạng tiếp trang 19."
+    },
+    {
+      "id": "R24",
+      "passed": false,
+      "reason": "Trị số 6 làn đúng, nhưng trích tr. 113 về Tây Thăng Long. Đoạn hiện trạng Đại lộ Thăng Long ở tr. 25."
+    },
+    {
+      "id": "R27",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 6 tr. 55 chỉ nêu Khu A, B, C và D."
+    },
+    {
+      "id": "R29",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 13 tr. 144 chỉ có Lưu vực 1 và Lưu vực 2."
+    },
+    {
+      "id": "R30",
+      "passed": true,
+      "reason": "Từ chối đúng. Bảng phụ tải điện không ghi giá điện bán lẻ."
+    },
+    {
+      "id": "RN02",
+      "passed": true,
+      "reason": "Dòng Hồ, ao, đầm của bảng hiện trạng tiếp tr. 19 ghi 79,40 ha."
+    },
+    {
+      "id": "RN04",
+      "passed": true,
+      "reason": "Đúng Stt 6.170 kVA của ô A3, phân biệt với Ptt 5.553 kW tr. 134."
+    },
+    {
+      "id": "RN07",
+      "passed": true,
+      "reason": "Nêu rõ còn nhìn thấy ảnh nền bên trong ranh ở Hình 3 tr. 14."
+    },
+    {
+      "id": "RN09",
+      "passed": true,
+      "reason": "Đúng hai cột con Đợt đầu và Dài hạn của Quy hoạch trong Hình 7 tr. 92."
+    },
+    {
+      "id": "RN11",
+      "passed": true,
+      "reason": "Đúng hai hình dưới là các dãy kho xưởng ở Hình 11 tr. 103."
+    },
+    {
+      "id": "RN15",
+      "passed": true,
+      "reason": "Cột Sơn Đồng 9.490 người thực sự nằm trong khoảng mở 9.000–10.000 ở biểu đồ tr. 18."
+    },
+    {
+      "id": "RN20",
+      "passed": false,
+      "reason": "Đúng màu đỏ và đúng đoạn tr. 143. Câu trả lời chỉ ghi hệ thống riêng, thiếu điều kiện riêng hoàn toàn do đáp án chuẩn yêu cầu."
+    },
+    {
+      "id": "RN25",
+      "passed": true,
+      "reason": "Biểu đồ tr. 18 không chia theo giới tính. Từ chối đúng."
+    }
+  ]
+}

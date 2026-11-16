@@ -1,0 +1,60 @@
+{
+  "selected": "dense",
+  "baseline": "dense",
+  "criterion": "On dev only, exclude configurations with model/store errors. Maximize manually graded grounded-answer mean, then sufficiency of final context, then correct abstentions, then median agent latency (ms, rounded to nearest millisecond). Use dense, lexical, hybrid, hybrid_context order for exact ties.",
+  "frozen_at": "2026-11-16T10:03:04.093441+07:00",
+  "identity": {
+    "source_id": [
+      "VNU-3626-2022"
+    ],
+    "pages": 52,
+    "chunks": 180,
+    "corpus_sha256": "c509dcf81c0aca394e3cd3c2b0357379c1d52e942755321bad336fd9fe0eb924",
+    "collection": "structured",
+    "index_file_sha256": "df344efd59a18385455ae244bb076337a3faba5e0253ff7c1759b8cabc5ca36e",
+    "embedding": "intfloat/multilingual-e5-small",
+    "embedding_dimensions": 384,
+    "embedding_weights_sha256": "dd476dd0c2514e9b9be83aeb3853fac0763e0bdf4a71645407587d77c48a2d88",
+    "agent_model": "qwen2.5-3b",
+    "runtime": "llama.cpp b8259 Vulkan Iris Xe (37/37 layers)",
+    "agent_weights_sha256": "5ee4f07cdb9beadbbb293e85803c569b01bd37ed059d2715faa7bb405f31caa6",
+    "pipeline": {
+      "src/agent.py": "5ba167a159bf9cf5c6ecf2ee01adc14649db4f94f373c203ad057ef87f7ac95b",
+      "src/benchmark.py": "28673f21de0139904c45bae6aa0f40d04e9217948d1c45691409bcbde8d98199",
+      "src/retrieval.py": "a6a89f7b4bc6e588aaf1e3d5937d0b6bdf65807658a1ecc0057d7ceb9cefe1c1",
+      "starter/agent_metrics.py": "c82ed0321b2a227fdf3c9d29970c2a4a35d32754d288dc8c14b1a1f10336dfe4",
+      "starter/agentic.py": "0603f14d618c4c6cdeef297f780e816bfe6c14568e81349e2df3bedec9a85d6d",
+      "starter/baseline.py": "03b8b16c42be7d19c820e506f4cea2a7496c462a00c77d1cfc9e7fc972301fdf",
+      "starter/convert_day6.py": "31c2b3ac5a1f94e63817a76a359c312b46e584fc248ab49b46538f7589b1c495"
+    },
+    "configs": {
+      "dense": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2
+      },
+      "lexical": {
+        "method": "lexical",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2
+      },
+      "hybrid": {
+        "method": "hybrid",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2
+      },
+      "hybrid_context": {
+        "method": "hybrid",
+        "top_k": 5,
+        "budget_chars": 3100,
+        "max_searches": 2
+      }
+    },
+    "benchmark_dev_sha256": "706fa6e6c0a797213e152915dae17e7bd9fc6f38721289a0a5b94b8d099a46d5",
+    "benchmark_test_sha256": "ee27f19818cee67085b91137f201532b9f08b71b542806382b6dc629e86a4dec"
+  },
+  "dev_review_sha256": "dec5e9890a9b094e61dc466407dbd166a0e060c3cb7e1d16a2b7b5bc4ffc7658"
+}

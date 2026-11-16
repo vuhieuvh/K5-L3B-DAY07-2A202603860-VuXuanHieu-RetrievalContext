@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T01",
+    "split": "test",
+    "answerable": true,
+    "question": "Hằng năm Giám đốc ĐHQGHN quyết định phân bổ chỉ tiêu tuyển sinh trước ngày nào?",
+    "expected_answer": "Trước ngày 01 tháng 3 hằng năm.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 8,
+          "article": 9,
+          "start": 416,
+          "end": 541,
+          "evidence": "Giám đốc Đại học Quốc gia Hà Nội quyết định phân bổ chỉ tiêu tuyển sinh cho các đơn vị đào tạo trước ngày 01 tháng 3 hàng năm"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "T02",
+    "split": "test",
+    "answerable": true,
+    "question": "Chương trình đào tạo tài năng có ít nhất bao nhiêu tín chỉ nhiều hơn chương trình chuẩn tương ứng?",
+    "expected_answer": "Ít nhất 30 tín chỉ.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 12,
+          "article": 14,
+          "start": 860,
+          "end": 972,
+          "evidence": "Chương trình đào tạo tài năng được thiết kế nhiều hơn chương trình đào tạo chuẩn tương ứng ít nhất là 30 tín chỉ"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "T03",
+    "split": "test",
+    "answerable": true,
+    "question": "Sinh viên nhờ người thi hộ bị xử lý thế nào ở lần vi phạm thứ nhất và thứ hai?",
+    "expected_answer": "Đình chỉ học tập 1 năm ở lần thứ nhất và buộc thôi học ở lần thứ hai.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 36,
+          "article": 35,
+          "start": 579,
+          "end": 724,
+          "evidence": "Sinh viên thi hộ hoặc nhờ người thi hộ bị kỷ luật ở mức đình chỉ học tập 1 năm nếu vi phạm lần thứ nhất và buộc thôi học nếu vi phạm lần thứ hai."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "T04",
+    "split": "test",
+    "answerable": true,
+    "question": "Hội đồng chấm khóa luận tốt nghiệp có tối thiểu bao nhiêu người và bao nhiêu phản biện?",
+    "expected_answer": "Tối thiểu 5 người, trong đó có 2 phản biện.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 41,
+          "article": 39,
+          "start": 1467,
+          "end": 1626,
+          "evidence": "Hội đồng chấm khoá luận tốt nghiệp do thủ trưởng đơn vị đào tạo hoặc Chủ nhiệm khoa/Bộ môn được thủ trưởng đơn vị đào tạo ủy quyền ra quyết định thành lập. Hội"
+        }
+      ],
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 41,
+          "article": 39,
+          "start": 1627,
+          "end": 1679,
+          "evidence": "đồng tối thiểu gồm 5 người, trong đó có 2 phản biện."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "T05",
+    "split": "test",
+    "answerable": true,
+    "question": "Đơn vị đào tạo phải công khai thông tin trên trang thông tin điện tử chậm nhất bao nhiêu ngày trước khi tổ chức đào tạo?",
+    "expected_answer": "Chậm nhất 45 ngày trước khi tổ chức đào tạo.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 51,
+          "article": 50,
+          "start": 1150,
+          "end": 1256,
+          "evidence": "Đơn vị đào tạo công khai trên trang thông tin điện tử của mình chậm nhất 45 ngày trước khi tổ chức đào tạo"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "T06",
+    "split": "test",
+    "answerable": false,
+    "question": "Theo Quy chế 3626, lệ phí chấm phúc khảo một bài thi là bao nhiêu đồng?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đọc các đoạn về thi, chấm thi và kết quả học phần. Dò 'phúc khảo', 'lệ phí' và 'đồng' trong 52 trang; không có khoản tiền cho một bài thi phúc khảo."
+  },
+  {
+    "id": "T07",
+    "split": "test",
+    "answerable": false,
+    "question": "Tiền thưởng bằng đồng cho một sinh viên đạt giải nhất nghiên cứu khoa học cấp ĐHQGHN là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đọc Điều 32 về kết quả nghiên cứu khoa học và điểm thưởng, dò 'tiền thưởng', 'giải nhất' và 'kinh phí' trong toàn văn. Quy chế không nêu mức tiền cho giải này."
+  }
+]

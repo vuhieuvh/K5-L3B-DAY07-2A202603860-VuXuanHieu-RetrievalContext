@@ -1,0 +1,303 @@
+[
+  {
+    "id": "D01",
+    "split": "dev",
+    "answerable": true,
+    "question": "Học phần tiên quyết phải được tích lũy vào thời điểm nào?",
+    "expected_answer": "Trước khi học học phần có yêu cầu tiên quyết.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 4,
+          "article": 5,
+          "start": 264,
+          "end": 355,
+          "evidence": "d) Học phần tiên quyết của một học phần: sinh viên phải tích lũy trước khi học học phần đó;"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D02",
+    "split": "dev",
+    "answerable": true,
+    "question": "Khóa luận hoặc đồ án tốt nghiệp có khối lượng bao nhiêu tín chỉ?",
+    "expected_answer": "5–10 tín chỉ.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 4,
+          "article": 5,
+          "start": 356,
+          "end": 512,
+          "evidence": "đ) Khóa luận, đồ án tốt nghiệp là học phần thuộc khối kiến thức bắt buộc, có thời lượng từ 5 đến 10 tín chỉ được quy định cụ thể trong chương trình đào tạo;"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D03",
+    "split": "dev",
+    "answerable": true,
+    "question": "Học phí được nộp theo kỳ hay theo số tín chỉ đăng ký?",
+    "expected_answer": "Theo kỳ hoặc theo số tín chỉ đăng ký trong học kỳ.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 6,
+          "article": 8,
+          "start": 1423,
+          "end": 1559,
+          "evidence": "- Sinh viên trả học phí theo kỳ hoặc số tín chỉ đăng ký học trong mỗi học kỳ tại đơn vị đào tạo quản lý ngành học mà sinh viên theo học."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D04",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo Chương II, chương trình đào tạo gồm những khối kiến thức nào?",
+    "expected_answer": "Chung, theo lĩnh vực, theo khối ngành, theo nhóm ngành và ngành.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 10,
+          "article": 11,
+          "start": 129,
+          "end": 579,
+          "evidence": "1. Khối kiến thức chung được tổ chức giảng dạy thống nhất cho tất cả các ngành học. 2. Khối kiến thức theo lĩnh vực được tổ chức giảng dạy thống nhất cho các ngành học thuộc cùng lĩnh vực. 3. Khối kiến thức theo khối ngành được tổ chức giảng dạy cho các ngành học thuộc cùng khối ngành. 4. Khối kiến thức theo nhóm ngành được tổ chức giảng dạy cho các ngành học thuộc cùng nhóm ngành. 5. Khối kiến thức ngành được tổ chức giảng dạy cho một ngành học."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D05",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo Chương II, chuẩn đầu ra ngoại ngữ của chương trình chuẩn tương đương bậc nào?",
+    "expected_answer": "Bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 11,
+          "article": 13,
+          "start": 609,
+          "end": 844,
+          "evidence": "a) Tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam) theo quy định của Bộ Giáo dục và Đào tạo và của Đại học Quốc gia Hà Nội đối với các chương trình đào tạo chuẩn, ngành chính - ngành phụ, song ngành);"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D06",
+    "split": "dev",
+    "answerable": true,
+    "question": "Thời gian thiết kế của khóa cử nhân chính quy là bao nhiêu học kỳ chính?",
+    "expected_answer": "8 học kỳ chính.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 14,
+          "article": 17,
+          "start": 315,
+          "end": 539,
+          "evidence": "a) Thời gian thiết kế của khóa học đào tạo chính quy là 8 học kỳ chính đối với đào tạo cử nhân, từ 9 đến 10 học kỳ chính đối với đào tạo kĩ sư, 10 học kỳ chính đối với đào tạo dược sĩ, 12 học kỳ chính đối với đào tạo bác sĩ;"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D07",
+    "split": "dev",
+    "answerable": true,
+    "question": "Cùng chương trình, thời gian chuẩn của hệ vừa làm vừa học phải dài hơn hệ chính quy ít nhất bao nhiêu?",
+    "expected_answer": "20%.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 14,
+          "article": 17,
+          "start": 540,
+          "end": 720,
+          "evidence": "b) Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo vừa làm vừa học dài hơn tối thiểu 20% so với hình thức đào tạo chính quy của cùng chương trình đào tạo;"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D08",
+    "split": "dev",
+    "answerable": true,
+    "question": "Khi phải xếp lịch học tập trung, số giờ giảng tối đa mỗi tuần và mỗi ngày của một học phần là bao nhiêu?",
+    "expected_answer": "15 giờ/tuần và 4 giờ/ngày.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 17,
+          "article": 20,
+          "start": 659,
+          "end": 901,
+          "evidence": "d) Thời khóa biểu của các lớp học phần bình thường được bố trí đều trong các tuần của học kỳ. Trong trường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với một học phần bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D09",
+    "split": "dev",
+    "answerable": true,
+    "question": "Sinh viên nhận điểm F ở một học phần bắt buộc phải làm gì?",
+    "expected_answer": "Đăng ký học lại chính học phần đó.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 19,
+          "article": 21,
+          "start": 19,
+          "end": 111,
+          "evidence": "a) Đối với các học phần bắt buộc, nếu bị điểm F, sinh viên phải đăng ký học lại học phần đó;"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D10",
+    "split": "dev",
+    "answerable": true,
+    "question": "Nếu trượt học phần tự chọn có điều kiện, sinh viên có thể thay bằng học phần nào?",
+    "expected_answer": "Học lại học phần cũ hoặc học một học phần tự chọn khác cùng khối kiến thức.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 19,
+          "article": 21,
+          "start": 112,
+          "end": 278,
+          "evidence": "b) Đối với học phần tự chọn có điều kiện, nếu bị điểm F, sinh viên đăng ký học lại học phần đó hoặc đăng ký học học phần tự chọn khác cùng khối kiến thức để thay thế."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D11",
+    "split": "dev",
+    "answerable": true,
+    "question": "Nếu bỏ học phần sau thời hạn rút đăng ký và không đi học, điểm và học phí được xử lý thế nào?",
+    "expected_answer": "Nhận điểm F và không được trả lại học phí.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 21,
+          "article": 23,
+          "start": 430,
+          "end": 713,
+          "evidence": "2. Việc rút bớt học phần chỉ được chấp nhận trong 2 tuần kể từ đầu học kỳ chính, 1 tuần kể từ đầu học kỳ phụ và được trả lại học phí. Ngoài thời hạn trên, học phần vẫn được giữ nguyên trong phiếu đăng ký học, nếu sinh viên không học sẽ phải nhận điểm F và không được trả lại học phí."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D12",
+    "split": "dev",
+    "answerable": true,
+    "question": "Điểm trung bình chung các học phần tối thiểu tại thời điểm xét chuyển ngành sau năm thứ nhất là bao nhiêu?",
+    "expected_answer": "2,50.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 28,
+          "article": 28,
+          "start": 333,
+          "end": 414,
+          "evidence": "c) Điểm trung bình chung các học phần tính đến thời điểm xét đạt từ 2,50 trở lên;"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D13",
+    "split": "dev",
+    "answerable": true,
+    "question": "Sinh viên đã học từ năm thứ hai có được xem xét chuyển ngành không?",
+    "expected_answer": "Không.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 28,
+          "article": 28,
+          "start": 778,
+          "end": 852,
+          "evidence": "2. Không xem xét chuyển ngành học đối với sinh viên đã học từ năm thứ hai."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D14",
+    "split": "dev",
+    "answerable": true,
+    "question": "Thực nghiệm khoa học và thực hiện đồ án tốt nghiệp có phải hình thức nghiên cứu khoa học của sinh viên không?",
+    "expected_answer": "Có.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 30,
+          "article": 30,
+          "start": 367,
+          "end": 545,
+          "evidence": "2. Tham gia khảo sát thực địa, thực tập thực tế, thực nghiệm khoa học, thực hiện khóa luận, đồ án tốt nghiệp, đề tài nghiên cứu, triển khai ứng dụng tiến bộ khoa học vào thực tế."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D15",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo Chương IV, nếu sinh viên đạt nhiều giải nghiên cứu ở các cấp, điểm thưởng được cộng thế nào?",
+    "expected_answer": "Chỉ cộng một lần theo mức giải cao nhất.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 31,
+          "article": 32,
+          "start": 984,
+          "end": 1106,
+          "evidence": "3. Nếu sinh viên đạt nhiều giải thưởng nghiên cứu khoa học ở các cấp thì chỉ cộng điểm thưởng một lần ở mức giải cao nhất."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "D16",
+    "split": "dev",
+    "answerable": false,
+    "question": "Theo Quy chế 3626, học phí một tín chỉ ngành Luật là bao nhiêu đồng?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đọc Điều 8 (tr. 6–7) về cách nộp và mức học phí do cấp có thẩm quyền quy định. Dò các đoạn có 'học phí' và 'ngành Luật' toàn bản chữ, không có đơn giá một tín chỉ ngành Luật."
+  },
+  {
+    "id": "D17",
+    "split": "dev",
+    "answerable": false,
+    "question": "Quy chế có ghi địa chỉ email của Trung tâm Giáo dục Quốc phòng và An ninh để sinh viên liên hệ không?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đọc Điều 2 (tr. 2) về phân công giảng dạy, dò tên trung tâm và địa chỉ có ký tự @ trong bản chữ. Có tên đơn vị, không có địa chỉ email."
+  }
+]

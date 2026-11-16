@@ -1,0 +1,1313 @@
+[
+  {
+    "query_id": "D01",
+    "question": "Học phần tiên quyết phải được tích lũy vào thời điểm nào?",
+    "trial": "dense",
+    "retrieval_ms": 102.03439999986585,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "5127a604-f22a-596f-8464-4a6e8afd262a",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 4,
+        "metadata": {
+          "chapter": [
+            "I"
+          ],
+          "article": [
+            5
+          ],
+          "start": 0,
+          "end": 568
+        },
+        "score": 0.874580940555586,
+        "strategy": "dense"
+      },
+      {
+        "id": "368d3f95-75e6-5c2b-87e8-eaa608322146",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 45,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            43
+          ],
+          "start": 182,
+          "end": 980
+        },
+        "score": 0.8726832865616968,
+        "strategy": "dense"
+      },
+      {
+        "id": "89f58123-5599-51ce-8bfa-4f6c19c4ab51",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 18,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            21
+          ],
+          "start": 1231,
+          "end": 1886
+        },
+        "score": 0.8719981662104295,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D02",
+    "question": "Khóa luận hoặc đồ án tốt nghiệp có khối lượng bao nhiêu tín chỉ?",
+    "trial": "dense",
+    "retrieval_ms": 48.88740000001235,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "5127a604-f22a-596f-8464-4a6e8afd262a",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 4,
+        "metadata": {
+          "chapter": [
+            "I"
+          ],
+          "article": [
+            5
+          ],
+          "start": 0,
+          "end": 568
+        },
+        "score": 0.8865284456615973,
+        "strategy": "dense"
+      },
+      {
+        "id": "0e316147-8d0f-5e8b-a1ae-25d1ae056692",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 14,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            17
+          ],
+          "start": 1006,
+          "end": 1746
+        },
+        "score": 0.8773612766189571,
+        "strategy": "dense"
+      },
+      {
+        "id": "d0086eb7-6966-56a6-b56c-346cf7b95b55",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 41,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            39
+          ],
+          "start": 0,
+          "end": 659
+        },
+        "score": 0.8765316385226891,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D03",
+    "question": "Học phí được nộp theo kỳ hay theo số tín chỉ đăng ký?",
+    "trial": "dense",
+    "retrieval_ms": 51.34530000009363,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "2564aac7-b43a-5931-9490-c67b7ee11d0c",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 36,
+        "metadata": {
+          "chapter": [
+            "VI"
+          ],
+          "article": [
+            35
+          ],
+          "start": 1348,
+          "end": 1466
+        },
+        "score": 0.8802240061290252,
+        "strategy": "dense"
+      },
+      {
+        "id": "50898435-7638-5c6d-8e13-1db3aa09366c",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 17,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            21
+          ],
+          "start": 1638,
+          "end": 2100
+        },
+        "score": 0.8766573514387261,
+        "strategy": "dense"
+      },
+      {
+        "id": "cde333a5-2d59-5b6f-b7f2-6c47042c6923",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 16,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            18
+          ],
+          "start": 0,
+          "end": 660
+        },
+        "score": 0.875776463821174,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "first_pack_has_all_evidence": false,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D04",
+    "question": "Theo Chương II, chương trình đào tạo gồm những khối kiến thức nào?",
+    "trial": "dense",
+    "retrieval_ms": 44.6326000001136,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "6340635d-efb8-529b-acc4-b391dfdb7866",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 10,
+        "metadata": {
+          "chapter": [
+            "II"
+          ],
+          "article": [
+            11
+          ],
+          "start": 31,
+          "end": 579
+        },
+        "score": 0.9048840315926613,
+        "strategy": "dense"
+      },
+      {
+        "id": "5ede43d0-8cdd-510e-b826-66b138786a25",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 5,
+        "metadata": {
+          "chapter": [
+            "I"
+          ],
+          "article": [
+            6
+          ],
+          "start": 499,
+          "end": 1255
+        },
+        "score": 0.8981864792270933,
+        "strategy": "dense"
+      },
+      {
+        "id": "fb1157b5-cf89-591e-8b0d-dfcff3afd6a1",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 13,
+        "metadata": {
+          "chapter": [
+            "II"
+          ],
+          "article": [
+            14
+          ],
+          "start": 0,
+          "end": 757
+        },
+        "score": 0.8903379122196413,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D05",
+    "question": "Theo Chương II, chuẩn đầu ra ngoại ngữ của chương trình chuẩn tương đương bậc nào?",
+    "trial": "dense",
+    "retrieval_ms": 60.90500000004795,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "1b95011e-2b99-5669-acdb-f1cdef34bfe1",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 11,
+        "metadata": {
+          "chapter": [
+            "II"
+          ],
+          "article": [
+            13
+          ],
+          "start": 0,
+          "end": 608
+        },
+        "score": 0.8770531775338044,
+        "strategy": "dense"
+      },
+      {
+        "id": "0b9f7e9a-aa97-5334-aa5c-d9cb37218dc2",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 11,
+        "metadata": {
+          "chapter": [
+            "II"
+          ],
+          "article": [
+            13
+          ],
+          "start": 609,
+          "end": 1284
+        },
+        "score": 0.871140339063716,
+        "strategy": "dense"
+      },
+      {
+        "id": "6c613bcf-eca8-592b-9c50-c304298ea942",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 23,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            26
+          ],
+          "start": 1708,
+          "end": 2160
+        },
+        "score": 0.8590477889942496,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D06",
+    "question": "Thời gian thiết kế của khóa cử nhân chính quy là bao nhiêu học kỳ chính?",
+    "trial": "dense",
+    "retrieval_ms": 52.554099999952086,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "d943a187-1b7f-5da4-bf56-4498897a385a",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 14,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            17
+          ],
+          "start": 271,
+          "end": 1005
+        },
+        "score": 0.8999478533876373,
+        "strategy": "dense"
+      },
+      {
+        "id": "9348238b-4f80-5c64-b59c-9cb97cc10ff8",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 14,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            16
+          ],
+          "start": 27,
+          "end": 270
+        },
+        "score": 0.8668923763657471,
+        "strategy": "dense"
+      },
+      {
+        "id": "df311c5f-46a2-5a1f-b6ad-a261d1cc07d5",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 17,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            20
+          ],
+          "start": 659,
+          "end": 1297
+        },
+        "score": 0.859967631763682,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D07",
+    "question": "Cùng chương trình, thời gian chuẩn của hệ vừa làm vừa học phải dài hơn hệ chính quy ít nhất bao nhiêu?",
+    "trial": "dense",
+    "retrieval_ms": 47.40939999987859,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "b598bfb7-3c85-518e-a515-e643239f5059",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 16,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            19
+          ],
+          "start": 661,
+          "end": 1092
+        },
+        "score": 0.8841192867915926,
+        "strategy": "dense"
+      },
+      {
+        "id": "d943a187-1b7f-5da4-bf56-4498897a385a",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 14,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            17
+          ],
+          "start": 271,
+          "end": 1005
+        },
+        "score": 0.8821756691295753,
+        "strategy": "dense"
+      },
+      {
+        "id": "3820e334-7910-5420-b1bb-dd3a35532173",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 17,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            20
+          ],
+          "start": 1298,
+          "end": 1637
+        },
+        "score": 0.8809100917424152,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D08",
+    "question": "Khi phải xếp lịch học tập trung, số giờ giảng tối đa mỗi tuần và mỗi ngày của một học phần là bao nhiêu?",
+    "trial": "dense",
+    "retrieval_ms": 39.29840000000695,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "df311c5f-46a2-5a1f-b6ad-a261d1cc07d5",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 17,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            20
+          ],
+          "start": 659,
+          "end": 1297
+        },
+        "score": 0.912474783118117,
+        "strategy": "dense"
+      },
+      {
+        "id": "9348238b-4f80-5c64-b59c-9cb97cc10ff8",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 14,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            16
+          ],
+          "start": 27,
+          "end": 270
+        },
+        "score": 0.8765474244370467,
+        "strategy": "dense"
+      },
+      {
+        "id": "b598bfb7-3c85-518e-a515-e643239f5059",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 16,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            19
+          ],
+          "start": 661,
+          "end": 1092
+        },
+        "score": 0.8752651610856408,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D09",
+    "question": "Sinh viên nhận điểm F ở một học phần bắt buộc phải làm gì?",
+    "trial": "dense",
+    "retrieval_ms": 24.445300000024872,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "458d432f-9e1f-5911-a791-0671738f2eef",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 19,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            21
+          ],
+          "start": 0,
+          "end": 639
+        },
+        "score": 0.8959963820054198,
+        "strategy": "dense"
+      },
+      {
+        "id": "2bd58b07-195e-58fc-ade8-471fd8aa5c6a",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 41,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            39
+          ],
+          "start": 660,
+          "end": 826
+        },
+        "score": 0.8953240802371416,
+        "strategy": "dense"
+      },
+      {
+        "id": "5e1037a8-b7a8-5a90-afaf-d4315716b4e9",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 40,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            38
+          ],
+          "start": 0,
+          "end": 678
+        },
+        "score": 0.890530861009316,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D10",
+    "question": "Nếu trượt học phần tự chọn có điều kiện, sinh viên có thể thay bằng học phần nào?",
+    "trial": "dense",
+    "retrieval_ms": 27.359100000012404,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "458d432f-9e1f-5911-a791-0671738f2eef",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 19,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            21
+          ],
+          "start": 0,
+          "end": 639
+        },
+        "score": 0.8904212635284919,
+        "strategy": "dense"
+      },
+      {
+        "id": "89f58123-5599-51ce-8bfa-4f6c19c4ab51",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 18,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            21
+          ],
+          "start": 1231,
+          "end": 1886
+        },
+        "score": 0.8867049817159831,
+        "strategy": "dense"
+      },
+      {
+        "id": "2e3992d6-33d4-57ff-838a-76d7b5f6edd5",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 27,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            27
+          ],
+          "start": 0,
+          "end": 662
+        },
+        "score": 0.8847970798308975,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D11",
+    "question": "Nếu bỏ học phần sau thời hạn rút đăng ký và không đi học, điểm và học phí được xử lý thế nào?",
+    "trial": "dense",
+    "retrieval_ms": 33.3776999998463,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "8017d447-52fc-592a-a41b-5fda8ead724f",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 21,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            23
+          ],
+          "start": 0,
+          "end": 797
+        },
+        "score": 0.8889549490305503,
+        "strategy": "dense"
+      },
+      {
+        "id": "458d432f-9e1f-5911-a791-0671738f2eef",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 19,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            21
+          ],
+          "start": 0,
+          "end": 639
+        },
+        "score": 0.8867369939996613,
+        "strategy": "dense"
+      },
+      {
+        "id": "2564aac7-b43a-5931-9490-c67b7ee11d0c",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 36,
+        "metadata": {
+          "chapter": [
+            "VI"
+          ],
+          "article": [
+            35
+          ],
+          "start": 1348,
+          "end": 1466
+        },
+        "score": 0.8786728487519009,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D12",
+    "question": "Điểm trung bình chung các học phần tối thiểu tại thời điểm xét chuyển ngành sau năm thứ nhất là bao nhiêu?",
+    "trial": "dense",
+    "retrieval_ms": 29.6418000000358,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "6c613bcf-eca8-592b-9c50-c304298ea942",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 23,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            26
+          ],
+          "start": 1708,
+          "end": 2160
+        },
+        "score": 0.9029395303172946,
+        "strategy": "dense"
+      },
+      {
+        "id": "bd109927-4193-552b-9d9a-1624555d8c10",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 46,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            43
+          ],
+          "start": 0,
+          "end": 251
+        },
+        "score": 0.9013145787326904,
+        "strategy": "dense"
+      },
+      {
+        "id": "066f7a99-e070-5d9d-83a9-a9fb766e11fc",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 49,
+        "metadata": {
+          "chapter": [
+            "VIII"
+          ],
+          "article": [
+            47
+          ],
+          "start": 0,
+          "end": 617
+        },
+        "score": 0.8961557822725179,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "first_pack_has_all_evidence": false,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D13",
+    "question": "Sinh viên đã học từ năm thứ hai có được xem xét chuyển ngành không?",
+    "trial": "dense",
+    "retrieval_ms": 25.71310000007543,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "862f4d57-8467-593f-843d-76973b8a8198",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 28,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            28
+          ],
+          "start": 778,
+          "end": 1044
+        },
+        "score": 0.9233792768753919,
+        "strategy": "dense"
+      },
+      {
+        "id": "fca61bf5-9a98-5379-b8af-81983e992079",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 28,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            28
+          ],
+          "start": 0,
+          "end": 777
+        },
+        "score": 0.9086375015904704,
+        "strategy": "dense"
+      },
+      {
+        "id": "b2a709c8-200c-5987-b2ac-dda5bff1bf61",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 24,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            26
+          ],
+          "start": 1347,
+          "end": 2095
+        },
+        "score": 0.8898387753689425,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D14",
+    "question": "Thực nghiệm khoa học và thực hiện đồ án tốt nghiệp có phải hình thức nghiên cứu khoa học của sinh viên không?",
+    "trial": "dense",
+    "retrieval_ms": 29.879200000095807,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "6ac0585f-ee43-54a1-a7dd-9334c39dedea",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 30,
+        "metadata": {
+          "chapter": [
+            "IV"
+          ],
+          "article": [
+            30
+          ],
+          "start": 54,
+          "end": 545
+        },
+        "score": 0.8926676563356162,
+        "strategy": "dense"
+      },
+      {
+        "id": "06c6e197-3fd4-506e-b47a-85fe05fdaaf9",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 35,
+        "metadata": {
+          "chapter": [
+            "VI"
+          ],
+          "article": [
+            35
+          ],
+          "start": 363,
+          "end": 1029
+        },
+        "score": 0.8833641281732406,
+        "strategy": "dense"
+      },
+      {
+        "id": "11daaa42-d3bc-5b2c-b0bc-602e791ae77d",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 20,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            21
+          ],
+          "start": 0,
+          "end": 260
+        },
+        "score": 0.8830854207849335,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D15",
+    "question": "Theo Chương IV, nếu sinh viên đạt nhiều giải nghiên cứu ở các cấp, điểm thưởng được cộng thế nào?",
+    "trial": "dense",
+    "retrieval_ms": 28.119199999991906,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "c338219c-753b-558b-b7f0-98c44a629ffc",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 31,
+        "metadata": {
+          "chapter": [
+            "IV"
+          ],
+          "article": [
+            32
+          ],
+          "start": 582,
+          "end": 1106
+        },
+        "score": 0.9083819840576435,
+        "strategy": "dense"
+      },
+      {
+        "id": "070c50df-6665-513f-8723-660af6c2ca01",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 31,
+        "metadata": {
+          "chapter": [
+            "IV"
+          ],
+          "article": [
+            32
+          ],
+          "start": 0,
+          "end": 581
+        },
+        "score": 0.8971657574919356,
+        "strategy": "dense"
+      },
+      {
+        "id": "c87b855e-4baf-5185-95f3-d204c45151b8",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 31,
+        "metadata": {
+          "chapter": [
+            "IV"
+          ],
+          "article": [
+            32
+          ],
+          "start": 1107,
+          "end": 1711
+        },
+        "score": 0.8957500827163821,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D16",
+    "question": "Theo Quy chế 3626, học phí một tín chỉ ngành Luật là bao nhiêu đồng?",
+    "trial": "dense",
+    "retrieval_ms": 25.182600000107414,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "17acfdf6-43d3-593a-bf12-a6b757179f12",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 47,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            44
+          ],
+          "start": 0,
+          "end": 519
+        },
+        "score": 0.8456003967934482,
+        "strategy": "dense"
+      },
+      {
+        "id": "dfc7143c-533f-59c8-9612-7909c890c104",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 7,
+        "metadata": {
+          "chapter": [
+            "I"
+          ],
+          "article": [
+            8
+          ],
+          "start": 0,
+          "end": 790
+        },
+        "score": 0.8450946966359705,
+        "strategy": "dense"
+      },
+      {
+        "id": "bea90fbd-4db2-5e6a-aee8-efbaf7cb4852",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 48,
+        "metadata": {
+          "chapter": [
+            "VIII"
+          ],
+          "article": [
+            46
+          ],
+          "start": 0,
+          "end": 689
+        },
+        "score": 0.8440213605046084,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": null,
+    "hit3": null,
+    "first_pack_has_all_evidence": null,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D17",
+    "question": "Quy chế có ghi địa chỉ email của Trung tâm Giáo dục Quốc phòng và An ninh để sinh viên liên hệ không?",
+    "trial": "dense",
+    "retrieval_ms": 29.60140000004685,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "b6b3b750-72b2-588f-ad3e-7a3a38f9d46f",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 2,
+        "metadata": {
+          "chapter": [
+            "I"
+          ],
+          "article": [
+            2
+          ],
+          "start": 692,
+          "end": 1236
+        },
+        "score": 0.861559660131009,
+        "strategy": "dense"
+      },
+      {
+        "id": "bea90fbd-4db2-5e6a-aee8-efbaf7cb4852",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 48,
+        "metadata": {
+          "chapter": [
+            "VIII"
+          ],
+          "article": [
+            46
+          ],
+          "start": 0,
+          "end": 689
+        },
+        "score": 0.8609244020517679,
+        "strategy": "dense"
+      },
+      {
+        "id": "5e69420d-d529-5ad2-8774-9a24d62fee10",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 21,
+        "metadata": {
+          "chapter": [
+            "III"
+          ],
+          "article": [
+            23
+          ],
+          "start": 798,
+          "end": 1098
+        },
+        "score": 0.8568258660182355,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": null,
+    "hit3": null,
+    "first_pack_has_all_evidence": null,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D18",
+    "question": "Theo khoản 5 Điều 39, đối với chương trình đào tạo tài năng và chất lượng cao, Hội đồng chấm khóa luận tốt nghiệp tối thiểu có bao nhiêu người và bao nhiêu phản biện?",
+    "trial": "dense",
+    "retrieval_ms": 41.003100000125414,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "fcfb624a-b3fa-53b8-b6b3-06ef55aa46b0",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 40,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            39
+          ],
+          "start": 1396,
+          "end": 2037
+        },
+        "score": 0.89942170778245,
+        "strategy": "dense"
+      },
+      {
+        "id": "15ef55b5-5999-53c3-bb7f-8bd786aaec15",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 41,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            39
+          ],
+          "start": 1627,
+          "end": 1679
+        },
+        "score": 0.8949286312903483,
+        "strategy": "dense"
+      },
+      {
+        "id": "dc7bff12-fc9d-5223-931a-0f0913bc7268",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 41,
+        "metadata": {
+          "chapter": [
+            "VII"
+          ],
+          "article": [
+            39
+          ],
+          "start": 827,
+          "end": 1626
+        },
+        "score": 0.8879446751405164,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "first_pack_has_all_evidence": true,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  },
+  {
+    "query_id": "D19",
+    "question": "Tiền thưởng bằng đồng cho một sinh viên đạt giải nhất nghiên cứu khoa học cấp ĐHQGHN là bao nhiêu?",
+    "trial": "dense",
+    "retrieval_ms": 28.55550000003859,
+    "original_query_filter": null,
+    "original_query_error": null,
+    "original_query_results": [
+      {
+        "id": "070c50df-6665-513f-8723-660af6c2ca01",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 31,
+        "metadata": {
+          "chapter": [
+            "IV"
+          ],
+          "article": [
+            32
+          ],
+          "start": 0,
+          "end": 581
+        },
+        "score": 0.8692987871527915,
+        "strategy": "dense"
+      },
+      {
+        "id": "c338219c-753b-558b-b7f0-98c44a629ffc",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 31,
+        "metadata": {
+          "chapter": [
+            "IV"
+          ],
+          "article": [
+            32
+          ],
+          "start": 582,
+          "end": 1106
+        },
+        "score": 0.8612691849155472,
+        "strategy": "dense"
+      },
+      {
+        "id": "a1872ed5-6168-506e-92da-795d7245f5e9",
+        "source_id": "VNU-3626-2022",
+        "source": "https://fos.ussh.vnu.edu.vn/vi/laws/detail/Quy-che-dao-tao-dai-hoc-tai-Dai-hoc-Quoc-gia-Ha-Noi-Ap-dung-tu-khoa-QH-2022-X-5/?download=1&id=0",
+        "page": 30,
+        "metadata": {
+          "chapter": [
+            "IV"
+          ],
+          "article": [
+            31
+          ],
+          "start": 1317,
+          "end": 1600
+        },
+        "score": 0.8490478513717705,
+        "strategy": "dense"
+      }
+    ],
+    "hit1": null,
+    "hit3": null,
+    "first_pack_has_all_evidence": null,
+    "final_context_has_all_evidence": null,
+    "agent": null
+  }
+]

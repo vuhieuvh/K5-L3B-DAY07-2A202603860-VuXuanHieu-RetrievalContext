@@ -1,0 +1,113 @@
+[
+  {
+    "id": "R01",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo khoản 1 Điều 39, khi tổ chức bảo vệ khóa luận hoặc đồ án trực tuyến, hội đồng chuyên môn gồm ít nhất bao nhiêu thành viên?",
+    "expected_answer": "Ít nhất 3 thành viên.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 40,
+          "article": 39,
+          "start": 1988,
+          "end": 2036,
+          "evidence": "một hội đồng chuyên môn gồm ít nhất 3 thành viên"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "R02",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo khoản 2 Điều 39, điểm khóa luận, đồ án phải công bố chậm nhất bao lâu sau khi hội đồng chấm hoàn thành nhiệm vụ?",
+    "expected_answer": "Chậm nhất một tuần sau khi hội đồng chấm hoàn thành nhiệm vụ.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 41,
+          "article": 39,
+          "start": 406,
+          "end": 526,
+          "evidence": "được thông báo công khai chậm nhất là một tuần sau khi các Hội đồng chấm khóa luận, đồ án tốt nghiệp hoàn thành nhiệm vụ"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "R03",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo điểm a khoản 2 Điều 32, giải nhì nghiên cứu khoa học cấp Đại học Quốc gia Hà Nội được cộng bao nhiêu điểm?",
+    "expected_answer": "0,15 điểm.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 31,
+          "article": 32,
+          "start": 417,
+          "end": 533,
+          "evidence": "a) Đạt giải thưởng cấp Đại học Quốc gia Hà Nội, cấp Bộ Giáo dục và Đào tạo: Giải nhất: 0,20 điểm Giải nhì: 0,15 điểm"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "R04",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo khoản 6 Điều 38, việc chấm thi và công bố điểm học phần phải hoàn thành chậm nhất bao nhiêu ngày làm việc kể từ ngày tổ chức thi kết thúc học phần?",
+    "expected_answer": "Chậm nhất 15 ngày làm việc kể từ ngày tổ chức thi.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 39,
+          "article": 38,
+          "start": 1575,
+          "end": 1700,
+          "evidence": "Việc chấm thi và công bố điểm học phần được hoàn thành chậm nhất là 15 ngày làm việc kể từ ngày tổ chức thi kết thúc học phần"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "R05",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo khoản 3 Điều 38, lịch thi của kỳ thi phụ phải được thông báo trước ít nhất bao lâu?",
+    "expected_answer": "Ít nhất một tuần.",
+    "evidence_groups": [
+      [
+        {
+          "source_id": "VNU-3626-2022",
+          "page": 39,
+          "article": 38,
+          "start": 867,
+          "end": 931,
+          "evidence": "lịch thi của kỳ thi phụ phải được thông báo trước ít nhất 1 tuần"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "R06",
+    "split": "test",
+    "answerable": false,
+    "question": "Điều 40 của Quy chế 3626 quy định thù lao bằng đồng cho một giờ coi thi là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đối chiếu toàn bộ Điều 40 ở trang 41–42. Điều này quy định kỷ luật đối với cán bộ coi thi, tổ chức thi và chấm thi. Tìm thêm thù lao và tiền coi thi trên 52 trang, không thấy mức trả bằng đồng cho một giờ coi thi."
+  },
+  {
+    "id": "R07",
+    "split": "test",
+    "answerable": false,
+    "question": "Theo khoản 2 Điều 39, sinh viên phải gọi vào số điện thoại nào để nhận điểm khóa luận?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Đọc khoản 2 Điều 39 trang 41. Quy chế yêu cầu thông báo công khai và quy định thời hạn, không nêu số điện thoại để sinh viên nhận điểm. Kết quả dò cụm số điện thoại ở trang 16 nói về thông tin liên hệ trong hồ sơ chương trình đào tạo."
+  }
+]

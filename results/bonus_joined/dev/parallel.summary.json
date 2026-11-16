@@ -1,0 +1,39 @@
+{
+  "passed": 18,
+  "total": 22,
+  "rate": 0.8181818181818182,
+  "by_group": {
+    "table": {
+      "passed": 3,
+      "total": 3
+    },
+    "image": {
+      "passed": 3,
+      "total": 3
+    },
+    "chart": {
+      "passed": 2,
+      "total": 2
+    },
+    "multi": {
+      "passed": 3,
+      "total": 6
+    },
+    "text": {
+      "passed": 4,
+      "total": 5
+    },
+    "missing": {
+      "passed": 3,
+      "total": 3
+    }
+  },
+  "verified_chains": 0,
+  "chain_cases": 4,
+  "errors": 2,
+  "median_seconds": 6.95782915000018,
+  "total_seconds": 146.03026020000652,
+  "cost_usd": 0,
+  "trace_sha256": "4ee3687f235e226aa8a0e65f8d6b22abc9340db91a506cdfe1c6e8e37ff7f4fc",
+  "review_sha256": "cf5c72cc2b13782ecc62184859445e9bc9adb6f6449c7bd200f1f3e5a5e248f3"
+}

@@ -1,0 +1,120 @@
+{
+  "trace_sha256": "d0a14c4f1d202e45532addef1ad05e527932b8dee3f968c79b5dad1a63267fdf",
+  "labels": [
+    {
+      "id": "D01",
+      "passed": true,
+      "reason": "5,08 trả đúng trị số trong cột ha; câu hỏi đã nêu đơn vị ha."
+    },
+    {
+      "id": "D02",
+      "passed": true,
+      "reason": "Tr. 18 xác nhận tỷ lệ Đan Phượng 26,21%."
+    },
+    {
+      "id": "D03",
+      "passed": false,
+      "reason": "134,1 là tổng của Khu C. Hàng CTR công nghiệp tr. 147 ghi 26,6 tấn/ngày."
+    },
+    {
+      "id": "D04",
+      "passed": true,
+      "reason": "Tr. 12 xác nhận nhãn ở góc dưới trái."
+    },
+    {
+      "id": "D05",
+      "passed": true,
+      "reason": "Hình 2 tr. 13 cho thấy dải đỏ."
+    },
+    {
+      "id": "D06",
+      "passed": true,
+      "reason": "Hình 12 tr. 106 có bốt điện thoại màu đỏ."
+    },
+    {
+      "id": "D07",
+      "passed": true,
+      "reason": "Biểu đồ dân số có các cột màu cam."
+    },
+    {
+      "id": "D08",
+      "passed": true,
+      "reason": "10.000 đúng khoảng giữa hai vạch, theo đơn vị người đã nêu trong câu hỏi."
+    },
+    {
+      "id": "D09",
+      "passed": false,
+      "reason": "Hai trị số đúng. Citation thứ hai nêu cùng số ở mục khác, chưa dẫn phần Phạm vi và quy mô được hỏi ở tr. 14."
+    },
+    {
+      "id": "D10",
+      "passed": true,
+      "reason": "Hình 13 tr. 144 ghi Lưu vực 2 trên nền gạch chéo. Tr. 147 ghi xe chuyên dụng."
+    },
+    {
+      "id": "D11",
+      "passed": true,
+      "reason": "Tr. 16 nêu gần 20 km."
+    },
+    {
+      "id": "D12",
+      "passed": true,
+      "reason": "Citation tr. 15 trực tiếp nêu 15 phút qua đường sắt đô thị."
+    },
+    {
+      "id": "D13",
+      "passed": true,
+      "reason": "Mục ranh giới tr. 14 nêu phía Tây giáp đê hiện trạng và đất nông nghiệp."
+    },
+    {
+      "id": "D14",
+      "passed": true,
+      "reason": "Tr. 144 xác nhận D300–600 mm."
+    },
+    {
+      "id": "D15",
+      "passed": true,
+      "reason": "Tr. 99 xác nhận 40% cho khu y tế. Bước kiểm chứng đã bỏ citation về các nhóm khác."
+    },
+    {
+      "id": "D16",
+      "passed": true,
+      "reason": "Từ chối đúng vì biểu đồ không phân nhóm tuổi."
+    },
+    {
+      "id": "D17",
+      "passed": true,
+      "reason": "Từ chối đúng vì ảnh vệ tinh không có ngày chụp."
+    },
+    {
+      "id": "D18",
+      "passed": true,
+      "reason": "Lọc đúng Bảng 7.6-4 tr. 147. Model từ chối đúng vì bảng không có khối lượng riêng."
+    },
+    {
+      "id": "R02",
+      "passed": true,
+      "reason": "Tr. 19 được thêm qua vùng bảng tiếp nối và ghi đúng tỷ lệ đất nông nghiệp 50,89%."
+    },
+    {
+      "id": "R24",
+      "passed": false,
+      "reason": "Vẫn dẫn trục Tây Thăng Long ở tr. 113, thiếu nguồn về Đại lộ Thăng Long tr. 25."
+    },
+    {
+      "id": "R27",
+      "passed": true,
+      "reason": "Chặn vì Hình 6 có các nhãn A–D và không có Khu E."
+    },
+    {
+      "id": "R29",
+      "passed": true,
+      "reason": "Chặn vì Hình 13 chỉ ghi Lưu vực 1 và 2."
+    },
+    {
+      "id": "R30",
+      "passed": true,
+      "reason": "Chặn vì bảng phụ tải điện có kW và kVA, không có đơn vị đồng/kWh."
+    }
+  ]
+}

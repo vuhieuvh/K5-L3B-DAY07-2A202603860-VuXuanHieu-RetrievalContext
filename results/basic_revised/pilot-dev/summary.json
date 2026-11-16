@@ -1,0 +1,132 @@
+{
+  "identity": {
+    "source_id": [
+      "VNU-3626-2022"
+    ],
+    "pages": 52,
+    "chunks": 180,
+    "corpus_sha256": "c509dcf81c0aca394e3cd3c2b0357379c1d52e942755321bad336fd9fe0eb924",
+    "collection": "structured",
+    "index_file_sha256": "df344efd59a18385455ae244bb076337a3faba5e0253ff7c1759b8cabc5ca36e",
+    "embedding": "intfloat/multilingual-e5-small",
+    "embedding_dimensions": 384,
+    "embedding_weights_sha256": "dd476dd0c2514e9b9be83aeb3853fac0763e0bdf4a71645407587d77c48a2d88",
+    "agent_model": "qwen3-4b-instruct-2507",
+    "runtime": "llama.cpp b8259 Vulkan Iris Xe, n_ctx 8192",
+    "agent_weights_sha256": "85e4a5b7b8ef0e48af0e8658f5aaab9c2324c76c1641493f4d1e25fce54b18b9",
+    "pipeline": {
+      "src/agent.py": "bb5630b89d5e25c21123c250101185b78ceec85fe6942adabd3fcdb28c6088b6",
+      "src/benchmark.py": "3b5e5f90d4c4c060ff7c3f8ff1f43f04f508e501722d7e10f40cb5c583a9c62a",
+      "src/grounding.py": "51af3f521de071e70b1af5bec8839c9065bb6aed0102039cce601df79f782b18",
+      "src/retrieval.py": "795d6d04125376c2513a18fbbdcd7f9d093665c51f898f12de9879f4d279f645",
+      "starter/agent_metrics.py": "c82ed0321b2a227fdf3c9d29970c2a4a35d32754d288dc8c14b1a1f10336dfe4",
+      "starter/agentic.py": "0603f14d618c4c6cdeef297f780e816bfe6c14568e81349e2df3bedec9a85d6d",
+      "starter/baseline.py": "03b8b16c42be7d19c820e506f4cea2a7496c462a00c77d1cfc9e7fc972301fdf",
+      "starter/convert_day6.py": "31c2b3ac5a1f94e63817a76a359c312b46e584fc248ab49b46538f7589b1c495"
+    },
+    "suite": "revised",
+    "configs": {
+      "dense": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2,
+        "grounded": false
+      },
+      "clause_grounded": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 2500,
+        "max_searches": 2,
+        "grounded": true
+      }
+    },
+    "benchmark_dev_sha256": "bf65fc603eb53b6333fbc958129dcb355ecdadae140ea2cb9b9086ad00a2725c",
+    "benchmark_test_sha256": "ed2936a449bc89ef84ad3f3ca29cfceb4e2091b3c14f056ba306fa739ed8167a"
+  },
+  "results": {
+    "dense": {
+      "cases": 19,
+      "hit1": {
+        "n": 11,
+        "N": 16,
+        "rate": 0.6875
+      },
+      "hit3": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "first_pack_evidence_rate": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "context_evidence_rate": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "median_original_retrieval_ms": 8.80929999948421,
+      "median_agent_ms": 8361.799100001008,
+      "total_agent_ms": 167691.7618000043,
+      "search_count_distribution": {
+        "1": 19
+      },
+      "agent_errors": 0,
+      "prompt_tokens": 14465,
+      "completion_tokens": 768,
+      "config": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2,
+        "grounded": false
+      },
+      "service_cost_usd": 0,
+      "original_query_errors": 0
+    },
+    "clause_grounded": {
+      "cases": 19,
+      "hit1": {
+        "n": 11,
+        "N": 16,
+        "rate": 0.6875
+      },
+      "hit3": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "first_pack_evidence_rate": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "context_evidence_rate": {
+        "n": 14,
+        "N": 16,
+        "rate": 0.875
+      },
+      "median_original_retrieval_ms": 15.751700000691926,
+      "median_agent_ms": 16210.005200000523,
+      "total_agent_ms": 311163.23109999753,
+      "search_count_distribution": {
+        "1": 18,
+        "2": 1
+      },
+      "agent_errors": 1,
+      "prompt_tokens": 18056,
+      "completion_tokens": 1755,
+      "config": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 2500,
+        "max_searches": 2,
+        "grounded": true
+      },
+      "service_cost_usd": 0,
+      "original_query_errors": 0
+    }
+  }
+}

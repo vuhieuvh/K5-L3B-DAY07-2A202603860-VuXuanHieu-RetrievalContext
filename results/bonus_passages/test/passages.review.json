@@ -1,0 +1,156 @@
+{
+  "trace_sha256": "756d31045bed6913fc595b5bb5cdaf32e26126fa82725cd28f804f78cf54aa4d",
+  "method": "Đối chiếu từng câu với PDF gốc, gồm giá trị, đơn vị, phạm vi và vùng trích dẫn.",
+  "labels": [
+    {
+      "id": "P01",
+      "passed": true,
+      "reason": "Dòng Đất chưa sử dụng của bảng hiện trạng tr. 19 ghi tỷ lệ 0,28%."
+    },
+    {
+      "id": "P02",
+      "passed": true,
+      "reason": "Bảng công trình di tích tr. 24 ghi 1740 m² cho Đình Đông Khê."
+    },
+    {
+      "id": "P03",
+      "passed": true,
+      "reason": "Dòng Đất đơn vị ở tr. 89 có tỷ lệ 39,27%."
+    },
+    {
+      "id": "P04",
+      "passed": true,
+      "reason": "Ô thuộc dòng Chữa cháy và cột Đồ án kỳ này tr. 118 ghi 03 đám cháy đồng thời. Các chi tiết bổ sung đều nằm trong ô được dẫn."
+    },
+    {
+      "id": "P05",
+      "passed": true,
+      "reason": "Ô A8 có Ptt 4220 kW trong bảng tr. 134."
+    },
+    {
+      "id": "P06",
+      "passed": true,
+      "reason": "Dòng CTR sinh hoạt thuộc Khu D tr. 147 có 31,9 tấn/ngày."
+    },
+    {
+      "id": "P07",
+      "passed": true,
+      "reason": "Phần trên ảnh vệ tinh tr. 14 cho thấy dòng sông uốn cong."
+    },
+    {
+      "id": "P08",
+      "passed": true,
+      "reason": "Khung chú giải nằm ở góc dưới bên trái Hình 4 tr. 20."
+    },
+    {
+      "id": "P09",
+      "passed": true,
+      "reason": "Vùng màu đỏ Hình 6 tr. 55 mang nhãn Khu A."
+    },
+    {
+      "id": "P10",
+      "passed": true,
+      "reason": "Trục đường chạy dọc được vẽ ở mép bên phải Hình 7 tr. 92."
+    },
+    {
+      "id": "P11",
+      "passed": true,
+      "reason": "Trong các ảnh Hình 12 tr. 106 có chiếu sáng sân vườn và lối đi."
+    },
+    {
+      "id": "P12",
+      "passed": true,
+      "reason": "Theo hai giá trị từ tr. 18, 58.830 trừ 9.490 bằng 49.340 người."
+    },
+    {
+      "id": "P13",
+      "passed": true,
+      "reason": "29.938 cộng 1.350 bằng 31.288 người theo hai cột ở tr. 18."
+    },
+    {
+      "id": "P14",
+      "passed": true,
+      "reason": "Có năm cột cho năm xã được ghi nhãn ở tr. 18. Đơn vị xã có trong câu hỏi."
+    },
+    {
+      "id": "P15",
+      "passed": true,
+      "reason": "Xếp các cột tr. 18 giảm dần, Sơn Đồng đứng thứ tư với 9.490 người."
+    },
+    {
+      "id": "P16",
+      "passed": true,
+      "reason": "1.350 cộng 14.626 bằng 15.976 người theo hai cột ở tr. 18."
+    },
+    {
+      "id": "P17",
+      "passed": true,
+      "reason": "Hình 4 tr. 20 dùng viền đỏ. Hàng Đất giao thông của bảng hiện trạng tr. 19 ghi 180,27 ha."
+    },
+    {
+      "id": "P18",
+      "passed": true,
+      "reason": "Khu C tô vàng nâu trong Hình 6 tr. 55. Dòng tổng Khu C tr. 147 ghi 134,1 tấn/ngày."
+    },
+    {
+      "id": "P19",
+      "passed": true,
+      "reason": "Ảnh tiện ích tr. 106 đặt ghế màu trong không gian xanh. Tr. 102 ghi khoảng lùi tối thiểu 3–6 m."
+    },
+    {
+      "id": "P20",
+      "passed": true,
+      "reason": "Hàng cây công viên và vườn hoa tr. 103 có cọ bạc ngoài cùng bên phải. Đoạn yêu cầu cây trồng tr. 102 ghi chịu được gió, bụi và sâu bệnh."
+    },
+    {
+      "id": "P21",
+      "passed": true,
+      "reason": "Đoạn hiện trạng Quốc lộ 32 tr. 25 nêu quy mô tuyến 35 m."
+    },
+    {
+      "id": "P22",
+      "passed": true,
+      "reason": "Sơ đồ bằng chữ tr. 143 cho làng xóm hiện hữu ghi sau bể tự hoại xử lý phân tán tại chỗ."
+    },
+    {
+      "id": "P23",
+      "passed": true,
+      "reason": "Đoạn giải pháp tr. 145 ghi nước thải sinh hoạt sau xử lý phải đạt cột B của QCVN 14:2025/BTNMT."
+    },
+    {
+      "id": "P24",
+      "passed": true,
+      "reason": "Đoạn tr. 106 quy định trạm dự kiến bố trí dọc đường giao thông chính."
+    },
+    {
+      "id": "P25",
+      "passed": true,
+      "reason": "Từ chối đúng. Hàng Hồ, ao, đầm tr. 19 có diện tích và tỷ lệ, không có năng suất nuôi cá."
+    },
+    {
+      "id": "P26",
+      "passed": true,
+      "reason": "Từ chối đúng. Bảng 7.6-4 tr. 147 không ghi vị trí hay tọa độ tập kết chất thải."
+    },
+    {
+      "id": "P27",
+      "passed": true,
+      "reason": "Từ chối đúng. Hình 8 tr. 99 minh họa kiến trúc, không ghi hãng sản xuất vật liệu mặt đứng."
+    },
+    {
+      "id": "P28",
+      "passed": true,
+      "reason": "Từ chối đúng. Ảnh các ghế ở Hình 12 tr. 106 không ghi tải trọng cho phép."
+    },
+    {
+      "id": "P29",
+      "passed": true,
+      "reason": "Từ chối đúng. Bảng chỉ tiêu dùng nước ở tr. 117 không ghi hãng đồng hồ."
+    },
+    {
+      "id": "P30",
+      "passed": true,
+      "reason": "Từ chối đúng. Mục Khu vực cơ quan, trụ sở tr. 101 ghi chỉ tiêu và giải pháp, không nêu năm hoàn thành."
+    }
+  ]
+}

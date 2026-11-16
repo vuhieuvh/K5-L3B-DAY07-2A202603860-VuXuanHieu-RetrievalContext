@@ -2,6 +2,10 @@
 
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
 
+**Bài làm của Vũ Xuân Hiếu (2A202603860)** · [Cách chạy Day 7](docs/RUN_DAY7.md) · [Báo cáo](report/individual/2A202603860_VuXuanHieu.md) · [Đối chiếu rubric](docs/DOI_CHIEU_RUBRIC.md)
+
+**Phần nâng cao** · [Báo cáo](report/individual/2A202603860_VuXuanHieu_Bonus.md) · [Kết quả J01–J30 và bốn chuỗi multi-hop](results/bonus_joined/test/summary.json) · [Hướng dẫn tái lập](docs/RUN_BONUS_DAY7.md)
+
 Dùng embedding và vector store từ Day 6 để xây một agent biết tìm bằng chứng, trả lời có nguồn và nhận biết khi không đủ thông tin. Bạn tự chọn kiến trúc, số tool và cách tổ chức retrieval.
 
 > **Tùy chọn:** [Gợi ý dùng AI để lập trình](AGENT_SETUP.md) giúp bạn làm lab; phần này không bắt buộc và không tính điểm.
@@ -30,4 +34,4 @@ Index một tài liệu thực tế từ **100 trang** có bảng, ảnh và bi�
 
 ![Các bước thử nghiệm trên dev và đánh giá trên test](assets/experiment-loop.svg)
 
-Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo](report/individual/MSSV_HoTen.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.
+Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo cá nhân đã điền](report/individual/2A202603860_VuXuanHieu.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.

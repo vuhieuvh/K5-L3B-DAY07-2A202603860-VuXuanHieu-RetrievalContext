@@ -1,0 +1,2107 @@
+[
+  {
+    "id": "D01",
+    "question": "Trong bảng thống kê hiện trạng sử dụng đất, đất y tế hiện trạng có diện tích bao nhiêu ha?",
+    "status": "answered",
+    "answer": "Đất y tế hiện trạng có diện tích 5,08 ha",
+    "citations": [
+      {
+        "page": 18,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          606.7,
+          549.8,
+          771.6
+        ],
+        "table": 2,
+        "rows": [
+          2,
+          9
+        ],
+        "table_bbox": [
+          62.3,
+          606.7,
+          549.8,
+          788.3
+        ],
+        "id": "P018-table-02",
+        "score": 0.1697802197802198
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 53,
+          "generated": 11
+        }
+      },
+      {
+        "event": "search",
+        "query": "Trong bảng thống kê hiện trạng sử dụng đất, đất y tế hiện trạng có diện tích bao nhiêu ha?",
+        "results": [
+          {
+            "page": 18,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              606.7,
+              549.8,
+              771.6
+            ],
+            "table": 2,
+            "rows": [
+              2,
+              9
+            ],
+            "table_bbox": [
+              62.3,
+              606.7,
+              549.8,
+              788.3
+            ],
+            "id": "P018-table-02",
+            "score": 0.1697802197802198
+          },
+          {
+            "page": 18,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              606.7,
+              549.8,
+              788.3
+            ],
+            "table": 2,
+            "rows": [
+              10,
+              10
+            ],
+            "table_bbox": [
+              62.3,
+              606.7,
+              549.8,
+              788.3
+            ],
+            "id": "P018-table-03",
+            "score": 0.1625
+          },
+          {
+            "page": 89,
+            "kind": "table",
+            "bbox": [
+              48.4,
+              92.2,
+              786.9,
+              456.6
+            ],
+            "table": 1,
+            "rows": [
+              11,
+              31
+            ],
+            "table_bbox": [
+              48.4,
+              92.2,
+              786.9,
+              540.8
+            ],
+            "id": "P089-table-02",
+            "score": 0.1454901960784314
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P018-table-02",
+          "C2": "P018-table-03",
+          "C3": "P089-table-02"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Đất y tế hiện trạng có diện tích 5,08 ha",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 1164,
+          "generated": 44
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 18,
+        "kind": "table"
+      },
+      "C2": {
+        "page": 18,
+        "kind": "table"
+      },
+      "C3": {
+        "page": 89,
+        "kind": "table"
+      }
+    },
+    "context_ids": {
+      "C1": "P018-table-02",
+      "C2": "P018-table-03",
+      "C3": "P089-table-02"
+    },
+    "elapsed_seconds": 7.123946199999409,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D02",
+    "question": "Bảng hiện trạng dân số ghi tỷ lệ dân số xã Đan Phượng là bao nhiêu phần trăm?",
+    "status": "answered",
+    "answer": "Tỷ lệ dân số xã Đan Phượng là 26,21%",
+    "citations": [
+      {
+        "page": 18,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          72.4,
+          549.8,
+          203.8
+        ],
+        "table": 1,
+        "rows": [
+          2,
+          7
+        ],
+        "table_bbox": [
+          62.3,
+          72.4,
+          549.8,
+          203.8
+        ],
+        "id": "P018-table-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 53,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Bảng hiện trạng dân số ghi tỷ lệ dân số xã Đan Phượng là bao nhiêu phần trăm?",
+        "results": [
+          {
+            "page": 18,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              72.4,
+              549.8,
+              203.8
+            ],
+            "table": 1,
+            "rows": [
+              2,
+              7
+            ],
+            "table_bbox": [
+              62.3,
+              72.4,
+              549.8,
+              203.8
+            ],
+            "id": "P018-table-01",
+            "score": 0.17692307692307693
+          },
+          {
+            "page": 33,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              56.4,
+              549.8,
+              219.9
+            ],
+            "table": 1,
+            "rows": [
+              2,
+              4
+            ],
+            "table_bbox": [
+              62.3,
+              56.4,
+              549.8,
+              776.7
+            ],
+            "id": "P033-table-01",
+            "score": 0.15333333333333332
+          },
+          {
+            "page": 33,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              56.4,
+              549.8,
+              373.1
+            ],
+            "table": 1,
+            "rows": [
+              5,
+              7
+            ],
+            "table_bbox": [
+              62.3,
+              56.4,
+              549.8,
+              776.7
+            ],
+            "id": "P033-table-02",
+            "score": 0.1484126984126984
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P018-table-01",
+          "C2": "P033-table-01",
+          "C3": "P033-table-02"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Tỷ lệ dân số xã Đan Phượng là 26,21%",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 1050,
+          "generated": 46
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 18,
+        "kind": "table"
+      },
+      "C2": {
+        "page": 33,
+        "kind": "table"
+      },
+      "C3": {
+        "page": 33,
+        "kind": "table"
+      }
+    },
+    "context_ids": {
+      "C1": "P018-table-01",
+      "C2": "P033-table-01",
+      "C3": "P033-table-02"
+    },
+    "elapsed_seconds": 7.563498299999992,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D03",
+    "question": "Trong bảng dự báo lượng chất thải rắn phát sinh, dòng CTR công nghiệp ở Khu C ghi khối lượng bao nhiêu tấn/ngày?",
+    "status": "answered",
+    "answer": "Dòng CTR công nghiệp ở Khu C ghi khối lượng 79,7 tấn/ngày.",
+    "citations": [
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          80.2,
+          549.8,
+          358.5
+        ],
+        "table": 1,
+        "rows": [
+          3,
+          12
+        ],
+        "table_bbox": [
+          62.3,
+          80.2,
+          549.8,
+          518.0
+        ],
+        "id": "P147-table-01",
+        "score": 0.16428571428571428
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 63,
+          "generated": 13
+        }
+      },
+      {
+        "event": "search",
+        "query": "Trong bảng dự báo lượng chất thải rắn phát sinh, dòng CTR công nghiệp ở Khu C ghi khối lượng bao nhiêu tấn/ngày?",
+        "results": [
+          {
+            "page": 147,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              80.2,
+              549.8,
+              518.0
+            ],
+            "table": 1,
+            "rows": [
+              13,
+              20
+            ],
+            "table_bbox": [
+              62.3,
+              80.2,
+              549.8,
+              518.0
+            ],
+            "id": "P147-table-02",
+            "score": 0.17692307692307693
+          },
+          {
+            "page": 147,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              80.2,
+              549.8,
+              358.5
+            ],
+            "table": 1,
+            "rows": [
+              3,
+              12
+            ],
+            "table_bbox": [
+              62.3,
+              80.2,
+              549.8,
+              518.0
+            ],
+            "id": "P147-table-01",
+            "score": 0.16428571428571428
+          },
+          {
+            "page": 146,
+            "kind": "table",
+            "bbox": [
+              62.2,
+              547.5,
+              549.6,
+              739.8
+            ],
+            "table": 2,
+            "rows": [
+              3,
+              6
+            ],
+            "table_bbox": [
+              62.2,
+              547.5,
+              549.6,
+              739.8
+            ],
+            "id": "P146-table-02",
+            "score": 0.15333333333333332
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P147-table-02",
+          "C2": "P147-table-01",
+          "C3": "P146-table-02"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Dòng CTR công nghiệp ở Khu C ghi khối lượng 79,7 tấn/ngày.",
+          "citations": [
+            "C2"
+          ]
+        },
+        "usage": {
+          "prompt": 1295,
+          "generated": 51
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 147,
+        "kind": "table"
+      },
+      "C2": {
+        "page": 147,
+        "kind": "table"
+      },
+      "C3": {
+        "page": 146,
+        "kind": "table"
+      }
+    },
+    "context_ids": {
+      "C1": "P147-table-02",
+      "C2": "P147-table-01",
+      "C3": "P146-table-02"
+    },
+    "elapsed_seconds": 9.300443800000721,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D04",
+    "question": "Trong Hình 1 về mối liên hệ vùng, nhãn 'Vị trí nghiên cứu lập quy hoạch' nằm ở góc nào của bản đồ?",
+    "status": "answered",
+    "answer": "Nhãn 'Vị trí nghiên cứu lập quy hoạch' nằm ở góc dưới trái của bản đồ.",
+    "citations": [
+      {
+        "page": 12,
+        "kind": "image",
+        "bbox": [
+          85.6,
+          258.6,
+          526.3,
+          754
+        ],
+        "title": "Hình 1. Vị trí và mối liên hệ vùng",
+        "id": "P012-image-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 59,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Trong Hình 1 về mối liên hệ vùng, nhãn 'Vị trí nghiên cứu lập quy hoạch' nằm ở góc nào của bản đồ?",
+        "results": [
+          {
+            "page": 12,
+            "kind": "image",
+            "bbox": [
+              85.6,
+              258.6,
+              526.3,
+              754
+            ],
+            "title": "Hình 1. Vị trí và mối liên hệ vùng",
+            "id": "P012-image-01",
+            "score": 0.17692307692307693
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P012-image-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Nhãn 'Vị trí nghiên cứu lập quy hoạch' nằm ở góc dưới trái của bản đồ.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 355,
+          "generated": 49
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 12,
+        "kind": "image"
+      }
+    },
+    "context_ids": {
+      "C1": "P012-image-01"
+    },
+    "elapsed_seconds": 6.8720688000003065,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D05",
+    "question": "Trong Hình 2, dải khu nghiên cứu gần giữa bản đồ được tô màu gì?",
+    "status": "answered",
+    "answer": "Dải khu nghiên cứu gần giữa bản đồ được tô màu đỏ.",
+    "citations": [
+      {
+        "page": 13,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          62.1,
+          565.7,
+          627.6
+        ],
+        "title": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội",
+        "id": "P013-image-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 49,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Trong Hình 2, dải khu nghiên cứu gần giữa bản đồ được tô màu gì?",
+        "results": [
+          {
+            "page": 13,
+            "kind": "image",
+            "bbox": [
+              67.7,
+              62.1,
+              565.7,
+              627.6
+            ],
+            "title": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội",
+            "id": "P013-image-01",
+            "score": 0.17692307692307693
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P013-image-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Dải khu nghiên cứu gần giữa bản đồ được tô màu đỏ.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 350,
+          "generated": 42
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 13,
+        "kind": "image"
+      }
+    },
+    "context_ids": {
+      "C1": "P013-image-01"
+    },
+    "elapsed_seconds": 4.840450499999861,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D06",
+    "question": "Trong Hình 12 về các tiện ích đô thị, bốt điện thoại ở góc dưới phải có màu gì?",
+    "status": "answered",
+    "answer": "Bốt điện thoại ở góc dưới phải có màu đỏ.",
+    "citations": [
+      {
+        "page": 106,
+        "kind": "image",
+        "bbox": [
+          66.8,
+          111.6,
+          546.7,
+          401.8
+        ],
+        "title": "Hình 12. Các tiện ích đô thị",
+        "id": "P106-image-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 54,
+          "generated": 10
+        }
+      },
+      {
+        "event": "search",
+        "query": "Trong Hình 12 về các tiện ích đô thị, bốt điện thoại ở góc dưới phải có màu gì?",
+        "results": [
+          {
+            "page": 106,
+            "kind": "image",
+            "bbox": [
+              66.8,
+              111.6,
+              546.7,
+              401.8
+            ],
+            "title": "Hình 12. Các tiện ích đô thị",
+            "id": "P106-image-01",
+            "score": 0.17692307692307693
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P106-image-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Bốt điện thoại ở góc dưới phải có màu đỏ.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 320,
+          "generated": 40
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 106,
+        "kind": "image"
+      }
+    },
+    "context_ids": {
+      "C1": "P106-image-01"
+    },
+    "elapsed_seconds": 4.971116099999563,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D07",
+    "question": "Biểu đồ hiện trạng dân số dùng các cột màu gì?",
+    "status": "answered",
+    "answer": "Biểu đồ hiện trạng dân số dùng màu cam.",
+    "citations": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "title": "Biểu đồ hiện trạng dân số",
+        "id": "P018-chart-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 43,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Biểu đồ hiện trạng dân số dùng các cột màu gì?",
+        "results": [
+          {
+            "page": 18,
+            "kind": "chart",
+            "bbox": [
+              65.9,
+              226.1,
+              545.3,
+              408.1
+            ],
+            "title": "Biểu đồ hiện trạng dân số",
+            "id": "P018-chart-01",
+            "score": 0.17692307692307693
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P018-chart-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Biểu đồ hiện trạng dân số dùng màu cam.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 387,
+          "generated": 39
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 18,
+        "kind": "chart"
+      }
+    },
+    "context_ids": {
+      "C1": "P018-chart-01"
+    },
+    "elapsed_seconds": 5.130290400000376,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D08",
+    "question": "Khoảng cách giữa hai vạch chia liên tiếp trên trục tung của biểu đồ hiện trạng dân số là bao nhiêu người?",
+    "status": "answered",
+    "answer": "Khoảng cách giữa hai vạch chia liên tiếp trên trục tung của biểu đồ hiện trạng dân số là 10.000 người.",
+    "citations": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "title": "Biểu đồ hiện trạng dân số",
+        "id": "P018-chart-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 58,
+          "generated": 10
+        }
+      },
+      {
+        "event": "search",
+        "query": "Khoảng cách giữa hai vạch chia liên tiếp trên trục tung của biểu đồ hiện trạng dân số là bao nhiêu người?",
+        "results": [
+          {
+            "page": 18,
+            "kind": "chart",
+            "bbox": [
+              65.9,
+              226.1,
+              545.3,
+              408.1
+            ],
+            "title": "Biểu đồ hiện trạng dân số",
+            "id": "P018-chart-01",
+            "score": 0.17692307692307693
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P018-chart-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Khoảng cách giữa hai vạch chia liên tiếp trên trục tung của biểu đồ hiện trạng dân số là 10.000 người.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 402,
+          "generated": 61
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 18,
+        "kind": "chart"
+      }
+    },
+    "context_ids": {
+      "C1": "P018-chart-01"
+    },
+    "elapsed_seconds": 5.619980499999656,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D09",
+    "question": "Ghép hai dữ kiện về quy mô dân số: (1) Bảng hiện trạng dân số ghi tổng cộng bao nhiêu người? (2) Mục Phạm vi và quy mô lập quy hoạch nêu dân số dự kiến khoảng bao nhiêu người?",
+    "status": "answered",
+    "answer": "Dân số hiện trạng khu vực nghiên cứu lập quy hoạch là 114.234 người (trong bảng hiện trạng dân số, tổng cộng ở trang 18). Dân số dự kiến đến năm 2045 là khoảng 200.000 người (trong mục Phạm vi và quy mô lập quy hoạch, trang 44).",
+    "citations": [
+      {
+        "page": 18,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          72.4,
+          549.8,
+          203.8
+        ],
+        "table": 1,
+        "rows": [
+          2,
+          7
+        ],
+        "table_bbox": [
+          62.3,
+          72.4,
+          549.8,
+          203.8
+        ],
+        "id": "P018-table-01",
+        "score": 0.17692307692307693
+      },
+      {
+        "page": 44,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          438.4,
+          547.7,
+          747.6
+        ],
+        "id": "P044-text-02",
+        "score": 0.15333333333333332
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 84,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Bảng hiện trạng dân số ghi tổng cộng bao nhiêu người?",
+        "results": [
+          {
+            "page": 18,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              72.4,
+              549.8,
+              203.8
+            ],
+            "table": 1,
+            "rows": [
+              2,
+              7
+            ],
+            "table_bbox": [
+              62.3,
+              72.4,
+              549.8,
+              203.8
+            ],
+            "id": "P018-table-01",
+            "score": 0.17692307692307693
+          },
+          {
+            "page": 125,
+            "kind": "table",
+            "bbox": [
+              62.4,
+              57.9,
+              538.2,
+              234.8
+            ],
+            "table": 1,
+            "rows": [
+              4,
+              14
+            ],
+            "table_bbox": [
+              62.4,
+              57.9,
+              538.2,
+              779.4
+            ],
+            "id": "P125-table-01",
+            "score": 0.1595238095238095
+          },
+          {
+            "page": 132,
+            "kind": "table",
+            "bbox": [
+              62.4,
+              569.9,
+              549.7,
+              737.6
+            ],
+            "table": 2,
+            "rows": [
+              4,
+              14
+            ],
+            "table_bbox": [
+              62.4,
+              569.9,
+              549.7,
+              779.4
+            ],
+            "id": "P132-table-05",
+            "score": 0.1400735294117647
+          }
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Mục Phạm vi và quy mô lập quy hoạch nêu dân số dự kiến khoảng bao nhiêu người?",
+        "results": [
+          {
+            "page": 44,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              438.4,
+              547.7,
+              747.6
+            ],
+            "id": "P044-text-02",
+            "score": 0.15333333333333332
+          },
+          {
+            "page": 324,
+            "kind": "text",
+            "bbox": [
+              85.1,
+              243.7,
+              542.0,
+              528.3
+            ],
+            "id": "P324-text-02",
+            "score": 0.14192307692307693
+          },
+          {
+            "page": 14,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              510.5,
+              547.9,
+              779.9
+            ],
+            "id": "P014-text-01",
+            "score": 0.12670454545454546
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P018-table-01",
+          "C2": "P044-text-02",
+          "C3": "P125-table-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Dân số hiện trạng khu vực nghiên cứu lập quy hoạch là 114.234 người (trong bảng hiện trạng dân số, tổng cộng ở trang 18). Dân số dự kiến đến năm 2045 là khoảng 200.000 người (trong mục Phạm vi và quy mô lập quy hoạch, trang 44).",
+          "citations": [
+            "C1",
+            "C2"
+          ]
+        },
+        "usage": {
+          "prompt": 1322,
+          "generated": 116
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 18,
+        "kind": "table"
+      },
+      "C2": {
+        "page": 44,
+        "kind": "text"
+      },
+      "C3": {
+        "page": 125,
+        "kind": "table"
+      }
+    },
+    "context_ids": {
+      "C1": "P018-table-01",
+      "C2": "P044-text-02",
+      "C3": "P125-table-01"
+    },
+    "elapsed_seconds": 14.780408700000407,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D10",
+    "question": "Đối chiếu phương án hạ tầng: (1) Hình 13 ghi tên lưu vực có nền gạch chéo là gì? (2) Phần quy trình quản lý CTR gọi phương tiện đưa rác từ điểm trung chuyển đến khu xử lý là gì?",
+    "status": "answered",
+    "answer": "Phương án hạ tầng trong Hình 13 ghi tên lưu vực có nền gạch chéo là Lưu vực 1. Lưu vực 1 ở phía trên, nền gạch ô vuông; Lưu vực 2 ở dưới và bên trái, nền gạch chéo.",
+    "citations": [
+      {
+        "page": 144,
+        "kind": "image",
+        "bbox": [
+          241.1,
+          214,
+          370.8,
+          531
+        ],
+        "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+        "id": "P144-image-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 86,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Hình 13 ghi tên lưu vực có nền gạch chéo là gì?",
+        "results": [
+          {
+            "page": 144,
+            "kind": "image",
+            "bbox": [
+              241.1,
+              214,
+              370.8,
+              531
+            ],
+            "title": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính",
+            "id": "P144-image-01",
+            "score": 0.17692307692307693
+          }
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Phần quy trình quản lý CTR gọi phương tiện đưa rác từ điểm trung chuyển đến khu xử lý là gì?",
+        "results": [
+          {
+            "page": 148,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              319.4,
+              547.9,
+              614.4
+            ],
+            "id": "P148-text-02",
+            "score": 0.17692307692307693
+          },
+          {
+            "page": 147,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.9,
+              656.9
+            ],
+            "id": "P147-text-01",
+            "score": 0.1595238095238095
+          },
+          {
+            "page": 153,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              300.8,
+              547.9,
+              557.1
+            ],
+            "id": "P153-text-02",
+            "score": 0.14365079365079364
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P144-image-01",
+          "C2": "P148-text-02",
+          "C3": "P147-text-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Phương án hạ tầng trong Hình 13 ghi tên lưu vực có nền gạch chéo là Lưu vực 1. Lưu vực 1 ở phía trên, nền gạch ô vuông; Lưu vực 2 ở dưới và bên trái, nền gạch chéo.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 1139,
+          "generated": 86
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 144,
+        "kind": "image"
+      },
+      "C2": {
+        "page": 148,
+        "kind": "text"
+      },
+      "C3": {
+        "page": 147,
+        "kind": "text"
+      }
+    },
+    "context_ids": {
+      "C1": "P144-image-01",
+      "C2": "P148-text-02",
+      "C3": "P147-text-01"
+    },
+    "elapsed_seconds": 12.17042439999932,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D11",
+    "question": "Mục đánh giá địa chất thủy văn cho biết sông Đáy qua khu vực nghiên cứu dài khoảng bao nhiêu?",
+    "status": "answered",
+    "answer": "Mục đánh giá địa chất thủy văn cho biết sông Đáy qua khu vực nghiên cứu dài khoảng 20km.",
+    "citations": [
+      {
+        "page": 16,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          56.4,
+          547.9,
+          235.9
+        ],
+        "id": "P016-text-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 54,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Mục đánh giá địa chất thủy văn cho biết sông Đáy qua khu vực nghiên cứu dài khoảng bao nhiêu?",
+        "results": [
+          {
+            "page": 16,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              56.4,
+              547.9,
+              235.9
+            ],
+            "id": "P016-text-01",
+            "score": 0.17692307692307693
+          },
+          {
+            "page": 16,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              239.5,
+              547.9,
+              429.4
+            ],
+            "id": "P016-text-02",
+            "score": 0.16428571428571428
+          },
+          {
+            "page": 14,
+            "kind": "image",
+            "bbox": [
+              67.8,
+              62.1,
+              544.2,
+              504.2
+            ],
+            "title": "Hình 3. Vị trí khu vực nghiên cứu trên nền ảnh vệ tinh",
+            "id": "P014-image-01",
+            "score": 0.1239766081871345
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P016-text-01",
+          "C2": "P016-text-02",
+          "C3": "P014-image-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Mục đánh giá địa chất thủy văn cho biết sông Đáy qua khu vực nghiên cứu dài khoảng 20km.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 826,
+          "generated": 54
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 16,
+        "kind": "text"
+      },
+      "C2": {
+        "page": 16,
+        "kind": "text"
+      },
+      "C3": {
+        "page": 14,
+        "kind": "image"
+      }
+    },
+    "context_ids": {
+      "C1": "P016-text-01",
+      "C2": "P016-text-02",
+      "C3": "P014-image-01"
+    },
+    "elapsed_seconds": 4.919110200000432,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D12",
+    "question": "Theo phần tính chất, dự kiến tiếp cận nội đô bằng đường sắt đô thị trong khoảng bao lâu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong hồ sơ để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 52,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Theo phần tính chất, dự kiến tiếp cận nội đô bằng đường sắt đô thị trong khoảng bao lâu?",
+        "results": [
+          {
+            "page": 145,
+            "kind": "table",
+            "bbox": [
+              62.2,
+              228.3,
+              526.8,
+              347.5
+            ],
+            "table": 1,
+            "rows": [
+              2,
+              5
+            ],
+            "table_bbox": [
+              62.2,
+              228.3,
+              526.8,
+              347.5
+            ],
+            "id": "P145-table-01",
+            "score": 0.1
+          },
+          {
+            "page": 326,
+            "kind": "table",
+            "bbox": [
+              83.7,
+              556.3,
+              540.2,
+              669.9
+            ],
+            "table": 2,
+            "rows": [
+              2,
+              7
+            ],
+            "table_bbox": [
+              83.7,
+              556.3,
+              540.2,
+              714.8
+            ],
+            "id": "P326-table-02",
+            "score": 0.09473684210526316
+          },
+          {
+            "page": 322,
+            "kind": "table",
+            "bbox": [
+              85.1,
+              721.8,
+              538.8,
+              760.1
+            ],
+            "table": 1,
+            "rows": [
+              2,
+              3
+            ],
+            "table_bbox": [
+              85.1,
+              721.8,
+              538.8,
+              760.1
+            ],
+            "id": "P322-table-01",
+            "score": 0.09285714285714286
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P145-table-01",
+          "C2": "P326-table-02",
+          "C3": "P322-table-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "abstain"
+        },
+        "usage": {
+          "prompt": 863,
+          "generated": 12
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 145,
+        "kind": "table"
+      },
+      "C2": {
+        "page": 326,
+        "kind": "table"
+      },
+      "C3": {
+        "page": 322,
+        "kind": "table"
+      }
+    },
+    "context_ids": {
+      "C1": "P145-table-01",
+      "C2": "P326-table-02",
+      "C3": "P322-table-01"
+    },
+    "elapsed_seconds": 5.290040300000328,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D13",
+    "question": "Phạm vi ranh giới nghiên cứu phía Tây giáp những gì?",
+    "status": "answered",
+    "answer": "Phạm vi ranh giới nghiên cứu phía Tây giáp các huyện Phúc Thọ, huyện Quốc Oai và đất nông nghiệp huyện Đan Phượng.",
+    "citations": [
+      {
+        "page": 14,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          510.5,
+          547.9,
+          779.9
+        ],
+        "id": "P014-text-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 44,
+          "generated": 10
+        }
+      },
+      {
+        "event": "search",
+        "query": "Phạm vi ranh giới nghiên cứu phía Tây giáp những gì?",
+        "results": [
+          {
+            "page": 14,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              510.5,
+              547.9,
+              779.9
+            ],
+            "id": "P014-text-01",
+            "score": 0.17692307692307693
+          },
+          {
+            "page": 322,
+            "kind": "text",
+            "bbox": [
+              85.1,
+              51.4,
+              542.0,
+              339.4
+            ],
+            "id": "P322-text-01",
+            "score": 0.13014492753623189
+          },
+          {
+            "page": 16,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              239.5,
+              547.9,
+              429.4
+            ],
+            "id": "P016-text-02",
+            "score": 0.11299019607843137
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P014-text-01",
+          "C2": "P322-text-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Phạm vi ranh giới nghiên cứu phía Tây giáp các huyện Phúc Thọ, huyện Quốc Oai và đất nông nghiệp huyện Đan Phượng.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 793,
+          "generated": 61
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 14,
+        "kind": "text"
+      },
+      "C2": {
+        "page": 322,
+        "kind": "text"
+      }
+    },
+    "context_ids": {
+      "C1": "P014-text-01",
+      "C2": "P322-text-01"
+    },
+    "elapsed_seconds": 5.631817800000135,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D14",
+    "question": "Giải pháp mạng lưới thoát nước thải sinh hoạt đề xuất các tuyến cống có dải đường kính nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong hồ sơ để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 53,
+          "generated": 10
+        }
+      },
+      {
+        "event": "search",
+        "query": "Giải pháp mạng lưới thoát nước thải sinh hoạt đề xuất các tuyến cống có dải đường kính nào?",
+        "results": [
+          {
+            "page": 144,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              571.2,
+              547.9,
+              778.2
+            ],
+            "id": "P144-text-02",
+            "score": 0.17692307692307693
+          },
+          {
+            "page": 311,
+            "kind": "ocr",
+            "bbox": [
+              93.6,
+              56.4,
+              531.6,
+              361.1
+            ],
+            "id": "P311-ocr-01",
+            "score": 0.13642857142857143
+          },
+          {
+            "page": 141,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              393.6,
+              547.9,
+              685.9
+            ],
+            "id": "P141-text-02",
+            "score": 0.1239766081871345
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P144-text-02",
+          "C2": "P311-ocr-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "abstain"
+        },
+        "usage": {
+          "prompt": 872,
+          "generated": 12
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 144,
+        "kind": "text"
+      },
+      "C2": {
+        "page": 311,
+        "kind": "ocr"
+      }
+    },
+    "context_ids": {
+      "C1": "P144-text-02",
+      "C2": "P311-ocr-01"
+    },
+    "elapsed_seconds": 2.0296023999999306,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D15",
+    "question": "Theo giải pháp tổ chức khu vực y tế, mật độ xây dựng gộp tối đa là bao nhiêu phần trăm?",
+    "status": "answered",
+    "answer": "Theo giải pháp tổ chức khu vực y tế, mật độ xây dựng gộp tối đa là 40 phần trăm.",
+    "citations": [
+      {
+        "page": 99,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          632.4,
+          547.9,
+          785.8
+        ],
+        "id": "P099-text-02",
+        "score": 0.1697802197802198
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 56,
+          "generated": 11
+        }
+      },
+      {
+        "event": "search",
+        "query": "Theo giải pháp tổ chức khu vực y tế, mật độ xây dựng gộp tối đa là bao nhiêu phần trăm?",
+        "results": [
+          {
+            "page": 99,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              632.4,
+              547.9,
+              785.8
+            ],
+            "id": "P099-text-02",
+            "score": 0.1697802197802198
+          },
+          {
+            "page": 101,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              281.6,
+              547.8,
+              464.4
+            ],
+            "id": "P101-text-02",
+            "score": 0.14916666666666667
+          },
+          {
+            "page": 100,
+            "kind": "text",
+            "bbox": [
+              67.7,
+              656.4,
+              547.9,
+              783.2
+            ],
+            "id": "P100-text-04",
+            "score": 0.14545454545454545
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P099-text-02",
+          "C2": "P101-text-02",
+          "C3": "P100-text-04"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Theo giải pháp tổ chức khu vực y tế, mật độ xây dựng gộp tối đa là 40 phần trăm.",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 802,
+          "generated": 55
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 99,
+        "kind": "text"
+      },
+      "C2": {
+        "page": 101,
+        "kind": "text"
+      },
+      "C3": {
+        "page": 100,
+        "kind": "text"
+      }
+    },
+    "context_ids": {
+      "C1": "P099-text-02",
+      "C2": "P101-text-02",
+      "C3": "P100-text-04"
+    },
+    "elapsed_seconds": 5.28324369999973,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D16",
+    "question": "Trong biểu đồ hiện trạng dân số, nhóm dưới 18 tuổi có bao nhiêu người?",
+    "status": "answered",
+    "answer": "Trong biểu đồ hiện trạng dân số, nhóm dưới 18 tuổi có 58.830 người",
+    "citations": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "title": "Biểu đồ hiện trạng dân số",
+        "id": "P018-chart-01",
+        "score": 0.17692307692307693
+      }
+    ],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 50,
+          "generated": 9
+        }
+      },
+      {
+        "event": "search",
+        "query": "Trong biểu đồ hiện trạng dân số, nhóm dưới 18 tuổi có bao nhiêu người?",
+        "results": [
+          {
+            "page": 18,
+            "kind": "chart",
+            "bbox": [
+              65.9,
+              226.1,
+              545.3,
+              408.1
+            ],
+            "title": "Biểu đồ hiện trạng dân số",
+            "id": "P018-chart-01",
+            "score": 0.17692307692307693
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P018-chart-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "answer",
+          "answer": "Trong biểu đồ hiện trạng dân số, nhóm dưới 18 tuổi có 58.830 người",
+          "citations": [
+            "C1"
+          ]
+        },
+        "usage": {
+          "prompt": 394,
+          "generated": 53
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 18,
+        "kind": "chart"
+      }
+    },
+    "context_ids": {
+      "C1": "P018-chart-01"
+    },
+    "elapsed_seconds": 6.812936799999989,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D17",
+    "question": "Hình 3 trên nền ảnh vệ tinh ghi ngày chụp chính xác là ngày nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong hồ sơ để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 49,
+          "generated": 14
+        }
+      },
+      {
+        "event": "search",
+        "query": "Hình 3 trên nền ảnh vệ tinh ghi ngày chụp chính xác là ngày nào?",
+        "results": [
+          {
+            "page": 14,
+            "kind": "image",
+            "bbox": [
+              67.8,
+              62.1,
+              544.2,
+              504.2
+            ],
+            "title": "Hình 3. Vị trí khu vực nghiên cứu trên nền ảnh vệ tinh",
+            "id": "P014-image-01",
+            "score": 0.17692307692307693
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P014-image-01"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "abstain"
+        },
+        "usage": {
+          "prompt": 328,
+          "generated": 12
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 14,
+        "kind": "image"
+      }
+    },
+    "context_ids": {
+      "C1": "P014-image-01"
+    },
+    "elapsed_seconds": 2.542941200000314,
+    "service_cost_usd": 0
+  },
+  {
+    "id": "D18",
+    "question": "Bảng 7.6-4 dự báo lượng chất thải rắn phát sinh có ghi khối lượng riêng của rác sinh hoạt tính bằng kg/m³ là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong hồ sơ để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "model",
+        "action": {
+          "action": "search"
+        },
+        "usage": {
+          "prompt": 68,
+          "generated": 11
+        }
+      },
+      {
+        "event": "search",
+        "query": "Bảng 7.6-4 dự báo lượng chất thải rắn phát sinh có ghi khối lượng riêng của rác sinh hoạt tính bằng kg/m³ là bao nhiêu?",
+        "results": [
+          {
+            "page": 147,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              80.2,
+              549.8,
+              518.0
+            ],
+            "table": 1,
+            "rows": [
+              13,
+              20
+            ],
+            "table_bbox": [
+              62.3,
+              80.2,
+              549.8,
+              518.0
+            ],
+            "id": "P147-table-02",
+            "score": 0.17142857142857143
+          },
+          {
+            "page": 147,
+            "kind": "table",
+            "bbox": [
+              62.3,
+              80.2,
+              549.8,
+              358.5
+            ],
+            "table": 1,
+            "rows": [
+              3,
+              12
+            ],
+            "table_bbox": [
+              62.3,
+              80.2,
+              549.8,
+              518.0
+            ],
+            "id": "P147-table-01",
+            "score": 0.1697802197802198
+          },
+          {
+            "page": 146,
+            "kind": "table",
+            "bbox": [
+              62.2,
+              547.5,
+              549.6,
+              739.8
+            ],
+            "table": 2,
+            "rows": [
+              3,
+              6
+            ],
+            "table_bbox": [
+              62.2,
+              547.5,
+              549.6,
+              739.8
+            ],
+            "id": "P146-table-02",
+            "score": 0.15333333333333332
+          }
+        ]
+      },
+      {
+        "event": "context",
+        "ids": {
+          "C1": "P147-table-02",
+          "C2": "P147-table-01",
+          "C3": "P146-table-02"
+        }
+      },
+      {
+        "event": "model",
+        "action": {
+          "action": "abstain"
+        },
+        "usage": {
+          "prompt": 1300,
+          "generated": 12
+        }
+      }
+    ],
+    "context": {
+      "C1": {
+        "page": 147,
+        "kind": "table"
+      },
+      "C2": {
+        "page": 147,
+        "kind": "table"
+      },
+      "C3": {
+        "page": 146,
+        "kind": "table"
+      }
+    },
+    "context_ids": {
+      "C1": "P147-table-02",
+      "C2": "P147-table-01",
+      "C3": "P146-table-02"
+    },
+    "elapsed_seconds": 8.165096200000335,
+    "service_cost_usd": 0
+  }
+]

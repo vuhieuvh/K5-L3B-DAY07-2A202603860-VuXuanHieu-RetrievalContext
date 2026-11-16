@@ -1,0 +1,116 @@
+{
+  "trace_sha256": "17c39b0e82417dfd576c10a54bc9ca6ca3ec4b9e4b96a50b0f834bc9bb227525",
+  "method": "Đối chiếu từng câu, địa chỉ hàng và vùng dẫn với PDF gốc.",
+  "labels": [
+    {
+      "id": "D01",
+      "passed": true,
+      "reason": "Hàng Đất y tế hiện trạng và cột diện tích tr. 18 ghi 5,08 ha."
+    },
+    {
+      "id": "D02",
+      "passed": true,
+      "reason": "Đúng hàng xã Đan Phượng và cột tỷ lệ tr. 18."
+    },
+    {
+      "id": "D03",
+      "passed": true,
+      "reason": "Dòng CTR công nghiệp thuộc Khu C tr. 147 ghi 26,6 tấn/ngày."
+    },
+    {
+      "id": "D04",
+      "passed": true,
+      "reason": "Nhãn chỉ vị trí nằm ở góc dưới bên trái bản đồ tr. 12."
+    },
+    {
+      "id": "D05",
+      "passed": true,
+      "reason": "Dải khu nghiên cứu trên Hình 2 tr. 13 màu đỏ."
+    },
+    {
+      "id": "D06",
+      "passed": true,
+      "reason": "Bốt điện thoại ở góc dưới phải Hình 12 tr. 106 màu đỏ."
+    },
+    {
+      "id": "D07",
+      "passed": true,
+      "reason": "Các cột biểu đồ tr. 18 có màu cam."
+    },
+    {
+      "id": "D08",
+      "passed": true,
+      "reason": "Độ chia giữa hai vạch của trục tung là 10.000 người. Đơn vị người đã nêu trong câu hỏi."
+    },
+    {
+      "id": "D09",
+      "passed": true,
+      "reason": "Tổng hiện trạng 114.234 trong bảng tr. 18 và dự kiến khoảng 200.000 theo mục Phạm vi và quy mô tr. 14."
+    },
+    {
+      "id": "D10",
+      "passed": true,
+      "reason": "Hình tr. 144 xác định Lưu vực 2. Sơ đồ CTR tr. 147 xác định xe chuyên dụng."
+    },
+    {
+      "id": "D11",
+      "passed": true,
+      "reason": "Đúng số gần 20 km của sông Đáy trong đoạn địa chất thủy văn tr. 16."
+    },
+    {
+      "id": "D12",
+      "passed": true,
+      "reason": "Đoạn dưới tiêu đề Tính chất tr. 42 cũng nêu tiếp cận nội đô bằng đường sắt đô thị trong 15 phút."
+    },
+    {
+      "id": "D13",
+      "passed": false,
+      "reason": "Dẫn mô tả sông Đáy ở tr. 16, không trả lời đúng ranh phía Tây gồm đê hiện trạng và đất nông nghiệp ở tr. 14."
+    },
+    {
+      "id": "D14",
+      "passed": true,
+      "reason": "Đúng dải D300–600 mm của cống thoát nước thải tr. 144."
+    },
+    {
+      "id": "D15",
+      "passed": true,
+      "reason": "Đúng giới hạn 40% thuộc đoạn khu vực y tế tr. 99."
+    },
+    {
+      "id": "D16",
+      "passed": true,
+      "reason": "Biểu đồ tr. 18 chỉ tổng hợp dân số theo xã; từ chối đúng câu về nhóm tuổi."
+    },
+    {
+      "id": "D17",
+      "passed": true,
+      "reason": "Ảnh và chú thích Hình 3 tr. 14 không ghi ngày chụp."
+    },
+    {
+      "id": "D18",
+      "passed": true,
+      "reason": "Bảng 7.6-4 tr. 147 có khối lượng phát sinh, không có khối lượng riêng."
+    },
+    {
+      "id": "JD01",
+      "passed": true,
+      "reason": "Hình 6 tr. 55 xác định vùng đỏ là Khu A; hàng Khu A ở bảng tr. 134 ghi Ptt 116.607 kW."
+    },
+    {
+      "id": "JD02",
+      "passed": true,
+      "reason": "Hình 6 tr. 55 xác định vùng tím là Khu B; cột Stt của hàng Khu B ở tr. 134 ghi 78.586 kVA."
+    },
+    {
+      "id": "JD03",
+      "passed": true,
+      "reason": "Hình 6 tr. 55 xác định vùng trên cùng là Khu A; dòng CTR xây dựng thuộc nhóm Khu A ở tr. 147 là 22,0 tấn/ngày."
+    },
+    {
+      "id": "JD04",
+      "passed": true,
+      "reason": "Chú giải tr. 20 ánh xạ ô xanh lá nhạt sang Đất sản xuất nông nghiệp; tỷ lệ ở bảng hiện trạng tr. 19 là 50,89%."
+    }
+  ]
+}

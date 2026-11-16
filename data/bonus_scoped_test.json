@@ -1,0 +1,697 @@
+[
+  {
+    "id": "S01",
+    "split": "test",
+    "group": "table",
+    "question": "Bảng thống kê hiện trạng sử dụng đất ghi dòng Đất cơ quan, trụ sở có diện tích bao nhiêu ha?",
+    "expected_answer": "10,95 ha.",
+    "evidence": [
+      {
+        "page": 19,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          154.8,
+          549.8,
+          171.4
+        ],
+        "table": 1,
+        "rows": [
+          6,
+          6
+        ],
+        "source_detail": "TT: 12 | Hạng mục sử dụng đất: Đất cơ quan, trụ sở | Diện tích (ha): 10,95 | Tỷ lệ (%): 0,35"
+      }
+    ]
+  },
+  {
+    "id": "S02",
+    "split": "test",
+    "group": "table",
+    "question": "Trong bảng liệt kê công trình di tích, Chùa Phượng Trì có diện tích bao nhiêu m²?",
+    "expected_answer": "1.381 m².",
+    "evidence": [
+      {
+        "page": 24,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          95.1,
+          549.8,
+          112.0
+        ],
+        "table": 1,
+        "rows": [
+          3,
+          3
+        ],
+        "source_detail": "Stt: 22 | Công trình: Chùa Phượng Trì | Diện tích (m²): 1381"
+      }
+    ]
+  },
+  {
+    "id": "S03",
+    "split": "test",
+    "group": "table",
+    "question": "Bảng chỉ tiêu quy hoạch sử dụng đất ghi diện tích dòng Đất công cộng cấp đơn vị ở là bao nhiêu ha?",
+    "expected_answer": "66,21 ha.",
+    "evidence": [
+      {
+        "page": 89,
+        "kind": "table",
+        "bbox": [
+          48.4,
+          344.1,
+          786.9,
+          372.2
+        ],
+        "table": 1,
+        "rows": [
+          20,
+          20
+        ],
+        "source_detail": "TT: 1.2 | HẠNG MỤC SỬ DỤNG ĐẤT: Đất công cộng cấp đơn vị ở | DIỆN TÍCH (HA): 66,21"
+      }
+    ]
+  },
+  {
+    "id": "S04",
+    "split": "test",
+    "group": "table",
+    "question": "Trong bảng chỉ tiêu dùng nước, mức ở cột Đồ án kỳ này cho dòng Đất công cộng đô thị; hỗn hợp; đào tạo, nghiên cứu; trường THPT là bao nhiêu m³/ha/ngày đêm?",
+    "expected_answer": "40 m³/ha/ngày đêm.",
+    "evidence": [
+      {
+        "page": 117,
+        "kind": "table",
+        "bbox": [
+          51.2,
+          245.0,
+          790.7,
+          342.2
+        ],
+        "table": 1,
+        "rows": [
+          3,
+          3
+        ],
+        "source_detail": "TT: 2 | Đối tượng dùng nước: - Đất công cộng đô thị; hỗn hợp; đào tạo, nghiên cứu; trường THPT ... | ĐC QHC Thủ đô Hà Nội (QĐ số 1668/QĐ- TTg ngày 27/12/2024 ): 15% - 20% Qsh | Nhiệm vụ ( QĐ số 2304/QĐ- UBND ngày 07/05/2025): 40 M3/ha. ngày đêm | QCVN 01:2021/BXD: ≥ 2 lít/m2 sàn/ngày đêm) | Đồ án kỳ này: 40 M3/ha. ngày đêm"
+      }
+    ]
+  },
+  {
+    "id": "S05",
+    "split": "test",
+    "group": "table",
+    "question": "Trong bảng tổng hợp phụ tải điện, ô B4 có Ptt bao nhiêu kW?",
+    "expected_answer": "8.412 kW.",
+    "evidence": [
+      {
+        "page": 134,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          761.1,
+          549.8,
+          779.1
+        ],
+        "table": 2,
+        "rows": [
+          22,
+          22
+        ],
+        "source_detail": "TT: II.4 | Tên ô đất: B4 | Ptt (kW): 8412 | Stt (kVA): 9347"
+      }
+    ]
+  },
+  {
+    "id": "S06",
+    "split": "test",
+    "group": "table",
+    "question": "Bảng 7.6-4 ghi phần CTR công cộng thuộc Khu D có khối lượng bao nhiêu tấn/ngày?",
+    "expected_answer": "3,2 tấn/ngày.",
+    "evidence": [
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          458.1,
+          549.8,
+          478.0
+        ],
+        "table": 1,
+        "rows": [
+          18,
+          18
+        ],
+        "source_detail": "TT: 3 | Hạng mục: CTR công cộng | Khối lượng CTR (Tấn/ngày) 2045: 3,2"
+      }
+    ]
+  },
+  {
+    "id": "S07",
+    "split": "test",
+    "group": "image",
+    "question": "Trong số Thái Nguyên và Thái Bình, tỉnh nào có nhãn trên bản đồ Hình 1?",
+    "expected_answer": "Thái Nguyên.",
+    "evidence": [
+      {
+        "page": 12,
+        "kind": "image",
+        "bbox": [
+          85.6,
+          258.6,
+          526.3,
+          754
+        ],
+        "source_detail": "Hình 1. Vị trí và mối liên hệ vùng"
+      }
+    ]
+  },
+  {
+    "id": "S08",
+    "split": "test",
+    "group": "image",
+    "question": "Ở Hình 5, các mái nhà trong khu dân cư ở phía xa chủ yếu có màu gì?",
+    "expected_answer": "Màu đỏ.",
+    "evidence": [
+      {
+        "page": 22,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56,
+          544.3,
+          365.8
+        ],
+        "source_detail": "Hình 5. Hiện trạng cảnh quan khu vực lập quy hoạch"
+      }
+    ]
+  },
+  {
+    "id": "S09",
+    "split": "test",
+    "group": "image",
+    "question": "Theo Hình 6, vùng có chữ Khu D được tô màu gì?",
+    "expected_answer": "Xanh lam sáng.",
+    "evidence": [
+      {
+        "page": 55,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56.2,
+          549.7,
+          749.8
+        ],
+        "source_detail": "Hình 6. Sơ đồ phân chia các khu vực"
+      }
+    ]
+  },
+  {
+    "id": "S10",
+    "split": "test",
+    "group": "image",
+    "question": "Trong Hình 8, khối công trình ở dải ảnh dưới cao hơn hay thấp hơn các nhà ở trong dải ảnh trên?",
+    "expected_answer": "Cao hơn.",
+    "evidence": [
+      {
+        "page": 99,
+        "kind": "image",
+        "bbox": [
+          128.1,
+          56,
+          483.9,
+          350.1
+        ],
+        "source_detail": "Hình 8. Minh họa không gian nhóm nhà ở"
+      }
+    ]
+  },
+  {
+    "id": "S11",
+    "split": "test",
+    "group": "image",
+    "question": "Trong hàng Cây xanh trục đường của Hình 10, loài cây nào nằm ngay giữa bàng Đài Loan và bằng lăng tím?",
+    "expected_answer": "Sao đen.",
+    "evidence": [
+      {
+        "page": 103,
+        "kind": "image",
+        "bbox": [
+          77.3,
+          56.2,
+          524.9,
+          274.7
+        ],
+        "source_detail": "Hình 10. Minh họa giải pháp thiết kế và cây xanh đề xuất"
+      }
+    ]
+  },
+  {
+    "id": "S12",
+    "split": "test",
+    "group": "chart",
+    "question": "Theo biểu đồ hiện trạng dân số, Đan Phượng nhiều hơn Liên Minh bao nhiêu người?",
+    "expected_answer": "28.588 người (29.938 − 1.350).",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "S13",
+    "split": "test",
+    "group": "chart",
+    "question": "Cộng số người của Dương Hòa và Ô Diên theo biểu đồ hiện trạng dân số được bao nhiêu người?",
+    "expected_answer": "73.456 người (58.830 + 14.626).",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "S14",
+    "split": "test",
+    "group": "chart",
+    "question": "Vạch bắt đầu của trục tung biểu đồ hiện trạng dân số mang giá trị bao nhiêu người?",
+    "expected_answer": "0 người.",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "S15",
+    "split": "test",
+    "group": "chart",
+    "question": "Nếu đọc các cột của biểu đồ hiện trạng dân số từ trái sang phải, số dân được xếp theo chiều tăng dần hay giảm dần?",
+    "expected_answer": "Giảm dần.",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "S16",
+    "split": "test",
+    "group": "chart",
+    "question": "Biểu đồ hiện trạng dân số có cột của xã nào nằm giữa 1.000 và 2.000 người?",
+    "expected_answer": "Liên Minh (1.350 người).",
+    "evidence": [
+      {
+        "page": 18,
+        "kind": "chart",
+        "bbox": [
+          65.9,
+          226.1,
+          545.3,
+          408.1
+        ],
+        "source_detail": "Biểu đồ hiện trạng dân số"
+      }
+    ]
+  },
+  {
+    "id": "S17",
+    "split": "test",
+    "group": "multi",
+    "question": "Đọc minh họa và quy định về cây xanh. (1) Trong Hình 10, cọ Nhật và vạn tuế thuộc hàng cây xanh nào? (2) Mục Khu vực chức năng cây xanh, có được xây dựng công trình trong khu vực cây xanh chuyên dụng không?",
+    "expected_answer": "Hàng cây xanh trong công viên và vườn hoa. Không được xây dựng công trình trong khu vực cây xanh chuyên dụng.",
+    "evidence": [
+      {
+        "page": 103,
+        "kind": "image",
+        "bbox": [
+          77.3,
+          56.2,
+          524.9,
+          274.7
+        ],
+        "source_detail": "Hình 10. Minh họa giải pháp thiết kế và cây xanh đề xuất"
+      },
+      {
+        "page": 102,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          439.0,
+          547.9,
+          491.7
+        ],
+        "source_detail": "- Cây xanh chuyên dụng (cây xanh cách ly) nằm dọc tuyến đường sắt, các trục đường lớn (Hồ Tây – Ba Vì, quốc lộ 32…) và các khu nghĩa trang; Không xây dựng công trình trong khu vực cây xanh chuyên dụng;"
+      }
+    ]
+  },
+  {
+    "id": "S18",
+    "split": "test",
+    "group": "multi",
+    "question": "Đọc minh họa và yêu cầu đối với khu cơ quan. (1) Hình 9 có phối cảnh không gian sân ngoài trời hay chỉ có nội thất? (2) Mục Khu vực cơ quan, trụ sở, quy định tầng cao tối đa là mấy tầng?",
+    "expected_answer": "Có không gian sân ngoài trời. Tối đa 5 tầng.",
+    "evidence": [
+      {
+        "page": 102,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56.1,
+          544.5,
+          308.1
+        ],
+        "source_detail": "Hình 9. Minh họa công trình dịch vụ công cộng, hành chính, giáo dục, y tế"
+      },
+      {
+        "page": 101,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          281.6,
+          547.3,
+          353.2
+        ],
+        "source_detail": "g. Khu vực cơ quan, trụ sở - Khu vực chức năng cơ quan, trụ sở bao gồm các công trình cơ quan hành chính, trụ sở làm việc. Công trình có tầng cao tối đa 5 tầng, mật độ xây dựng gộp tối đa 40 %."
+      }
+    ]
+  },
+  {
+    "id": "S19",
+    "split": "test",
+    "group": "multi",
+    "question": "Đọc sơ đồ và giải pháp nước thải. (1) Trong Hình 13, có bao nhiêu lưu vực được ghi nhãn? (2) Theo giải pháp thoát nước thải, nước thải công nghiệp được thu gom và xử lý theo hệ thống chung hay hệ thống riêng?",
+    "expected_answer": "Hai lưu vực. Nước thải công nghiệp được xử lý theo hệ thống riêng.",
+    "evidence": [
+      {
+        "page": 144,
+        "kind": "image",
+        "bbox": [
+          241.1,
+          214,
+          370.8,
+          531
+        ],
+        "source_detail": "Hình 13. Sơ đồ các lưu vực thoát nước thải chính"
+      },
+      {
+        "page": 145,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          350.7,
+          547.9,
+          387.4
+        ],
+        "source_detail": "- Nước thải công nghiệp được thu gom và xử lý theo các hệ thống riêng, xử lý đến giới hạn cho phép theo QCVN 40:2025/BTNMT."
+      }
+    ]
+  },
+  {
+    "id": "S20",
+    "split": "test",
+    "group": "multi",
+    "question": "Đối chiếu vị trí và quy mô nghiên cứu. (1) Trong Hình 2, dải nghiên cứu ở bên trái hay bên phải cụm ô phố dày đặc? (2) Trong phần mô tả quy mô kế tiếp đoạn ranh giới phía Nam, tổng diện tích nghiên cứu lập quy hoạch được nêu khoảng bao nhiêu ha?",
+    "expected_answer": "Bên trái. Khoảng 3.086 ha.",
+    "evidence": [
+      {
+        "page": 13,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          62.1,
+          565.7,
+          627.6
+        ],
+        "source_detail": "Hình 2. Khu vực lập quy hoạch trong Điều chỉnh QHC thủ đô Hà Nội"
+      },
+      {
+        "page": 14,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          656.1,
+          547.9,
+          779.9
+        ],
+        "source_detail": "b. Quy mô - Khu vực nghiên cứu lập quy hoạch có tổng diện tích khoảng 3.086 ha. - Dân số: Dự kiến khoảng 200.000 người c. Tính chất Khu vực nghiên cứu quy hoạch nằm trong khu vực phát triển đô thị mở rộng ra khu vực phía Tây và Nam, có tính chất là trung tâm hỗ trợ khu vực nội đô về nhà ở, dịch vụ thương mại, kinh tế, văn hóa, lịch sử, dịch vụ, y tế, đào tạo chất lượng cao."
+      }
+    ]
+  },
+  {
+    "id": "S21",
+    "split": "test",
+    "group": "text",
+    "question": "Trong phần đề xuất bố trí trạm điện thoại công cộng, mỗi trạm cách nhau từ bao nhiêu đến bao nhiêu mét?",
+    "expected_answer": "200–250 m.",
+    "evidence": [
+      {
+        "page": 106,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          74.7,
+          547.3,
+          108.9
+        ],
+        "source_detail": "- Trạm điện thoại công cộng: dự kiến bố trí dọc theo đường giao thông chính, gần khu dịch vụ công cộng, thương mại dịch vụ, mỗi trạm cách nhau từ 200 – 250m."
+      }
+    ]
+  },
+  {
+    "id": "S22",
+    "split": "test",
+    "group": "text",
+    "question": "Theo hiện trạng giao thông, mặt cắt ngang phổ biến của các tuyến đường thôn xóm là bao nhiêu mét?",
+    "expected_answer": "4–6 m.",
+    "evidence": [
+      {
+        "page": 25,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          455.5,
+          547.2,
+          503.4
+        ],
+        "source_detail": "- Các tuyến đường thôn xóm hiện trạng phân bố tương đối đồng đều kết nối các khu dân cư với các tuyến đường chính, tuy nhiên quy mô các tuyến còn nhỏ, hẹp. Mặt cắt ngang phổ biến từ 4-6m, với cấp phối bê tông xi măng hoặc đá dăm"
+      }
+    ]
+  },
+  {
+    "id": "S23",
+    "split": "test",
+    "group": "text",
+    "question": "Mục Khu vực chức năng cây xanh, công trình trong khu cây xanh sử dụng công cộng được phép cao tối đa mấy tầng?",
+    "expected_answer": "1 tầng.",
+    "evidence": [
+      {
+        "page": 102,
+        "kind": "text",
+        "bbox": [
+          67.7,
+          383.5,
+          547.7,
+          436.2
+        ],
+        "source_detail": "- Cây xanh sử dụng công cộng (bao gồm cấp đô thị và đơn vị ở) nằm ở trung tâm các nhóm ở, đơn vị ở có mật độ xây dựng gộp tối đa 5 %, công trình có tầng cao tối đa 1 tầng, khoảng lùi xây dựng so với chỉ giới đường đỏ tối thiểu từ 3-6m;"
+      }
+    ]
+  },
+  {
+    "id": "S24",
+    "split": "test",
+    "group": "text",
+    "question": "Trong giải pháp tính toán thủy lực cho mạng nước thải, ống nhựa có hệ số nhám Manning n bằng bao nhiêu?",
+    "expected_answer": "0,011.",
+    "evidence": [
+      {
+        "page": 145,
+        "kind": "text",
+        "bbox": [
+          117.4,
+          610.1,
+          410.4,
+          625.7
+        ],
+        "source_detail": "+ n: Hệ số nhám Manning (n=0,011 với ống nhựa)."
+      }
+    ]
+  },
+  {
+    "id": "S25",
+    "split": "test",
+    "group": "missing",
+    "question": "Trong bảng tổng hợp phụ tải điện, hãng sản xuất của thiết bị cấp điện cho ô B4 được ghi là hãng nào?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Bảng có tên ô đất và hai đại lượng công suất; không ghi hãng sản xuất thiết bị.",
+    "checked_regions": [
+      {
+        "page": 134,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          761.1,
+          549.8,
+          779.1
+        ],
+        "table": 2,
+        "rows": [
+          22,
+          22
+        ],
+        "source_detail": "TT: II.4 | Tên ô đất: B4 | Ptt (kW): 8412 | Stt (kVA): 9347"
+      }
+    ]
+  },
+  {
+    "id": "S26",
+    "split": "test",
+    "group": "missing",
+    "question": "Trong bảng liệt kê công trình di tích, Chùa Phượng Trì có sức chứa tối đa bao nhiêu người?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Bảng ghi tên công trình và diện tích, không có sức chứa.",
+    "checked_regions": [
+      {
+        "page": 24,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          95.1,
+          549.8,
+          112.0
+        ],
+        "table": 1,
+        "rows": [
+          3,
+          3
+        ],
+        "source_detail": "Stt: 22 | Công trình: Chùa Phượng Trì | Diện tích (m²): 1381"
+      }
+    ]
+  },
+  {
+    "id": "S27",
+    "split": "test",
+    "group": "missing",
+    "question": "Hình 10 ghi chiều cao trưởng thành của cây bàng Đài Loan là bao nhiêu mét?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Hình liệt kê tên cây, không nêu chiều cao trưởng thành.",
+    "checked_regions": [
+      {
+        "page": 103,
+        "kind": "image",
+        "bbox": [
+          77.3,
+          56.2,
+          524.9,
+          274.7
+        ],
+        "source_detail": "Hình 10. Minh họa giải pháp thiết kế và cây xanh đề xuất"
+      }
+    ]
+  },
+  {
+    "id": "S28",
+    "split": "test",
+    "group": "missing",
+    "question": "Hình 12 ghi ngày lắp đặt thực tế của bốt điện thoại minh họa là ngày nào?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Hình minh họa các tiện ích, không ghi ngày lắp đặt.",
+    "checked_regions": [
+      {
+        "page": 106,
+        "kind": "image",
+        "bbox": [
+          66.8,
+          111.6,
+          546.7,
+          401.8
+        ],
+        "source_detail": "Hình 12. Các tiện ích đô thị"
+      }
+    ]
+  },
+  {
+    "id": "S29",
+    "split": "test",
+    "group": "missing",
+    "question": "Trong bảng 7.6-4, giá bán mỗi tấn chất thải rắn có thể tái chế được ghi là bao nhiêu đồng?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Bảng dự báo lượng phát sinh, không có giá bán vật liệu tái chế.",
+    "checked_regions": [
+      {
+        "page": 147,
+        "kind": "table",
+        "bbox": [
+          62.3,
+          458.1,
+          549.8,
+          478.0
+        ],
+        "table": 1,
+        "rows": [
+          18,
+          18
+        ],
+        "source_detail": "TT: 3 | Hạng mục: CTR công cộng | Khối lượng CTR (Tấn/ngày) 2045: 3,2"
+      }
+    ]
+  },
+  {
+    "id": "S30",
+    "split": "test",
+    "group": "missing",
+    "question": "Chú giải trong Hình 9 ghi số người tối đa có thể sử dụng sân ngoài trời minh họa là bao nhiêu?",
+    "expected_behavior": "abstain",
+    "absence_reason": "Hình chỉ minh họa không gian công cộng, không ghi sức chứa hoặc số người tối đa.",
+    "checked_regions": [
+      {
+        "page": 102,
+        "kind": "image",
+        "bbox": [
+          67.7,
+          56.1,
+          544.5,
+          308.1
+        ],
+        "source_detail": "Hình 9. Minh họa công trình dịch vụ công cộng, hành chính, giáo dục, y tế"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "pdf_sha256": "3f34ce114dd553421e4a5c9d44c8baa39a8608afd2067c79dcb731a8f8c459fe",
+  "model_sha256": "85e4a5b7b8ef0e48af0e8658f5aaab9c2324c76c1641493f4d1e25fce54b18b9",
+  "embedding_sha256": "dd476dd0c2514e9b9be83aeb3853fac0763e0bdf4a71645407587d77c48a2d88",
+  "index_sha256": "f96681f83bceaea251d7dd040704ceafed1eabc45218641676f218b94bc77ea4",
+  "chunks_sha256": "e1bbf327dc21141c3f2a59d7c2510dde379d1f0408e8cc4f7c7cb8c08cd3c5d8",
+  "inputs": {
+    "bonus/benchmark.py": "4d1ee6cc3a28c55d9ebac36e7993de71b38058ec269ec0d6a501f0b5aa41e3bf",
+    "bonus/index.py": "c6ea99c907d06519e758c38acf7e443c7dce6c4d7c9372a06fc83b0148fb9b30",
+    "bonus/ingest.py": "52abefb654887c3f69b480b290582945f24b6f35c4da4d696da4238639b490c2",
+    "data/bonus_dev.json": "365eafae5c9ca5fe9745bc278644f10f45f87c656984b08dfdfa1212e0dd655a",
+    "data/bonus_test.json": "f443f6caca6fbeb16748a49c1eb886901bf1a31bd5d52b3c783595716f5703bb",
+    "data/bonus_visuals.json": "b8fcd684bc6b41c58c30caaa51c397cf8f5aa4efd536f3756b8185ed191f2dee"
+  },
+  "configs": {
+    "hybrid": {
+      "routed": false,
+      "top_k": 3,
+      "budget": 2150
+    },
+    "routed": {
+      "routed": true,
+      "top_k": 3,
+      "budget": 2400
+    }
+  },
+  "runtime": "llama.cpp b8259 Vulkan local, qwen3-4b-instruct-2507-q4_k_m",
+  "verified_code_sha256": "a85feb4eca680ca2c38914c6730c51412e567f4efd1f34540811d44a7f794c92",
+  "server_sha256": "4335a05b0effbe2387157e24354eb4bc1fbd8caff9fb72e20e76f4a38b81c567",
+  "context_length": 8192,
+  "refined_code_sha256": "a1ec7f8c44482303f757daf71e291484f1d3aa128ff41d77d7adfe7c6ad0d726",
+  "refined_test_sha256": "6eb22b725e0861eb4045321036b82479f9c416cb1f93084f8496cc1e65fb27d6",
+  "scoped_source_sha256": "b4efbfa98c16b63ce008407f31eedbef757793d32af4032b23f9748d4331a8a7",
+  "earlier_test_sha256": "ad24504d8556f40cedf4aff130833eedba31a20bb0a4c6cbc46b85d2b27aa313",
+  "scoped_test_sha256": "81ca840545610fec3e4b5b7718b9402555810d803c9a4425dc0bfbc60073082e",
+  "passage_source_sha256": "81d9132c510849fe349a4fa6f67eb587f497e896ff6fc885bbc8ef1827226320",
+  "passage_test_sha256": "0a0f2a317a27ed23de0644846abd787b83a5b7044b10bafe5554a2d19f7b0eea"
+}

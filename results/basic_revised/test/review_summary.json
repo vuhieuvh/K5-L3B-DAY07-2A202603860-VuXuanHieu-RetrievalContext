@@ -1,0 +1,164 @@
+{
+  "dense": {
+    "cases": 7,
+    "provider_errors": 0,
+    "tool_use": {
+      "n": 7,
+      "N": 7
+    },
+    "grounded_answer": {
+      "0": 0,
+      "1": 0,
+      "2": 5,
+      "N": 5,
+      "mean": 2.0
+    },
+    "citation_validity": {
+      "n": 5,
+      "N": 5
+    },
+    "answer_citation_coverage": {
+      "n": 5,
+      "N": 5
+    },
+    "abstention": {
+      "n": 2,
+      "N": 2
+    },
+    "false_abstention": {
+      "n": 0,
+      "N": 5
+    },
+    "context_grades": {
+      "0": 0,
+      "1": 0,
+      "2": 5
+    },
+    "measured": {
+      "cases": 7,
+      "hit1": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "hit3": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "first_pack_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "context_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "median_original_retrieval_ms": 58.47429999994347,
+      "median_agent_ms": 8118.072299999994,
+      "total_agent_ms": 60059.43500000034,
+      "search_count_distribution": {
+        "1": 7
+      },
+      "agent_errors": 0,
+      "prompt_tokens": 5249,
+      "completion_tokens": 223,
+      "config": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2,
+        "grounded": false
+      },
+      "service_cost_usd": 0,
+      "original_query_errors": 0
+    },
+    "binding": {
+      "trace_sha256": "b5a48209356281e62e3c6f25a6ba2f1a25cd16f945835c46a25d836312fdf6de",
+      "review_sha256": "a70617ef72c9c03ad8be5e49b7307500fcc8667c7bd5034413125a49173c36cc"
+    }
+  },
+  "clause_grounded": {
+    "cases": 7,
+    "provider_errors": 0,
+    "tool_use": {
+      "n": 7,
+      "N": 7
+    },
+    "grounded_answer": {
+      "0": 0,
+      "1": 0,
+      "2": 5,
+      "N": 5,
+      "mean": 2.0
+    },
+    "citation_validity": {
+      "n": 5,
+      "N": 5
+    },
+    "answer_citation_coverage": {
+      "n": 5,
+      "N": 5
+    },
+    "abstention": {
+      "n": 2,
+      "N": 2
+    },
+    "false_abstention": {
+      "n": 0,
+      "N": 5
+    },
+    "context_grades": {
+      "0": 0,
+      "1": 0,
+      "2": 5
+    },
+    "measured": {
+      "cases": 7,
+      "hit1": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "hit3": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "first_pack_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "context_evidence_rate": {
+        "n": 5,
+        "N": 5,
+        "rate": 1.0
+      },
+      "median_original_retrieval_ms": 60.96209999986968,
+      "median_agent_ms": 10351.8696000001,
+      "total_agent_ms": 65966.5060000002,
+      "search_count_distribution": {
+        "1": 7
+      },
+      "agent_errors": 0,
+      "prompt_tokens": 4894,
+      "completion_tokens": 371,
+      "config": {
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 2500,
+        "max_searches": 2,
+        "grounded": true
+      },
+      "service_cost_usd": 0,
+      "original_query_errors": 0
+    },
+    "binding": {
+      "trace_sha256": "fd36d0a13a1f1dfce9b1f0c170e0f5ebf6d071e5178dfd7a8569a0c93891d065",
+      "review_sha256": "04d23ea9d766e10d7991805d208e58ecb2fa0884b163a48ba75b62807ef2fed3"
+    }
+  }
+}

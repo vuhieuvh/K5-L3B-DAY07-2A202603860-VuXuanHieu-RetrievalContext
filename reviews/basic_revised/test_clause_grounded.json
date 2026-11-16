@@ -1,0 +1,62 @@
+{
+  "trace_sha256": "fd36d0a13a1f1dfce9b1f0c170e0f5ebf6d071e5178dfd7a8569a0c93891d065",
+  "reviews": [
+    {
+      "query_id": "R01",
+      "context_grade": 2,
+      "answer_grade": 2,
+      "citation_support": [
+        true
+      ],
+      "reason": "Khoản 1 Điều 39 tr. 40 trực tiếp nêu ít nhất 3 thành viên trong hội đồng chuyên môn khi đánh giá trực tuyến."
+    },
+    {
+      "query_id": "R02",
+      "context_grade": 2,
+      "answer_grade": 2,
+      "citation_support": [
+        true
+      ],
+      "reason": "Khoản 2 Điều 39 tr. 41 nêu công bố công khai chậm nhất một tuần sau khi hội đồng chấm hoàn thành nhiệm vụ."
+    },
+    {
+      "query_id": "R03",
+      "context_grade": 2,
+      "answer_grade": 2,
+      "citation_support": [
+        true
+      ],
+      "reason": "Điểm a khoản 2 Điều 32 tr. 31 đặt 0,15 điểm cho giải nhì cấp ĐHQGHN/cấp Bộ, đúng cấp và đơn vị."
+    },
+    {
+      "query_id": "R04",
+      "context_grade": 2,
+      "answer_grade": 2,
+      "citation_support": [
+        true
+      ],
+      "reason": "Khoản 6 Điều 38 tr. 39 ghi 15 ngày làm việc kể từ ngày tổ chức thi kết thúc học phần."
+    },
+    {
+      "query_id": "R05",
+      "context_grade": 2,
+      "answer_grade": 2,
+      "citation_support": [
+        true
+      ],
+      "reason": "Khoản 3 Điều 38 tr. 39 ghi lịch thi phụ báo trước ít nhất một tuần; mốc một tháng là của kỳ chính."
+    },
+    {
+      "query_id": "R06",
+      "abstention_correct": true,
+      "citation_support": [],
+      "reason": "Đã tìm và từ chối đúng. Điều 40 tr. 41–42 nói về kỷ luật, không có mức thù lao một giờ coi thi."
+    },
+    {
+      "query_id": "R07",
+      "abstention_correct": true,
+      "citation_support": [],
+      "reason": "Đã tìm và từ chối đúng. Khoản 2 Điều 39 tr. 41 quy định công bố điểm, không cung cấp số điện thoại nhận điểm."
+    }
+  ]
+}
